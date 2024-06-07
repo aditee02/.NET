@@ -1,0 +1,7 @@
+C:\vs code\C#\CovarienceExample\CovarienceExample\bin\Debug\CovarienceExample.exe.config
+C:\vs code\C#\CovarienceExample\CovarienceExample\bin\Debug\CovarienceExample.exe
+C:\vs code\C#\CovarienceExample\CovarienceExample\bin\Debug\CovarienceExample.pdb
+C:\vs code\C#\CovarienceExample\CovarienceExample\obj\Debug\CovarienceExample.csproj.AssemblyReference.cache
+C:\vs code\C#\CovarienceExample\CovarienceExample\obj\Debug\CovarienceExample.csproj.CoreCompileInputs.cache
+C:\vs code\C#\CovarienceExample\CovarienceExample\obj\Debug\CovarienceExample.exe
+C:\vs code\C#\CovarienceExample\CovarienceExample\obj\Debug\CovarienceExample.pdb

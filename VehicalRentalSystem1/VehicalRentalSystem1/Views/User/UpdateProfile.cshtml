@@ -1,0 +1,199 @@
+﻿@model User
+
+
+@{
+    ViewData["Title"] = "Update Profile";
+}
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Slide Bar with Drawer Icon</title>
+    <style>
+        body {
+            background-color: #f8f9fa;
+            font-family: Arial, sans-serif;
+        }
+
+        .container {
+            margin-top: 50px;
+        }
+
+        h1 {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .form-group {
+            margin-bottom: 20px;
+        }
+
+        .btn-primary {
+            width: 100%;
+        }
+
+        .login-link {
+            display: block;
+            text-align: center;
+            margin-top: 20px;
+            color: #007bff;
+        }
+
+            .login-link:hover {
+                text-decoration: none;
+                color: #0056b3;
+            }
+
+        .navbar {
+            background-color: #f8f9fa;
+            padding: 10px 20px;
+            box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        .slide-bar {
+            width: 250px;
+            height: 100%;
+            position: fixed;
+            top: 0;
+            left: -250px;
+            background-color: #333;
+            transition: left 0.3s ease;
+            z-index: 1000;
+            padding-top: 90px;
+            color: white;
+        }
+
+            .slide-bar a {
+                display: block;
+                padding: 10px 20px;
+                text-decoration: none;
+                color: white;
+                transition: background-color 0.3s ease;
+            }
+
+                .slide-bar a:hover {
+                    background-color: #555;
+                }
+
+        .drawer-icon {
+            position: fixed;
+            top: 70px;
+            left: 20px;
+            z-index: 2000;
+            cursor: pointer;
+        }
+
+            .drawer-icon span {
+                display: block;
+                width: 30px;
+                height: 3px;
+                background-color: grey;
+                margin-bottom: 5px;
+                transition: transform 0.3s ease;
+            }
+
+            .drawer-icon.open span:nth-child(1) {
+                transform: rotate(-45deg) translate(-5px, 6px);
+            }
+
+            .drawer-icon.open span:nth-child(2) {
+                opacity: 0;
+            }
+
+            .drawer-icon.open span:nth-child(3) {
+                transform: rotate(45deg) translate(-5px, -6px);
+            }
+
+    </style>
+</head>
+
+<body>
+
+    <div class="drawer-icon" onclick="toggleSlideBar()">
+        <span></span>
+        <span></span>
+        <span></span>
+    </div>
+    <div class="slide-bar" id="slideBar">
+        <a href="/User/Dashboard">Explore</a>
+        <a href="/User/MyTrips">My Trips</a>
+        <a href="/User/RentEarn">Rent and Earn</a>
+        <a href="/User/Profile">Profile</a>
+    </div>
+
+
+    <img class="profile-image" src="@Model.GovermentDoc" alt="User Profile Image" />
+    <form asp-action="UpdateProfile" method="post">
+        <input type="hidden" name="x" value="@Model.GovermentDoc" />
+        <input type="hidden" name="y" value="@Model.Password1" />
+        <input type="hidden" name="z" value="@Model.UserId" />
+
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        @* <input type="hidden" asp-for="GovermentDoc" value="@Model.GovermentDoc" /> *@
+        
+        <div class="form-group">
+            <label asp-for="Name" class="control-label"></label>
+            <input asp-for="Name" class="form-control" />
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Email" class="control-label"></label>
+            <input asp-for="Email" class="form-control" />
+            <span asp-validation-for="Email" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Age" class="control-label"></label>
+            <input asp-for="Age" class="form-control" />
+            <span asp-validation-for="Age" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="PhoneNo" class="control-label"></label>
+            <input asp-for="PhoneNo" class="form-control" />
+            <span asp-validation-for="PhoneNo" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Address" class="control-label"></label>
+            <input asp-for="Address" class="form-control" />
+            <span asp-validation-for="Address" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Username" class="control-label"></label>
+            <input asp-for="Username" class="form-control" />
+            <span asp-validation-for="Username" class="text-danger"></span>
+        </div>
+        
+        <div class="form-group">
+            <input type="submit" value="Save" class="btn btn-primary" />
+        </div>
+    </form>
+
+    <div>
+        <a asp-action="Profile">Back to List</a>
+    </div>
+
+    @section Scripts {
+        @{
+            await Html.RenderPartialAsync("_ValidationScriptsPartial");
+        }
+    }
+    <script>
+        function toggleSlideBar() {
+            var slideBar = document.getElementById('slideBar');
+            var drawerIcon = document.querySelector('.drawer-icon');
+            slideBar.style.left = slideBar.style.left === '0px' ? '-250px' : '0px';
+            drawerIcon.classList.toggle('open');
+        }
+
+    </script>
+    <script src="https://ajax.aspnetcdn.com/ajax/jquery/jquery-3.5.1.min.js"></script>
+    <script src="https://ajax.aspnetcdn.com/ajax/jquery.validate/1.19.2/jquery.validate.min.js"></script>
+    <script src="https://ajax.aspnetcdn.com/ajax/jquery.validate.unobtrusive/3.2.12/jquery.validate.unobtrusive.min.js"></script>
+
+</body>
+
+</html>

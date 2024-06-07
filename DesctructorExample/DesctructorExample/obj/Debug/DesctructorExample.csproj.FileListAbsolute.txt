@@ -1,0 +1,10 @@
+C:\vs code\C#\DesctructorExample\DesctructorExample\bin\Debug\DesctructorExample.exe.config
+C:\vs code\C#\DesctructorExample\DesctructorExample\bin\Debug\DesctructorExample.exe
+C:\vs code\C#\DesctructorExample\DesctructorExample\bin\Debug\DesctructorExample.pdb
+C:\vs code\C#\DesctructorExample\DesctructorExample\bin\Debug\ClassLibrary1.dll
+C:\vs code\C#\DesctructorExample\DesctructorExample\bin\Debug\ClassLibrary1.pdb
+C:\vs code\C#\DesctructorExample\DesctructorExample\obj\Debug\DesctructorExample.csproj.AssemblyReference.cache
+C:\vs code\C#\DesctructorExample\DesctructorExample\obj\Debug\DesctructorExample.csproj.CoreCompileInputs.cache
+C:\vs code\C#\DesctructorExample\DesctructorExample\obj\Debug\Desctruc.B7B3AC59.Up2Date
+C:\vs code\C#\DesctructorExample\DesctructorExample\obj\Debug\DesctructorExample.exe
+C:\vs code\C#\DesctructorExample\DesctructorExample\obj\Debug\DesctructorExample.pdb

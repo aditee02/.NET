@@ -1,0 +1,15 @@
+C:\vs code\C#\ThreadApp2\ThreadApp2\bin\Debug\net8.0\ThreadApp2.exe
+C:\vs code\C#\ThreadApp2\ThreadApp2\bin\Debug\net8.0\ThreadApp2.deps.json
+C:\vs code\C#\ThreadApp2\ThreadApp2\bin\Debug\net8.0\ThreadApp2.runtimeconfig.json
+C:\vs code\C#\ThreadApp2\ThreadApp2\bin\Debug\net8.0\ThreadApp2.dll
+C:\vs code\C#\ThreadApp2\ThreadApp2\bin\Debug\net8.0\ThreadApp2.pdb
+C:\vs code\C#\ThreadApp2\ThreadApp2\obj\Debug\net8.0\ThreadApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\vs code\C#\ThreadApp2\ThreadApp2\obj\Debug\net8.0\ThreadApp2.AssemblyInfoInputs.cache
+C:\vs code\C#\ThreadApp2\ThreadApp2\obj\Debug\net8.0\ThreadApp2.AssemblyInfo.cs
+C:\vs code\C#\ThreadApp2\ThreadApp2\obj\Debug\net8.0\ThreadApp2.csproj.CoreCompileInputs.cache
+C:\vs code\C#\ThreadApp2\ThreadApp2\obj\Debug\net8.0\ThreadApp2.sourcelink.json
+C:\vs code\C#\ThreadApp2\ThreadApp2\obj\Debug\net8.0\ThreadApp2.dll
+C:\vs code\C#\ThreadApp2\ThreadApp2\obj\Debug\net8.0\refint\ThreadApp2.dll
+C:\vs code\C#\ThreadApp2\ThreadApp2\obj\Debug\net8.0\ThreadApp2.pdb
+C:\vs code\C#\ThreadApp2\ThreadApp2\obj\Debug\net8.0\ThreadApp2.genruntimeconfig.cache
+C:\vs code\C#\ThreadApp2\ThreadApp2\obj\Debug\net8.0\ref\ThreadApp2.dll

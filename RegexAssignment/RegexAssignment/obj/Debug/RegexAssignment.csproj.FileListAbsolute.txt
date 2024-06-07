@@ -1,0 +1,7 @@
+C:\vs code\C#\RegexAssignment\RegexAssignment\bin\Debug\RegexAssignment.exe.config
+C:\vs code\C#\RegexAssignment\RegexAssignment\bin\Debug\RegexAssignment.exe
+C:\vs code\C#\RegexAssignment\RegexAssignment\bin\Debug\RegexAssignment.pdb
+C:\vs code\C#\RegexAssignment\RegexAssignment\obj\Debug\RegexAssignment.csproj.AssemblyReference.cache
+C:\vs code\C#\RegexAssignment\RegexAssignment\obj\Debug\RegexAssignment.csproj.CoreCompileInputs.cache
+C:\vs code\C#\RegexAssignment\RegexAssignment\obj\Debug\RegexAssignment.exe
+C:\vs code\C#\RegexAssignment\RegexAssignment\obj\Debug\RegexAssignment.pdb

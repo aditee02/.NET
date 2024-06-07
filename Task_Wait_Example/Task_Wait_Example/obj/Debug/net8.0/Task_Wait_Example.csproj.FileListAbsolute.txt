@@ -1,0 +1,15 @@
+C:\vs code\C#\Task_Wait_Example\Task_Wait_Example\bin\Debug\net8.0\Task_Wait_Example.exe
+C:\vs code\C#\Task_Wait_Example\Task_Wait_Example\bin\Debug\net8.0\Task_Wait_Example.deps.json
+C:\vs code\C#\Task_Wait_Example\Task_Wait_Example\bin\Debug\net8.0\Task_Wait_Example.runtimeconfig.json
+C:\vs code\C#\Task_Wait_Example\Task_Wait_Example\bin\Debug\net8.0\Task_Wait_Example.dll
+C:\vs code\C#\Task_Wait_Example\Task_Wait_Example\bin\Debug\net8.0\Task_Wait_Example.pdb
+C:\vs code\C#\Task_Wait_Example\Task_Wait_Example\obj\Debug\net8.0\Task_Wait_Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\vs code\C#\Task_Wait_Example\Task_Wait_Example\obj\Debug\net8.0\Task_Wait_Example.AssemblyInfoInputs.cache
+C:\vs code\C#\Task_Wait_Example\Task_Wait_Example\obj\Debug\net8.0\Task_Wait_Example.AssemblyInfo.cs
+C:\vs code\C#\Task_Wait_Example\Task_Wait_Example\obj\Debug\net8.0\Task_Wait_Example.csproj.CoreCompileInputs.cache
+C:\vs code\C#\Task_Wait_Example\Task_Wait_Example\obj\Debug\net8.0\Task_Wait_Example.sourcelink.json
+C:\vs code\C#\Task_Wait_Example\Task_Wait_Example\obj\Debug\net8.0\Task_Wait_Example.dll
+C:\vs code\C#\Task_Wait_Example\Task_Wait_Example\obj\Debug\net8.0\refint\Task_Wait_Example.dll
+C:\vs code\C#\Task_Wait_Example\Task_Wait_Example\obj\Debug\net8.0\Task_Wait_Example.pdb
+C:\vs code\C#\Task_Wait_Example\Task_Wait_Example\obj\Debug\net8.0\Task_Wait_Example.genruntimeconfig.cache
+C:\vs code\C#\Task_Wait_Example\Task_Wait_Example\obj\Debug\net8.0\ref\Task_Wait_Example.dll

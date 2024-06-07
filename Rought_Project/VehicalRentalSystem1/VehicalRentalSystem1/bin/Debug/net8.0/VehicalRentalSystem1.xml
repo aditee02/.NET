@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>VehicalRentalSystem1</name>
+    </assembly>
+    <members>
+        <member name="T:VehicalRentalSystem1.Migrations.FilePath">
+            <inheritdoc />
+        </member>
+        <member name="M:VehicalRentalSystem1.Migrations.FilePath.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:VehicalRentalSystem1.Migrations.FilePath.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:VehicalRentalSystem1.Migrations.FilePath.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:VehicalRentalSystem1.Migrations.FilePath1">
+            <inheritdoc />
+        </member>
+        <member name="M:VehicalRentalSystem1.Migrations.FilePath1.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:VehicalRentalSystem1.Migrations.FilePath1.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:VehicalRentalSystem1.Migrations.FilePath1.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>

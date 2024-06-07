@@ -1,0 +1,190 @@
+﻿
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Slide Bar with Drawer Icon</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+
+        }
+
+        .navbar {
+            background-color: #343a40;
+            padding: 10px 20px;
+            color: white;
+            box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+            .navbar h1 {
+                margin: 0;
+                font-size: 24px;
+            }
+
+        .slide-bar {
+            width: 250px;
+            height: 100%;
+            position: fixed;
+            top: 0;
+            left: -250px;
+            background-color: #495057;
+            transition: left 0.3s ease;
+            z-index: 1000;
+            padding-top: 125px;
+            color: white;
+        }
+
+            .slide-bar a {
+                display: block;
+                padding: 15px 20px;
+                text-decoration: none;
+                color: white;
+                transition: background-color 0.3s ease;
+            }
+
+                .slide-bar a:hover {
+                    background-color: #6c757d;
+                }
+
+        .drawer-icon {
+            position: absolute;
+            top: 90px;
+            left: 20px;
+            z-index: 2000;
+            cursor: pointer;
+        }
+
+            .drawer-icon span {
+                display: block;
+                width: 30px;
+                height: 3px;
+                background-color: grey;
+                margin-bottom: 5px;
+                transition: transform 0.3s ease;
+            }
+
+            .drawer-icon.open span:nth-child(1) {
+                transform: rotate(-45deg) translate(-5px, 6px);
+            }
+
+            .drawer-icon.open span:nth-child(2) {
+                opacity: 0;
+            }
+
+            
+            .drawer-icon.open span:nth-child(3) {
+                transform: rotate(45deg) translate(-5px, -6px);
+            }
+
+
+        .container {
+            flex: 1; 
+            display: flex;
+            align-items: center; 
+            justify-content: space-between;
+            padding: 50px;
+        }
+
+        .image {
+            width: 40%;
+            max-width: 500px;
+        }
+
+            .image img {
+                width: 100%;
+                height: auto;
+            }
+
+        .content {
+            width: 50%;
+            max-width: 600px; 
+            text-align: left; 
+        }
+
+            .content h1 {
+                font-size: 3rem;
+                margin-bottom: 20px;
+                color: #333; 
+            }
+
+            .content p {
+                font-size: 1.1rem;
+                line-height: 1.5;
+                margin-bottom: 30px;
+                color: #666;
+            }
+
+            .content .btn {
+                display: inline-block;
+                padding: 15px 30px;
+                background-color: #007bff;
+                color: #fff;
+                text-decoration: none;
+                border-radius: 5px;
+                transition: background-color 0.3s;
+            }
+
+                .content .btn:hover {
+                    background-color: #0056b3;
+                }
+    </style>
+</head>
+
+<body>
+
+   
+  
+    <div class="drawer-icon" onclick="toggleSlideBar()">
+        <span></span>
+        <span></span>
+        <span></span>
+    </div>
+    <div class="slide-bar" id="slideBar">
+        <a href="/User/Dashboard">Explore</a>
+        <a href="/User/MyTrips">My Trips</a>
+        <a href="/User/RentEarn">Rent and Earn</a>
+        <a href="/User/Profile">Profile</a>
+       
+    </div>
+    <div class="container">
+       <div class="image">
+            <img src="~/best-car-rental-app-banner.png" alt="Car showcasing speed and freedom">
+        </div>
+        <div class="content">
+           <h1> <pre>Explore More, 
+Pay Less</pre>
+            </h1>
+            <p>Experience the joy of the open road without breaking the bank. We offer unbeatable rates on a wide selection of rental cars.</p>
+            <a href="/User/MyTrips" class="btn">Rent Your Dream Car</a><br /><br />
+            <a href="/User/RentEarn" class="btn">Rent And Earn</a>
+        </div>
+    </div> 
+    <script>
+        function toggleSlideBar() {
+            var slideBar = document.getElementById('slideBar');
+            var drawerIcon = document.querySelector('.drawer-icon');
+            slideBar.style.left = slideBar.style.left === '0px' ? '-250px' : '0px';
+            drawerIcon.classList.toggle('open');
+        }
+
+        function logout() {
+            window.location.href = '@Url.Action("Logout", "User")';
+        }
+
+    </script>
+
+</body>
+
+</html>

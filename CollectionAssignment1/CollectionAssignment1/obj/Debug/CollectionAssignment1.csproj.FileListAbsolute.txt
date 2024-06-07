@@ -1,0 +1,7 @@
+C:\vs code\C#\CollectionAssignment1\CollectionAssignment1\obj\Debug\CollectionAssignment1.csproj.AssemblyReference.cache
+C:\vs code\C#\CollectionAssignment1\CollectionAssignment1\obj\Debug\CollectionAssignment1.csproj.CoreCompileInputs.cache
+C:\vs code\C#\CollectionAssignment1\CollectionAssignment1\bin\Debug\CollectionAssignment1.exe.config
+C:\vs code\C#\CollectionAssignment1\CollectionAssignment1\bin\Debug\CollectionAssignment1.exe
+C:\vs code\C#\CollectionAssignment1\CollectionAssignment1\bin\Debug\CollectionAssignment1.pdb
+C:\vs code\C#\CollectionAssignment1\CollectionAssignment1\obj\Debug\CollectionAssignment1.exe
+C:\vs code\C#\CollectionAssignment1\CollectionAssignment1\obj\Debug\CollectionAssignment1.pdb

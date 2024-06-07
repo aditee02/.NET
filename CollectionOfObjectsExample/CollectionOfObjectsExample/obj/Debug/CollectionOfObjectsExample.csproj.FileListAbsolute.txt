@@ -1,0 +1,10 @@
+C:\vs code\C#\CollectionOfObjectsExample\CollectionOfObjectsExample\obj\Debug\CollectionOfObjectsExample.csproj.AssemblyReference.cache
+C:\vs code\C#\CollectionOfObjectsExample\CollectionOfObjectsExample\obj\Debug\CollectionOfObjectsExample.csproj.CoreCompileInputs.cache
+C:\vs code\C#\CollectionOfObjectsExample\CollectionOfObjectsExample\bin\Debug\CollectionOfObjectsExample.exe.config
+C:\vs code\C#\CollectionOfObjectsExample\CollectionOfObjectsExample\bin\Debug\CollectionOfObjectsExample.exe
+C:\vs code\C#\CollectionOfObjectsExample\CollectionOfObjectsExample\bin\Debug\CollectionOfObjectsExample.pdb
+C:\vs code\C#\CollectionOfObjectsExample\CollectionOfObjectsExample\bin\Debug\ClassLibrary1.dll
+C:\vs code\C#\CollectionOfObjectsExample\CollectionOfObjectsExample\bin\Debug\ClassLibrary1.pdb
+C:\vs code\C#\CollectionOfObjectsExample\CollectionOfObjectsExample\obj\Debug\Collecti.80F1F3CF.Up2Date
+C:\vs code\C#\CollectionOfObjectsExample\CollectionOfObjectsExample\obj\Debug\CollectionOfObjectsExample.exe
+C:\vs code\C#\CollectionOfObjectsExample\CollectionOfObjectsExample\obj\Debug\CollectionOfObjectsExample.pdb

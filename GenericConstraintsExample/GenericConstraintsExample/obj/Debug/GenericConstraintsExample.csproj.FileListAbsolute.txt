@@ -1,0 +1,10 @@
+C:\vs code\C#\GenericConstraintsExample\GenericConstraintsExample\bin\Debug\GenericConstraintsExample.exe.config
+C:\vs code\C#\GenericConstraintsExample\GenericConstraintsExample\bin\Debug\GenericConstraintsExample.exe
+C:\vs code\C#\GenericConstraintsExample\GenericConstraintsExample\bin\Debug\GenericConstraintsExample.pdb
+C:\vs code\C#\GenericConstraintsExample\GenericConstraintsExample\bin\Debug\ClassLibrary1.dll
+C:\vs code\C#\GenericConstraintsExample\GenericConstraintsExample\bin\Debug\ClassLibrary1.pdb
+C:\vs code\C#\GenericConstraintsExample\GenericConstraintsExample\obj\Debug\GenericConstraintsExample.csproj.AssemblyReference.cache
+C:\vs code\C#\GenericConstraintsExample\GenericConstraintsExample\obj\Debug\GenericConstraintsExample.csproj.CoreCompileInputs.cache
+C:\vs code\C#\GenericConstraintsExample\GenericConstraintsExample\obj\Debug\GenericC.A4924D9F.Up2Date
+C:\vs code\C#\GenericConstraintsExample\GenericConstraintsExample\obj\Debug\GenericConstraintsExample.exe
+C:\vs code\C#\GenericConstraintsExample\GenericConstraintsExample\obj\Debug\GenericConstraintsExample.pdb

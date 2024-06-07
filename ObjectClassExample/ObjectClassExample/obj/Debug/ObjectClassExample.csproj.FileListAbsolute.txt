@@ -1,0 +1,10 @@
+C:\vs code\C#\ObjectClassExample\ObjectClassExample\bin\Debug\ObjectClassExample.exe.config
+C:\vs code\C#\ObjectClassExample\ObjectClassExample\bin\Debug\ObjectClassExample.exe
+C:\vs code\C#\ObjectClassExample\ObjectClassExample\bin\Debug\ObjectClassExample.pdb
+C:\vs code\C#\ObjectClassExample\ObjectClassExample\bin\Debug\ClassLibrary1.dll
+C:\vs code\C#\ObjectClassExample\ObjectClassExample\bin\Debug\ClassLibrary1.pdb
+C:\vs code\C#\ObjectClassExample\ObjectClassExample\obj\Debug\ObjectClassExample.csproj.AssemblyReference.cache
+C:\vs code\C#\ObjectClassExample\ObjectClassExample\obj\Debug\ObjectClassExample.csproj.CoreCompileInputs.cache
+C:\vs code\C#\ObjectClassExample\ObjectClassExample\obj\Debug\ObjectCl.66C14DAE.Up2Date
+C:\vs code\C#\ObjectClassExample\ObjectClassExample\obj\Debug\ObjectClassExample.exe
+C:\vs code\C#\ObjectClassExample\ObjectClassExample\obj\Debug\ObjectClassExample.pdb

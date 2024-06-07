@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\vs code\\C#\\EnumerationExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7961872-7762-407D-90F7-254A0C0825FE}|ClassLibrary1\\ClassLibrary1.csproj|c:\\vs code\\c#\\enumerationexample\\classlibrary1\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7961872-7762-407D-90F7-254A0C0825FE}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4569CB19-06BE-4982-9FF9-F0E50FA7CEDF}|EnumerationExample\\EnumerationExample.csproj|C:\\vs code\\C#\\EnumerationExample\\enumerationexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4569CB19-06BE-4982-9FF9-F0E50FA7CEDF}|EnumerationExample\\EnumerationExample.csproj|solutionrelative:enumerationexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 289,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\vs code\\C#\\EnumerationExample\\ClassLibrary1\\Person.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Person.cs",
+              "ToolTip": "C:\\vs code\\C#\\EnumerationExample\\ClassLibrary1\\Person.cs",
+              "RelativeToolTip": "ClassLibrary1\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T10:25:01.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\vs code\\C#\\EnumerationExample\\EnumerationExample\\Program.cs",
+              "RelativeDocumentMoniker": "EnumerationExample\\Program.cs",
+              "ToolTip": "C:\\vs code\\C#\\EnumerationExample\\EnumerationExample\\Program.cs",
+              "RelativeToolTip": "EnumerationExample\\Program.cs",
+              "ViewState": "AQIAAAcAAAAg///////vvw8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T10:24:32.339Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

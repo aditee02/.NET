@@ -1,0 +1,7 @@
+C:\vs code\C#\ExpressionTreeExample\ExpressionTreeExample\bin\Debug\ExpressionTreeExample.exe.config
+C:\vs code\C#\ExpressionTreeExample\ExpressionTreeExample\bin\Debug\ExpressionTreeExample.exe
+C:\vs code\C#\ExpressionTreeExample\ExpressionTreeExample\bin\Debug\ExpressionTreeExample.pdb
+C:\vs code\C#\ExpressionTreeExample\ExpressionTreeExample\obj\Debug\ExpressionTreeExample.csproj.AssemblyReference.cache
+C:\vs code\C#\ExpressionTreeExample\ExpressionTreeExample\obj\Debug\ExpressionTreeExample.csproj.CoreCompileInputs.cache
+C:\vs code\C#\ExpressionTreeExample\ExpressionTreeExample\obj\Debug\ExpressionTreeExample.exe
+C:\vs code\C#\ExpressionTreeExample\ExpressionTreeExample\obj\Debug\ExpressionTreeExample.pdb

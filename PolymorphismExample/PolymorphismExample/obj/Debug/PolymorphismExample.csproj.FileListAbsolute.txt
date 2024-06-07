@@ -1,0 +1,10 @@
+C:\vs code\C#\PolymorphismExample\PolymorphismExample\bin\Debug\PolymorphismExample.exe.config
+C:\vs code\C#\PolymorphismExample\PolymorphismExample\bin\Debug\PolymorphismExample.exe
+C:\vs code\C#\PolymorphismExample\PolymorphismExample\bin\Debug\PolymorphismExample.pdb
+C:\vs code\C#\PolymorphismExample\PolymorphismExample\bin\Debug\ClassLibrary1.dll
+C:\vs code\C#\PolymorphismExample\PolymorphismExample\bin\Debug\ClassLibrary1.pdb
+C:\vs code\C#\PolymorphismExample\PolymorphismExample\obj\Debug\PolymorphismExample.csproj.AssemblyReference.cache
+C:\vs code\C#\PolymorphismExample\PolymorphismExample\obj\Debug\PolymorphismExample.csproj.CoreCompileInputs.cache
+C:\vs code\C#\PolymorphismExample\PolymorphismExample\obj\Debug\Polymorp.068D43DD.Up2Date
+C:\vs code\C#\PolymorphismExample\PolymorphismExample\obj\Debug\PolymorphismExample.exe
+C:\vs code\C#\PolymorphismExample\PolymorphismExample\obj\Debug\PolymorphismExample.pdb

@@ -1,0 +1,7 @@
+C:\vs code\C#\InnerExceptionExample\InnerExceptionExample\bin\Debug\InnerExceptionExample.exe.config
+C:\vs code\C#\InnerExceptionExample\InnerExceptionExample\bin\Debug\InnerExceptionExample.exe
+C:\vs code\C#\InnerExceptionExample\InnerExceptionExample\bin\Debug\InnerExceptionExample.pdb
+C:\vs code\C#\InnerExceptionExample\InnerExceptionExample\obj\Debug\ExceptionExample.csproj.AssemblyReference.cache
+C:\vs code\C#\InnerExceptionExample\InnerExceptionExample\obj\Debug\ExceptionExample.csproj.CoreCompileInputs.cache
+C:\vs code\C#\InnerExceptionExample\InnerExceptionExample\obj\Debug\InnerExceptionExample.exe
+C:\vs code\C#\InnerExceptionExample\InnerExceptionExample\obj\Debug\InnerExceptionExample.pdb

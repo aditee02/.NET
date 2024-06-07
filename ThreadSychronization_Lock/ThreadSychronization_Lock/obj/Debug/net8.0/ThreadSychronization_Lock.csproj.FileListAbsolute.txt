@@ -1,0 +1,15 @@
+C:\vs code\C#\ThreadSychronization_Lock\ThreadSychronization_Lock\bin\Debug\net8.0\ThreadSychronization_Lock.exe
+C:\vs code\C#\ThreadSychronization_Lock\ThreadSychronization_Lock\bin\Debug\net8.0\ThreadSychronization_Lock.deps.json
+C:\vs code\C#\ThreadSychronization_Lock\ThreadSychronization_Lock\bin\Debug\net8.0\ThreadSychronization_Lock.runtimeconfig.json
+C:\vs code\C#\ThreadSychronization_Lock\ThreadSychronization_Lock\bin\Debug\net8.0\ThreadSychronization_Lock.dll
+C:\vs code\C#\ThreadSychronization_Lock\ThreadSychronization_Lock\bin\Debug\net8.0\ThreadSychronization_Lock.pdb
+C:\vs code\C#\ThreadSychronization_Lock\ThreadSychronization_Lock\obj\Debug\net8.0\ThreadSychronization_Lock.GeneratedMSBuildEditorConfig.editorconfig
+C:\vs code\C#\ThreadSychronization_Lock\ThreadSychronization_Lock\obj\Debug\net8.0\ThreadSychronization_Lock.AssemblyInfoInputs.cache
+C:\vs code\C#\ThreadSychronization_Lock\ThreadSychronization_Lock\obj\Debug\net8.0\ThreadSychronization_Lock.AssemblyInfo.cs
+C:\vs code\C#\ThreadSychronization_Lock\ThreadSychronization_Lock\obj\Debug\net8.0\ThreadSychronization_Lock.csproj.CoreCompileInputs.cache
+C:\vs code\C#\ThreadSychronization_Lock\ThreadSychronization_Lock\obj\Debug\net8.0\ThreadSychronization_Lock.sourcelink.json
+C:\vs code\C#\ThreadSychronization_Lock\ThreadSychronization_Lock\obj\Debug\net8.0\ThreadSychronization_Lock.dll
+C:\vs code\C#\ThreadSychronization_Lock\ThreadSychronization_Lock\obj\Debug\net8.0\refint\ThreadSychronization_Lock.dll
+C:\vs code\C#\ThreadSychronization_Lock\ThreadSychronization_Lock\obj\Debug\net8.0\ThreadSychronization_Lock.pdb
+C:\vs code\C#\ThreadSychronization_Lock\ThreadSychronization_Lock\obj\Debug\net8.0\ThreadSychronization_Lock.genruntimeconfig.cache
+C:\vs code\C#\ThreadSychronization_Lock\ThreadSychronization_Lock\obj\Debug\net8.0\ref\ThreadSychronization_Lock.dll

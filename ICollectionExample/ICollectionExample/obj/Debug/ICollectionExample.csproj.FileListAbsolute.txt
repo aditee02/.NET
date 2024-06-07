@@ -1,0 +1,7 @@
+C:\vs code\C#\ICollectionExample\ICollectionExample\bin\Debug\ICollectionExample.exe.config
+C:\vs code\C#\ICollectionExample\ICollectionExample\bin\Debug\ICollectionExample.exe
+C:\vs code\C#\ICollectionExample\ICollectionExample\bin\Debug\ICollectionExample.pdb
+C:\vs code\C#\ICollectionExample\ICollectionExample\obj\Debug\ICollectionExample.csproj.AssemblyReference.cache
+C:\vs code\C#\ICollectionExample\ICollectionExample\obj\Debug\ICollectionExample.csproj.CoreCompileInputs.cache
+C:\vs code\C#\ICollectionExample\ICollectionExample\obj\Debug\ICollectionExample.exe
+C:\vs code\C#\ICollectionExample\ICollectionExample\obj\Debug\ICollectionExample.pdb

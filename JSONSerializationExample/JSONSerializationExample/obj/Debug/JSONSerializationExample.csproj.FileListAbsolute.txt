@@ -1,0 +1,7 @@
+C:\vs code\C#\JSONSerializationExample\JSONSerializationExample\bin\Debug\JSONSerializationExample.exe.config
+C:\vs code\C#\JSONSerializationExample\JSONSerializationExample\bin\Debug\JSONSerializationExample.exe
+C:\vs code\C#\JSONSerializationExample\JSONSerializationExample\bin\Debug\JSONSerializationExample.pdb
+C:\vs code\C#\JSONSerializationExample\JSONSerializationExample\obj\Debug\JSONSerializationExample.csproj.AssemblyReference.cache
+C:\vs code\C#\JSONSerializationExample\JSONSerializationExample\obj\Debug\JSONSerializationExample.csproj.CoreCompileInputs.cache
+C:\vs code\C#\JSONSerializationExample\JSONSerializationExample\obj\Debug\JSONSerializationExample.exe
+C:\vs code\C#\JSONSerializationExample\JSONSerializationExample\obj\Debug\JSONSerializationExample.pdb

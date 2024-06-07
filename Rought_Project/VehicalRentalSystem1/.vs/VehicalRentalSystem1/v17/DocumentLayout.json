@@ -1,0 +1,386 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\vs code\\C#\\VehicalRentalSystem1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7806E38F-A748-4E33-87D4-E39B3390E3DA}|VehicalRentalSystem1\\VehicalRentalSystem1.csproj|c:\\vs code\\c#\\vehicalrentalsystem1\\vehicalrentalsystem1\\models\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7806E38F-A748-4E33-87D4-E39B3390E3DA}|VehicalRentalSystem1\\VehicalRentalSystem1.csproj|solutionrelative:vehicalrentalsystem1\\models\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7806E38F-A748-4E33-87D4-E39B3390E3DA}|VehicalRentalSystem1\\VehicalRentalSystem1.csproj|c:\\vs code\\c#\\vehicalrentalsystem1\\vehicalrentalsystem1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7806E38F-A748-4E33-87D4-E39B3390E3DA}|VehicalRentalSystem1\\VehicalRentalSystem1.csproj|solutionrelative:vehicalrentalsystem1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7806E38F-A748-4E33-87D4-E39B3390E3DA}|VehicalRentalSystem1\\VehicalRentalSystem1.csproj|c:\\vs code\\c#\\vehicalrentalsystem1\\vehicalrentalsystem1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7806E38F-A748-4E33-87D4-E39B3390E3DA}|VehicalRentalSystem1\\VehicalRentalSystem1.csproj|solutionrelative:vehicalrentalsystem1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7806E38F-A748-4E33-87D4-E39B3390E3DA}|VehicalRentalSystem1\\VehicalRentalSystem1.csproj|c:\\vs code\\c#\\vehicalrentalsystem1\\vehicalrentalsystem1\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7806E38F-A748-4E33-87D4-E39B3390E3DA}|VehicalRentalSystem1\\VehicalRentalSystem1.csproj|solutionrelative:vehicalrentalsystem1\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7806E38F-A748-4E33-87D4-E39B3390E3DA}|VehicalRentalSystem1\\VehicalRentalSystem1.csproj|c:\\vs code\\c#\\vehicalrentalsystem1\\vehicalrentalsystem1\\controllers\\forgotpasswordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7806E38F-A748-4E33-87D4-E39B3390E3DA}|VehicalRentalSystem1\\VehicalRentalSystem1.csproj|solutionrelative:vehicalrentalsystem1\\controllers\\forgotpasswordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7806E38F-A748-4E33-87D4-E39B3390E3DA}|VehicalRentalSystem1\\VehicalRentalSystem1.csproj|c:\\vs code\\c#\\vehicalrentalsystem1\\vehicalrentalsystem1\\models\\vehicalrentalsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7806E38F-A748-4E33-87D4-E39B3390E3DA}|VehicalRentalSystem1\\VehicalRentalSystem1.csproj|solutionrelative:vehicalrentalsystem1\\models\\vehicalrentalsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7806E38F-A748-4E33-87D4-E39B3390E3DA}|VehicalRentalSystem1\\VehicalRentalSystem1.csproj|c:\\vs code\\c#\\vehicalrentalsystem1\\vehicalrentalsystem1\\migrations\\vehicalrentalsystemcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7806E38F-A748-4E33-87D4-E39B3390E3DA}|VehicalRentalSystem1\\VehicalRentalSystem1.csproj|solutionrelative:vehicalrentalsystem1\\migrations\\vehicalrentalsystemcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7806E38F-A748-4E33-87D4-E39B3390E3DA}|VehicalRentalSystem1\\VehicalRentalSystem1.csproj|c:\\vs code\\c#\\vehicalrentalsystem1\\vehicalrentalsystem1\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7806E38F-A748-4E33-87D4-E39B3390E3DA}|VehicalRentalSystem1\\VehicalRentalSystem1.csproj|solutionrelative:vehicalrentalsystem1\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7806E38F-A748-4E33-87D4-E39B3390E3DA}|VehicalRentalSystem1\\VehicalRentalSystem1.csproj|c:\\vs code\\c#\\vehicalrentalsystem1\\vehicalrentalsystem1\\views\\user\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7806E38F-A748-4E33-87D4-E39B3390E3DA}|VehicalRentalSystem1\\VehicalRentalSystem1.csproj|solutionrelative:vehicalrentalsystem1\\views\\user\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7806E38F-A748-4E33-87D4-E39B3390E3DA}|VehicalRentalSystem1\\VehicalRentalSystem1.csproj|c:\\vs code\\c#\\vehicalrentalsystem1\\vehicalrentalsystem1\\vehicalrentalsystem1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{7806E38F-A748-4E33-87D4-E39B3390E3DA}|VehicalRentalSystem1\\VehicalRentalSystem1.csproj|solutionrelative:vehicalrentalsystem1\\vehicalrentalsystem1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7806E38F-A748-4E33-87D4-E39B3390E3DA}|VehicalRentalSystem1\\VehicalRentalSystem1.csproj|c:\\vs code\\c#\\vehicalrentalsystem1\\vehicalrentalsystem1\\views\\user\\rentearn.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7806E38F-A748-4E33-87D4-E39B3390E3DA}|VehicalRentalSystem1\\VehicalRentalSystem1.csproj|solutionrelative:vehicalrentalsystem1\\views\\user\\rentearn.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7806E38F-A748-4E33-87D4-E39B3390E3DA}|VehicalRentalSystem1\\VehicalRentalSystem1.csproj|c:\\vs code\\c#\\vehicalrentalsystem1\\vehicalrentalsystem1\\views\\user\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7806E38F-A748-4E33-87D4-E39B3390E3DA}|VehicalRentalSystem1\\VehicalRentalSystem1.csproj|solutionrelative:vehicalrentalsystem1\\views\\user\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7806E38F-A748-4E33-87D4-E39B3390E3DA}|VehicalRentalSystem1\\VehicalRentalSystem1.csproj|c:\\vs code\\c#\\vehicalrentalsystem1\\vehicalrentalsystem1\\services\\validationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7806E38F-A748-4E33-87D4-E39B3390E3DA}|VehicalRentalSystem1\\VehicalRentalSystem1.csproj|solutionrelative:vehicalrentalsystem1\\services\\validationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7806E38F-A748-4E33-87D4-E39B3390E3DA}|VehicalRentalSystem1\\VehicalRentalSystem1.csproj|c:\\vs code\\c#\\vehicalrentalsystem1\\vehicalrentalsystem1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7806E38F-A748-4E33-87D4-E39B3390E3DA}|VehicalRentalSystem1\\VehicalRentalSystem1.csproj|solutionrelative:vehicalrentalsystem1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7806E38F-A748-4E33-87D4-E39B3390E3DA}|VehicalRentalSystem1\\VehicalRentalSystem1.csproj|c:\\vs code\\c#\\vehicalrentalsystem1\\vehicalrentalsystem1\\viewmodel\\uploadedfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7806E38F-A748-4E33-87D4-E39B3390E3DA}|VehicalRentalSystem1\\VehicalRentalSystem1.csproj|solutionrelative:vehicalrentalsystem1\\viewmodel\\uploadedfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7806E38F-A748-4E33-87D4-E39B3390E3DA}|VehicalRentalSystem1\\VehicalRentalSystem1.csproj|c:\\vs code\\c#\\vehicalrentalsystem1\\vehicalrentalsystem1\\controllers\\securecontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7806E38F-A748-4E33-87D4-E39B3390E3DA}|VehicalRentalSystem1\\VehicalRentalSystem1.csproj|solutionrelative:vehicalrentalsystem1\\controllers\\securecontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7806E38F-A748-4E33-87D4-E39B3390E3DA}|VehicalRentalSystem1\\VehicalRentalSystem1.csproj|c:\\vs code\\c#\\vehicalrentalsystem1\\vehicalrentalsystem1\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7806E38F-A748-4E33-87D4-E39B3390E3DA}|VehicalRentalSystem1\\VehicalRentalSystem1.csproj|solutionrelative:vehicalrentalsystem1\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7806E38F-A748-4E33-87D4-E39B3390E3DA}|VehicalRentalSystem1\\VehicalRentalSystem1.csproj|c:\\vs code\\c#\\vehicalrentalsystem1\\vehicalrentalsystem1\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7806E38F-A748-4E33-87D4-E39B3390E3DA}|VehicalRentalSystem1\\VehicalRentalSystem1.csproj|solutionrelative:vehicalrentalsystem1\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7806E38F-A748-4E33-87D4-E39B3390E3DA}|VehicalRentalSystem1\\VehicalRentalSystem1.csproj|c:\\vs code\\c#\\vehicalrentalsystem1\\vehicalrentalsystem1\\views\\user\\mytrips.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7806E38F-A748-4E33-87D4-E39B3390E3DA}|VehicalRentalSystem1\\VehicalRentalSystem1.csproj|solutionrelative:vehicalrentalsystem1\\views\\user\\mytrips.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\Services\\UserJWT.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VehicalRentalSystem1\\Services\\UserJWT.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7806E38F-A748-4E33-87D4-E39B3390E3DA}|VehicalRentalSystem1\\VehicalRentalSystem1.csproj|c:\\vs code\\c#\\vehicalrentalsystem1\\vehicalrentalsystem1\\migrations\\20240506091438_filepath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7806E38F-A748-4E33-87D4-E39B3390E3DA}|VehicalRentalSystem1\\VehicalRentalSystem1.csproj|solutionrelative:vehicalrentalsystem1\\migrations\\20240506091438_filepath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 361,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\Models\\User.cs",
+              "RelativeDocumentMoniker": "VehicalRentalSystem1\\Models\\User.cs",
+              "ToolTip": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\Models\\User.cs",
+              "RelativeToolTip": "VehicalRentalSystem1\\Models\\User.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAqwCoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T10:54:28.127Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "VehicalRentalSystem1\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\Controllers\\UserController.cs*",
+              "RelativeToolTip": "VehicalRentalSystem1\\Controllers\\UserController.cs*",
+              "ViewState": "AQIAANQAAAAAAAAAAAAwwO0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T07:58:57.809Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\Program.cs",
+              "RelativeDocumentMoniker": "VehicalRentalSystem1\\Program.cs",
+              "ToolTip": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\Program.cs",
+              "RelativeToolTip": "VehicalRentalSystem1\\Program.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T08:34:04.263Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ValidationService.cs",
+              "DocumentMoniker": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\Services\\ValidationService.cs",
+              "RelativeDocumentMoniker": "VehicalRentalSystem1\\Services\\ValidationService.cs",
+              "ToolTip": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\Services\\ValidationService.cs",
+              "RelativeToolTip": "VehicalRentalSystem1\\Services\\ValidationService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAvwBgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T04:00:35.101Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\Views\\User\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "VehicalRentalSystem1\\Views\\User\\Dashboard.cshtml",
+              "ToolTip": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\Views\\User\\Dashboard.cshtml",
+              "RelativeToolTip": "VehicalRentalSystem1\\Views\\User\\Dashboard.cshtml",
+              "ViewState": "AQIAAFAAAABAMjMzMzMbwFIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-22T05:45:33.083Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MyTrips.cshtml",
+              "DocumentMoniker": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\Views\\User\\MyTrips.cshtml",
+              "RelativeDocumentMoniker": "VehicalRentalSystem1\\Views\\User\\MyTrips.cshtml",
+              "ToolTip": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\Views\\User\\MyTrips.cshtml",
+              "RelativeToolTip": "VehicalRentalSystem1\\Views\\User\\MyTrips.cshtml",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAwwGcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-30T10:33:08.878Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RentEarn.cshtml",
+              "DocumentMoniker": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\Views\\User\\RentEarn.cshtml",
+              "RelativeDocumentMoniker": "VehicalRentalSystem1\\Views\\User\\RentEarn.cshtml",
+              "ToolTip": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\Views\\User\\RentEarn.cshtml",
+              "RelativeToolTip": "VehicalRentalSystem1\\Views\\User\\RentEarn.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAwwGkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T04:21:18.877Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\Models\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "VehicalRentalSystem1\\Models\\UserViewModel.cs",
+              "ToolTip": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\Models\\UserViewModel.cs",
+              "RelativeToolTip": "VehicalRentalSystem1\\Models\\UserViewModel.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAA4wDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T07:33:01.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VehicalRentalSystem1",
+              "DocumentMoniker": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\VehicalRentalSystem1.csproj",
+              "RelativeDocumentMoniker": "VehicalRentalSystem1\\VehicalRentalSystem1.csproj",
+              "ToolTip": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\VehicalRentalSystem1.csproj",
+              "RelativeToolTip": "VehicalRentalSystem1\\VehicalRentalSystem1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-09T07:28:52.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\Views\\User\\Register.cshtml",
+              "RelativeDocumentMoniker": "VehicalRentalSystem1\\Views\\User\\Register.cshtml",
+              "ToolTip": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\Views\\User\\Register.cshtml",
+              "RelativeToolTip": "VehicalRentalSystem1\\Views\\User\\Register.cshtml",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAF4AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T09:38:34.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VehicalRentalSystemContext.cs",
+              "DocumentMoniker": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\Models\\VehicalRentalSystemContext.cs",
+              "RelativeDocumentMoniker": "VehicalRentalSystem1\\Models\\VehicalRentalSystemContext.cs",
+              "ToolTip": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\Models\\VehicalRentalSystemContext.cs",
+              "RelativeToolTip": "VehicalRentalSystem1\\Models\\VehicalRentalSystemContext.cs",
+              "ViewState": "AQIAAKMAAAAAAAAAAAAmwLAAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T09:37:48.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VehicalRentalSystemContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\Migrations\\VehicalRentalSystemContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "VehicalRentalSystem1\\Migrations\\VehicalRentalSystemContextModelSnapshot.cs",
+              "ToolTip": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\Migrations\\VehicalRentalSystemContextModelSnapshot.cs",
+              "RelativeToolTip": "VehicalRentalSystem1\\Migrations\\VehicalRentalSystemContextModelSnapshot.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T09:25:07.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UploadedFile.cs",
+              "DocumentMoniker": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\ViewModel\\UploadedFile.cs",
+              "RelativeDocumentMoniker": "VehicalRentalSystem1\\ViewModel\\UploadedFile.cs",
+              "ToolTip": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\ViewModel\\UploadedFile.cs",
+              "RelativeToolTip": "VehicalRentalSystem1\\ViewModel\\UploadedFile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T09:24:34.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240506091438_FilePath.cs",
+              "DocumentMoniker": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\Migrations\\20240506091438_FilePath.cs",
+              "RelativeDocumentMoniker": "VehicalRentalSystem1\\Migrations\\20240506091438_FilePath.cs",
+              "ToolTip": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\Migrations\\20240506091438_FilePath.cs",
+              "RelativeToolTip": "VehicalRentalSystem1\\Migrations\\20240506091438_FilePath.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T09:14:39.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ForgotPasswordController.cs",
+              "DocumentMoniker": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\Controllers\\ForgotPasswordController.cs",
+              "RelativeDocumentMoniker": "VehicalRentalSystem1\\Controllers\\ForgotPasswordController.cs",
+              "ToolTip": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\Controllers\\ForgotPasswordController.cs",
+              "RelativeToolTip": "VehicalRentalSystem1\\Controllers\\ForgotPasswordController.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAswGMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T08:59:46.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SecureController .cs",
+              "DocumentMoniker": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\Controllers\\SecureController .cs",
+              "RelativeDocumentMoniker": "VehicalRentalSystem1\\Controllers\\SecureController .cs",
+              "ToolTip": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\Controllers\\SecureController .cs",
+              "RelativeToolTip": "VehicalRentalSystem1\\Controllers\\SecureController .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T08:16:53.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\Views\\User\\Profile.cshtml",
+              "RelativeDocumentMoniker": "VehicalRentalSystem1\\Views\\User\\Profile.cshtml",
+              "ToolTip": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\Views\\User\\Profile.cshtml",
+              "RelativeToolTip": "VehicalRentalSystem1\\Views\\User\\Profile.cshtml",
+              "ViewState": "AQIAAJwAAAAAAAAAAAAAAKUAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T07:22:31.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "VehicalRentalSystem1\\Views\\User\\Login.cshtml",
+              "ToolTip": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "VehicalRentalSystem1\\Views\\User\\Login.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T04:30:32.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "VehicalRentalSystem1\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "VehicalRentalSystem1\\Views\\Home\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T07:10:12.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "VehicalRentalSystem1\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "VehicalRentalSystem1\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-16T09:01:25.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserJWT.cs",
+              "DocumentMoniker": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\Services\\UserJWT.cs",
+              "RelativeDocumentMoniker": "VehicalRentalSystem1\\Services\\UserJWT.cs",
+              "ToolTip": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\Services\\UserJWT.cs",
+              "RelativeToolTip": "VehicalRentalSystem1\\Services\\UserJWT.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T12:42:43.972Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

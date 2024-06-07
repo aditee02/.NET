@@ -1,0 +1,7 @@
+C:\vs code\C#\IEquatable\IEquatable\bin\Debug\IEquatable.exe.config
+C:\vs code\C#\IEquatable\IEquatable\bin\Debug\IEquatable.exe
+C:\vs code\C#\IEquatable\IEquatable\bin\Debug\IEquatable.pdb
+C:\vs code\C#\IEquatable\IEquatable\obj\Debug\IEquatable.csproj.AssemblyReference.cache
+C:\vs code\C#\IEquatable\IEquatable\obj\Debug\IEquatable.csproj.CoreCompileInputs.cache
+C:\vs code\C#\IEquatable\IEquatable\obj\Debug\IEquatable.exe
+C:\vs code\C#\IEquatable\IEquatable\obj\Debug\IEquatable.pdb

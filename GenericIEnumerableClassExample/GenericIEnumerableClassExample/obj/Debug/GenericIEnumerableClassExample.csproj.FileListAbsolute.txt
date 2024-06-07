@@ -1,0 +1,7 @@
+C:\vs code\C#\GenericIEnumerableClassExample\GenericIEnumerableClassExample\bin\Debug\GenericIEnumerableClassExample.exe.config
+C:\vs code\C#\GenericIEnumerableClassExample\GenericIEnumerableClassExample\bin\Debug\GenericIEnumerableClassExample.exe
+C:\vs code\C#\GenericIEnumerableClassExample\GenericIEnumerableClassExample\bin\Debug\GenericIEnumerableClassExample.pdb
+C:\vs code\C#\GenericIEnumerableClassExample\GenericIEnumerableClassExample\obj\Debug\GenericIEnumerableClassExample.csproj.AssemblyReference.cache
+C:\vs code\C#\GenericIEnumerableClassExample\GenericIEnumerableClassExample\obj\Debug\GenericIEnumerableClassExample.csproj.CoreCompileInputs.cache
+C:\vs code\C#\GenericIEnumerableClassExample\GenericIEnumerableClassExample\obj\Debug\GenericIEnumerableClassExample.exe
+C:\vs code\C#\GenericIEnumerableClassExample\GenericIEnumerableClassExample\obj\Debug\GenericIEnumerableClassExample.pdb

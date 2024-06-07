@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\vs code\\C#\\ValueTupleExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{138DEB92-1518-4185-91D6-9D6DD7C89BBF}|ValueTupleExample\\ValueTupleExample.csproj|c:\\vs code\\c#\\valuetupleexample\\valuetupleexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138DEB92-1518-4185-91D6-9D6DD7C89BBF}|ValueTupleExample\\ValueTupleExample.csproj|solutionrelative:valuetupleexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC724302-D32C-4EB7-B787-4420CB709D9B}|ClassLibrary1\\ClassLibrary1.csproj|c:\\vs code\\c#\\valuetupleexample\\classlibrary1\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC724302-D32C-4EB7-B787-4420CB709D9B}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 289,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\vs code\\C#\\ValueTupleExample\\ClassLibrary1\\Customer.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Customer.cs",
+              "ToolTip": "C:\\vs code\\C#\\ValueTupleExample\\ClassLibrary1\\Customer.cs",
+              "RelativeToolTip": "ClassLibrary1\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T08:12:42.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\vs code\\C#\\ValueTupleExample\\ValueTupleExample\\Program.cs",
+              "RelativeDocumentMoniker": "ValueTupleExample\\Program.cs",
+              "ToolTip": "C:\\vs code\\C#\\ValueTupleExample\\ValueTupleExample\\Program.cs",
+              "RelativeToolTip": "ValueTupleExample\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA3wBIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T08:12:23.289Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

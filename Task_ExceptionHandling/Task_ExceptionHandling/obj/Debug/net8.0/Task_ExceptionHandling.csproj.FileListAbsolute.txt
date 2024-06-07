@@ -1,0 +1,15 @@
+C:\vs code\C#\Task_ExceptionHandling\Task_ExceptionHandling\obj\Debug\net8.0\Task_ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\vs code\C#\Task_ExceptionHandling\Task_ExceptionHandling\obj\Debug\net8.0\Task_ExceptionHandling.AssemblyInfoInputs.cache
+C:\vs code\C#\Task_ExceptionHandling\Task_ExceptionHandling\obj\Debug\net8.0\Task_ExceptionHandling.AssemblyInfo.cs
+C:\vs code\C#\Task_ExceptionHandling\Task_ExceptionHandling\obj\Debug\net8.0\Task_ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\vs code\C#\Task_ExceptionHandling\Task_ExceptionHandling\obj\Debug\net8.0\Task_ExceptionHandling.sourcelink.json
+C:\vs code\C#\Task_ExceptionHandling\Task_ExceptionHandling\bin\Debug\net8.0\Task_ExceptionHandling.exe
+C:\vs code\C#\Task_ExceptionHandling\Task_ExceptionHandling\bin\Debug\net8.0\Task_ExceptionHandling.deps.json
+C:\vs code\C#\Task_ExceptionHandling\Task_ExceptionHandling\bin\Debug\net8.0\Task_ExceptionHandling.runtimeconfig.json
+C:\vs code\C#\Task_ExceptionHandling\Task_ExceptionHandling\bin\Debug\net8.0\Task_ExceptionHandling.dll
+C:\vs code\C#\Task_ExceptionHandling\Task_ExceptionHandling\bin\Debug\net8.0\Task_ExceptionHandling.pdb
+C:\vs code\C#\Task_ExceptionHandling\Task_ExceptionHandling\obj\Debug\net8.0\Task_ExceptionHandling.dll
+C:\vs code\C#\Task_ExceptionHandling\Task_ExceptionHandling\obj\Debug\net8.0\refint\Task_ExceptionHandling.dll
+C:\vs code\C#\Task_ExceptionHandling\Task_ExceptionHandling\obj\Debug\net8.0\Task_ExceptionHandling.pdb
+C:\vs code\C#\Task_ExceptionHandling\Task_ExceptionHandling\obj\Debug\net8.0\Task_ExceptionHandling.genruntimeconfig.cache
+C:\vs code\C#\Task_ExceptionHandling\Task_ExceptionHandling\obj\Debug\net8.0\ref\Task_ExceptionHandling.dll

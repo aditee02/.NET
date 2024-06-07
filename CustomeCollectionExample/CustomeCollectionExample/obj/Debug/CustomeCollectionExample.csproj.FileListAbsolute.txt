@@ -1,0 +1,7 @@
+C:\vs code\C#\CustomeCollectionExample\CustomeCollectionExample\bin\Debug\CustomeCollectionExample.exe.config
+C:\vs code\C#\CustomeCollectionExample\CustomeCollectionExample\bin\Debug\CustomeCollectionExample.exe
+C:\vs code\C#\CustomeCollectionExample\CustomeCollectionExample\bin\Debug\CustomeCollectionExample.pdb
+C:\vs code\C#\CustomeCollectionExample\CustomeCollectionExample\obj\Debug\CustomeCollectionExample.csproj.AssemblyReference.cache
+C:\vs code\C#\CustomeCollectionExample\CustomeCollectionExample\obj\Debug\CustomeCollectionExample.csproj.CoreCompileInputs.cache
+C:\vs code\C#\CustomeCollectionExample\CustomeCollectionExample\obj\Debug\CustomeCollectionExample.exe
+C:\vs code\C#\CustomeCollectionExample\CustomeCollectionExample\obj\Debug\CustomeCollectionExample.pdb

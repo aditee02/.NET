@@ -1,0 +1,10 @@
+C:\vs code\C#\GenericExample\GenericExample\bin\Debug\GenericExample.exe.config
+C:\vs code\C#\GenericExample\GenericExample\bin\Debug\GenericExample.exe
+C:\vs code\C#\GenericExample\GenericExample\bin\Debug\GenericExample.pdb
+C:\vs code\C#\GenericExample\GenericExample\bin\Debug\ClassLibrary1.dll
+C:\vs code\C#\GenericExample\GenericExample\bin\Debug\ClassLibrary1.pdb
+C:\vs code\C#\GenericExample\GenericExample\obj\Debug\GenericExample.csproj.AssemblyReference.cache
+C:\vs code\C#\GenericExample\GenericExample\obj\Debug\GenericExample.csproj.CoreCompileInputs.cache
+C:\vs code\C#\GenericExample\GenericExample\obj\Debug\GenericE.806F6FEA.Up2Date
+C:\vs code\C#\GenericExample\GenericExample\obj\Debug\GenericExample.exe
+C:\vs code\C#\GenericExample\GenericExample\obj\Debug\GenericExample.pdb

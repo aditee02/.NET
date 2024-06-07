@@ -1,0 +1,7 @@
+C:\vs code\C#\ICompararerExample2\ICompararerExample2\bin\Debug\ICompararerExample2.exe.config
+C:\vs code\C#\ICompararerExample2\ICompararerExample2\bin\Debug\ICompararerExample2.exe
+C:\vs code\C#\ICompararerExample2\ICompararerExample2\bin\Debug\ICompararerExample2.pdb
+C:\vs code\C#\ICompararerExample2\ICompararerExample2\obj\Debug\ICompareExample2.csproj.AssemblyReference.cache
+C:\vs code\C#\ICompararerExample2\ICompararerExample2\obj\Debug\ICompareExample2.csproj.CoreCompileInputs.cache
+C:\vs code\C#\ICompararerExample2\ICompararerExample2\obj\Debug\ICompararerExample2.exe
+C:\vs code\C#\ICompararerExample2\ICompararerExample2\obj\Debug\ICompararerExample2.pdb

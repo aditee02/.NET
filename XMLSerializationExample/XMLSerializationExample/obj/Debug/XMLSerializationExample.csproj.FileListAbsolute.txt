@@ -1,0 +1,7 @@
+C:\vs code\C#\XMLSerializationExample\XMLSerializationExample\bin\Debug\XMLSerializationExample.exe.config
+C:\vs code\C#\XMLSerializationExample\XMLSerializationExample\bin\Debug\XMLSerializationExample.exe
+C:\vs code\C#\XMLSerializationExample\XMLSerializationExample\bin\Debug\XMLSerializationExample.pdb
+C:\vs code\C#\XMLSerializationExample\XMLSerializationExample\obj\Debug\XMLSerializationExample.csproj.AssemblyReference.cache
+C:\vs code\C#\XMLSerializationExample\XMLSerializationExample\obj\Debug\XMLSerializationExample.csproj.CoreCompileInputs.cache
+C:\vs code\C#\XMLSerializationExample\XMLSerializationExample\obj\Debug\XMLSerializationExample.exe
+C:\vs code\C#\XMLSerializationExample\XMLSerializationExample\obj\Debug\XMLSerializationExample.pdb

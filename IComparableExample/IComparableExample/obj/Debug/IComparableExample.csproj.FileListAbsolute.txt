@@ -1,0 +1,7 @@
+C:\vs code\C#\IComparableExample\IComparableExample\bin\Debug\IComparableExample.exe.config
+C:\vs code\C#\IComparableExample\IComparableExample\bin\Debug\IComparableExample.exe
+C:\vs code\C#\IComparableExample\IComparableExample\bin\Debug\IComparableExample.pdb
+C:\vs code\C#\IComparableExample\IComparableExample\obj\Debug\IComparableExample.csproj.AssemblyReference.cache
+C:\vs code\C#\IComparableExample\IComparableExample\obj\Debug\IComparableExample.csproj.CoreCompileInputs.cache
+C:\vs code\C#\IComparableExample\IComparableExample\obj\Debug\IComparableExample.exe
+C:\vs code\C#\IComparableExample\IComparableExample\obj\Debug\IComparableExample.pdb

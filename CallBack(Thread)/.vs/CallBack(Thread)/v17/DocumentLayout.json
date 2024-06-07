@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\vs code\\C#\\CallBack(Thread)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0855AFD-A952-4F8B-B156-728CAA1757B0}|CallBack(Thread)\\CallBack(Thread).csproj|c:\\vs code\\c#\\callback(thread)\\callback(thread)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0855AFD-A952-4F8B-B156-728CAA1757B0}|CallBack(Thread)\\CallBack(Thread).csproj|solutionrelative:callback(thread)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 361,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\vs code\\C#\\CallBack(Thread)\\CallBack(Thread)\\Program.cs",
+              "RelativeDocumentMoniker": "CallBack(Thread)\\Program.cs",
+              "ToolTip": "C:\\vs code\\C#\\CallBack(Thread)\\CallBack(Thread)\\Program.cs",
+              "RelativeToolTip": "CallBack(Thread)\\Program.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAcwGQAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T07:41:24.971Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

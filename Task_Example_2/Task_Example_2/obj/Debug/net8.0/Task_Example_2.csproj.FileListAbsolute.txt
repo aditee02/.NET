@@ -1,0 +1,15 @@
+C:\vs code\C#\Task_Example_2\Task_Example_2\bin\Debug\net8.0\Task_Example_2.exe
+C:\vs code\C#\Task_Example_2\Task_Example_2\bin\Debug\net8.0\Task_Example_2.deps.json
+C:\vs code\C#\Task_Example_2\Task_Example_2\bin\Debug\net8.0\Task_Example_2.runtimeconfig.json
+C:\vs code\C#\Task_Example_2\Task_Example_2\bin\Debug\net8.0\Task_Example_2.dll
+C:\vs code\C#\Task_Example_2\Task_Example_2\bin\Debug\net8.0\Task_Example_2.pdb
+C:\vs code\C#\Task_Example_2\Task_Example_2\obj\Debug\net8.0\Task_Example_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\vs code\C#\Task_Example_2\Task_Example_2\obj\Debug\net8.0\Task_Example_2.AssemblyInfoInputs.cache
+C:\vs code\C#\Task_Example_2\Task_Example_2\obj\Debug\net8.0\Task_Example_2.AssemblyInfo.cs
+C:\vs code\C#\Task_Example_2\Task_Example_2\obj\Debug\net8.0\Task_Example_2.csproj.CoreCompileInputs.cache
+C:\vs code\C#\Task_Example_2\Task_Example_2\obj\Debug\net8.0\Task_Example_2.sourcelink.json
+C:\vs code\C#\Task_Example_2\Task_Example_2\obj\Debug\net8.0\Task_Example_2.dll
+C:\vs code\C#\Task_Example_2\Task_Example_2\obj\Debug\net8.0\refint\Task_Example_2.dll
+C:\vs code\C#\Task_Example_2\Task_Example_2\obj\Debug\net8.0\Task_Example_2.pdb
+C:\vs code\C#\Task_Example_2\Task_Example_2\obj\Debug\net8.0\Task_Example_2.genruntimeconfig.cache
+C:\vs code\C#\Task_Example_2\Task_Example_2\obj\Debug\net8.0\ref\Task_Example_2.dll

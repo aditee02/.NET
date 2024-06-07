@@ -1,0 +1,7 @@
+C:\vs code\C#\PinValidation\PinValidation\bin\Debug\PinValidation.exe.config
+C:\vs code\C#\PinValidation\PinValidation\bin\Debug\PinValidation.exe
+C:\vs code\C#\PinValidation\PinValidation\bin\Debug\PinValidation.pdb
+C:\vs code\C#\PinValidation\PinValidation\obj\Debug\PinValidation.csproj.AssemblyReference.cache
+C:\vs code\C#\PinValidation\PinValidation\obj\Debug\PinValidation.csproj.CoreCompileInputs.cache
+C:\vs code\C#\PinValidation\PinValidation\obj\Debug\PinValidation.exe
+C:\vs code\C#\PinValidation\PinValidation\obj\Debug\PinValidation.pdb

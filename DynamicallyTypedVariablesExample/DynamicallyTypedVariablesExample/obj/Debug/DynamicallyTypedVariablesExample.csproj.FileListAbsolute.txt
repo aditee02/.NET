@@ -1,0 +1,7 @@
+C:\vs code\C#\DynamicallyTypedVariablesExample\DynamicallyTypedVariablesExample\bin\Debug\DynamicallyTypedVariablesExample.exe.config
+C:\vs code\C#\DynamicallyTypedVariablesExample\DynamicallyTypedVariablesExample\bin\Debug\DynamicallyTypedVariablesExample.exe
+C:\vs code\C#\DynamicallyTypedVariablesExample\DynamicallyTypedVariablesExample\bin\Debug\DynamicallyTypedVariablesExample.pdb
+C:\vs code\C#\DynamicallyTypedVariablesExample\DynamicallyTypedVariablesExample\obj\Debug\DynamicallyTypedVariablesExample.csproj.AssemblyReference.cache
+C:\vs code\C#\DynamicallyTypedVariablesExample\DynamicallyTypedVariablesExample\obj\Debug\DynamicallyTypedVariablesExample.csproj.CoreCompileInputs.cache
+C:\vs code\C#\DynamicallyTypedVariablesExample\DynamicallyTypedVariablesExample\obj\Debug\DynamicallyTypedVariablesExample.exe
+C:\vs code\C#\DynamicallyTypedVariablesExample\DynamicallyTypedVariablesExample\obj\Debug\DynamicallyTypedVariablesExample.pdb

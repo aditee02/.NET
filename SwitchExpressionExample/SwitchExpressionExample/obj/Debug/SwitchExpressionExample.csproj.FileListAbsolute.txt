@@ -1,0 +1,2 @@
+C:\vs code\C#\SwitchExpressionExample\SwitchExpressionExample\obj\Debug\SwitchExpressionExample.csproj.AssemblyReference.cache
+C:\vs code\C#\SwitchExpressionExample\SwitchExpressionExample\obj\Debug\SwitchExpressionExample.csproj.CoreCompileInputs.cache

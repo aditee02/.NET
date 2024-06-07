@@ -1,0 +1,10 @@
+C:\vs code\C#\MethodsExample\MethodsExample\bin\Debug\MethodsExample.exe.config
+C:\vs code\C#\MethodsExample\MethodsExample\bin\Debug\MethodsExample.exe
+C:\vs code\C#\MethodsExample\MethodsExample\bin\Debug\MethodsExample.pdb
+C:\vs code\C#\MethodsExample\MethodsExample\bin\Debug\ClassLibrary1.dll
+C:\vs code\C#\MethodsExample\MethodsExample\bin\Debug\ClassLibrary1.pdb
+C:\vs code\C#\MethodsExample\MethodsExample\obj\Debug\MethodsExample.csproj.AssemblyReference.cache
+C:\vs code\C#\MethodsExample\MethodsExample\obj\Debug\MethodsExample.csproj.CoreCompileInputs.cache
+C:\vs code\C#\MethodsExample\MethodsExample\obj\Debug\MethodsE.6ED2AB8C.Up2Date
+C:\vs code\C#\MethodsExample\MethodsExample\obj\Debug\MethodsExample.exe
+C:\vs code\C#\MethodsExample\MethodsExample\obj\Debug\MethodsExample.pdb

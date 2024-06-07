@@ -1,0 +1,8 @@
+C:\vs code\C#\RedisAPIExample1\RedisAPIExample1\obj\Debug\net8.0\RedisAPIExample1.csproj.AssemblyReference.cache
+C:\vs code\C#\RedisAPIExample1\RedisAPIExample1\obj\Debug\net8.0\RedisAPIExample1.GeneratedMSBuildEditorConfig.editorconfig
+C:\vs code\C#\RedisAPIExample1\RedisAPIExample1\obj\Debug\net8.0\RedisAPIExample1.AssemblyInfoInputs.cache
+C:\vs code\C#\RedisAPIExample1\RedisAPIExample1\obj\Debug\net8.0\RedisAPIExample1.AssemblyInfo.cs
+C:\vs code\C#\RedisAPIExample1\RedisAPIExample1\obj\Debug\net8.0\RedisAPIExample1.csproj.CoreCompileInputs.cache
+C:\vs code\C#\RedisAPIExample1\RedisAPIExample1\obj\Debug\net8.0\RedisAPIExample1.MvcApplicationPartsAssemblyInfo.cs
+C:\vs code\C#\RedisAPIExample1\RedisAPIExample1\obj\Debug\net8.0\RedisAPIExample1.MvcApplicationPartsAssemblyInfo.cache
+C:\vs code\C#\RedisAPIExample1\RedisAPIExample1\obj\Debug\net8.0\RedisAPIExample1.sourcelink.json

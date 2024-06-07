@@ -1,0 +1,7 @@
+C:\vs code\C#\MedicalBot\MedicalBot\bin\Debug\MedicalBot.exe.config
+C:\vs code\C#\MedicalBot\MedicalBot\bin\Debug\MedicalBot.exe
+C:\vs code\C#\MedicalBot\MedicalBot\bin\Debug\MedicalBot.pdb
+C:\vs code\C#\MedicalBot\MedicalBot\obj\Debug\MedicalBot.csproj.AssemblyReference.cache
+C:\vs code\C#\MedicalBot\MedicalBot\obj\Debug\MedicalBot.csproj.CoreCompileInputs.cache
+C:\vs code\C#\MedicalBot\MedicalBot\obj\Debug\MedicalBot.exe
+C:\vs code\C#\MedicalBot\MedicalBot\obj\Debug\MedicalBot.pdb

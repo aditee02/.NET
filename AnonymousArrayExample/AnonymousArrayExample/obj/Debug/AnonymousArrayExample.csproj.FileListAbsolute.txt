@@ -1,0 +1,7 @@
+C:\vs code\C#\AnonymousArrayExample\AnonymousArrayExample\obj\Debug\AnonymousArrayExample.csproj.AssemblyReference.cache
+C:\vs code\C#\AnonymousArrayExample\AnonymousArrayExample\obj\Debug\AnonymousArrayExample.csproj.CoreCompileInputs.cache
+C:\vs code\C#\AnonymousArrayExample\AnonymousArrayExample\bin\Debug\AnonymousArrayExample.exe.config
+C:\vs code\C#\AnonymousArrayExample\AnonymousArrayExample\bin\Debug\AnonymousArrayExample.exe
+C:\vs code\C#\AnonymousArrayExample\AnonymousArrayExample\bin\Debug\AnonymousArrayExample.pdb
+C:\vs code\C#\AnonymousArrayExample\AnonymousArrayExample\obj\Debug\AnonymousArrayExample.exe
+C:\vs code\C#\AnonymousArrayExample\AnonymousArrayExample\obj\Debug\AnonymousArrayExample.pdb

@@ -1,0 +1,10 @@
+C:\vs code\C#\EventsExample1\EventsExample1\bin\Debug\EventsExample1.exe.config
+C:\vs code\C#\EventsExample1\EventsExample1\bin\Debug\EventsExample1.exe
+C:\vs code\C#\EventsExample1\EventsExample1\bin\Debug\EventsExample1.pdb
+C:\vs code\C#\EventsExample1\EventsExample1\bin\Debug\ClassLibrary1.dll
+C:\vs code\C#\EventsExample1\EventsExample1\bin\Debug\ClassLibrary1.pdb
+C:\vs code\C#\EventsExample1\EventsExample1\obj\Debug\EventsExample1.csproj.AssemblyReference.cache
+C:\vs code\C#\EventsExample1\EventsExample1\obj\Debug\EventsExample1.csproj.CoreCompileInputs.cache
+C:\vs code\C#\EventsExample1\EventsExample1\obj\Debug\EventsEx.BEBB4756.Up2Date
+C:\vs code\C#\EventsExample1\EventsExample1\obj\Debug\EventsExample1.exe
+C:\vs code\C#\EventsExample1\EventsExample1\obj\Debug\EventsExample1.pdb

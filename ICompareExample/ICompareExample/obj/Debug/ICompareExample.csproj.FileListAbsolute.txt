@@ -1,0 +1,7 @@
+C:\vs code\C#\ICompareExample\ICompareExample\obj\Debug\ICompareExample.csproj.AssemblyReference.cache
+C:\vs code\C#\ICompareExample\ICompareExample\obj\Debug\ICompareExample.csproj.CoreCompileInputs.cache
+C:\vs code\C#\ICompareExample\ICompareExample\bin\Debug\ICompareExample.exe.config
+C:\vs code\C#\ICompareExample\ICompareExample\bin\Debug\ICompareExample.exe
+C:\vs code\C#\ICompareExample\ICompareExample\bin\Debug\ICompareExample.pdb
+C:\vs code\C#\ICompareExample\ICompareExample\obj\Debug\ICompareExample.exe
+C:\vs code\C#\ICompareExample\ICompareExample\obj\Debug\ICompareExample.pdb

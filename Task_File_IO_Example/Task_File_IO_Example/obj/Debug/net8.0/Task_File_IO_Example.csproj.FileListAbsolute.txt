@@ -1,0 +1,15 @@
+C:\vs code\C#\Task_File_IO_Example\Task_File_IO_Example\obj\Debug\net8.0\Task_File_IO_Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\vs code\C#\Task_File_IO_Example\Task_File_IO_Example\obj\Debug\net8.0\Task_File_IO_Example.AssemblyInfoInputs.cache
+C:\vs code\C#\Task_File_IO_Example\Task_File_IO_Example\obj\Debug\net8.0\Task_File_IO_Example.AssemblyInfo.cs
+C:\vs code\C#\Task_File_IO_Example\Task_File_IO_Example\obj\Debug\net8.0\Task_File_IO_Example.csproj.CoreCompileInputs.cache
+C:\vs code\C#\Task_File_IO_Example\Task_File_IO_Example\obj\Debug\net8.0\Task_File_IO_Example.sourcelink.json
+C:\vs code\C#\Task_File_IO_Example\Task_File_IO_Example\bin\Debug\net8.0\Task_File_IO_Example.exe
+C:\vs code\C#\Task_File_IO_Example\Task_File_IO_Example\bin\Debug\net8.0\Task_File_IO_Example.deps.json
+C:\vs code\C#\Task_File_IO_Example\Task_File_IO_Example\bin\Debug\net8.0\Task_File_IO_Example.runtimeconfig.json
+C:\vs code\C#\Task_File_IO_Example\Task_File_IO_Example\bin\Debug\net8.0\Task_File_IO_Example.dll
+C:\vs code\C#\Task_File_IO_Example\Task_File_IO_Example\bin\Debug\net8.0\Task_File_IO_Example.pdb
+C:\vs code\C#\Task_File_IO_Example\Task_File_IO_Example\obj\Debug\net8.0\Task_File_IO_Example.dll
+C:\vs code\C#\Task_File_IO_Example\Task_File_IO_Example\obj\Debug\net8.0\refint\Task_File_IO_Example.dll
+C:\vs code\C#\Task_File_IO_Example\Task_File_IO_Example\obj\Debug\net8.0\Task_File_IO_Example.pdb
+C:\vs code\C#\Task_File_IO_Example\Task_File_IO_Example\obj\Debug\net8.0\Task_File_IO_Example.genruntimeconfig.cache
+C:\vs code\C#\Task_File_IO_Example\Task_File_IO_Example\obj\Debug\net8.0\ref\Task_File_IO_Example.dll

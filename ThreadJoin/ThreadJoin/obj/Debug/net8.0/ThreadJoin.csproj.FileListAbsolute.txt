@@ -1,0 +1,15 @@
+C:\vs code\C#\ThreadJoin\ThreadJoin\bin\Debug\net8.0\ThreadJoin.exe
+C:\vs code\C#\ThreadJoin\ThreadJoin\bin\Debug\net8.0\ThreadJoin.deps.json
+C:\vs code\C#\ThreadJoin\ThreadJoin\bin\Debug\net8.0\ThreadJoin.runtimeconfig.json
+C:\vs code\C#\ThreadJoin\ThreadJoin\bin\Debug\net8.0\ThreadJoin.dll
+C:\vs code\C#\ThreadJoin\ThreadJoin\bin\Debug\net8.0\ThreadJoin.pdb
+C:\vs code\C#\ThreadJoin\ThreadJoin\obj\Debug\net8.0\ThreadJoin.GeneratedMSBuildEditorConfig.editorconfig
+C:\vs code\C#\ThreadJoin\ThreadJoin\obj\Debug\net8.0\ThreadJoin.AssemblyInfoInputs.cache
+C:\vs code\C#\ThreadJoin\ThreadJoin\obj\Debug\net8.0\ThreadJoin.AssemblyInfo.cs
+C:\vs code\C#\ThreadJoin\ThreadJoin\obj\Debug\net8.0\ThreadJoin.csproj.CoreCompileInputs.cache
+C:\vs code\C#\ThreadJoin\ThreadJoin\obj\Debug\net8.0\ThreadJoin.sourcelink.json
+C:\vs code\C#\ThreadJoin\ThreadJoin\obj\Debug\net8.0\ThreadJoin.dll
+C:\vs code\C#\ThreadJoin\ThreadJoin\obj\Debug\net8.0\refint\ThreadJoin.dll
+C:\vs code\C#\ThreadJoin\ThreadJoin\obj\Debug\net8.0\ThreadJoin.pdb
+C:\vs code\C#\ThreadJoin\ThreadJoin\obj\Debug\net8.0\ThreadJoin.genruntimeconfig.cache
+C:\vs code\C#\ThreadJoin\ThreadJoin\obj\Debug\net8.0\ref\ThreadJoin.dll

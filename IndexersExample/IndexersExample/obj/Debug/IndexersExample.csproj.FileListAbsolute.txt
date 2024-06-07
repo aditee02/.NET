@@ -1,0 +1,10 @@
+C:\vs code\C#\IndexersExample\IndexersExample\bin\Debug\IndexersExample.exe.config
+C:\vs code\C#\IndexersExample\IndexersExample\bin\Debug\IndexersExample.exe
+C:\vs code\C#\IndexersExample\IndexersExample\bin\Debug\IndexersExample.pdb
+C:\vs code\C#\IndexersExample\IndexersExample\bin\Debug\ClassLibrary1.dll
+C:\vs code\C#\IndexersExample\IndexersExample\bin\Debug\ClassLibrary1.pdb
+C:\vs code\C#\IndexersExample\IndexersExample\obj\Debug\IndexersExample.csproj.AssemblyReference.cache
+C:\vs code\C#\IndexersExample\IndexersExample\obj\Debug\IndexersExample.csproj.CoreCompileInputs.cache
+C:\vs code\C#\IndexersExample\IndexersExample\obj\Debug\Indexers.2DD698FC.Up2Date
+C:\vs code\C#\IndexersExample\IndexersExample\obj\Debug\IndexersExample.exe
+C:\vs code\C#\IndexersExample\IndexersExample\obj\Debug\IndexersExample.pdb

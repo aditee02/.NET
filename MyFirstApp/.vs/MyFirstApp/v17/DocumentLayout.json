@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\vs code\\C#\\MyFirstApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D7B8D90-1C4B-4AAB-86CD-9EA8D0D65EDA}|MyFirstApp\\MyFirstApp.csproj|c:\\vs code\\c#\\myfirstapp\\myfirstapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1D7B8D90-1C4B-4AAB-86CD-9EA8D0D65EDA}|MyFirstApp\\MyFirstApp.csproj|solutionrelative:myfirstapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D7B8D90-1C4B-4AAB-86CD-9EA8D0D65EDA}|MyFirstApp\\MyFirstApp.csproj|c:\\vs code\\c#\\myfirstapp\\myfirstapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1D7B8D90-1C4B-4AAB-86CD-9EA8D0D65EDA}|MyFirstApp\\MyFirstApp.csproj|solutionrelative:myfirstapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D7B8D90-1C4B-4AAB-86CD-9EA8D0D65EDA}|MyFirstApp\\MyFirstApp.csproj|c:\\vs code\\c#\\myfirstapp\\myfirstapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D7B8D90-1C4B-4AAB-86CD-9EA8D0D65EDA}|MyFirstApp\\MyFirstApp.csproj|solutionrelative:myfirstapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D7B8D90-1C4B-4AAB-86CD-9EA8D0D65EDA}|MyFirstApp\\MyFirstApp.csproj|c:\\vs code\\c#\\myfirstapp\\myfirstapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D7B8D90-1C4B-4AAB-86CD-9EA8D0D65EDA}|MyFirstApp\\MyFirstApp.csproj|solutionrelative:myfirstapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D7B8D90-1C4B-4AAB-86CD-9EA8D0D65EDA}|MyFirstApp\\MyFirstApp.csproj|c:\\vs code\\c#\\myfirstapp\\myfirstapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D7B8D90-1C4B-4AAB-86CD-9EA8D0D65EDA}|MyFirstApp\\MyFirstApp.csproj|solutionrelative:myfirstapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D7B8D90-1C4B-4AAB-86CD-9EA8D0D65EDA}|MyFirstApp\\MyFirstApp.csproj|c:\\vs code\\c#\\myfirstapp\\myfirstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D7B8D90-1C4B-4AAB-86CD-9EA8D0D65EDA}|MyFirstApp\\MyFirstApp.csproj|solutionrelative:myfirstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 361,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 32,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\vs code\\C#\\MyFirstApp\\MyFirstApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MyFirstApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\vs code\\C#\\MyFirstApp\\MyFirstApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MyFirstApp\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAYAAAD4//////9AwA8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-13T12:12:16.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\vs code\\C#\\MyFirstApp\\MyFirstApp\\appsettings.json",
+              "RelativeDocumentMoniker": "MyFirstApp\\appsettings.json",
+              "ToolTip": "C:\\vs code\\C#\\MyFirstApp\\MyFirstApp\\appsettings.json",
+              "RelativeToolTip": "MyFirstApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-13T12:12:02.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\vs code\\C#\\MyFirstApp\\MyFirstApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "MyFirstApp\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\vs code\\C#\\MyFirstApp\\MyFirstApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "MyFirstApp\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T06:32:34.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\vs code\\C#\\MyFirstApp\\MyFirstApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MyFirstApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\vs code\\C#\\MyFirstApp\\MyFirstApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MyFirstApp\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T06:31:59.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\vs code\\C#\\MyFirstApp\\MyFirstApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MyFirstApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\vs code\\C#\\MyFirstApp\\MyFirstApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MyFirstApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAMjMzMzMLwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T06:30:24.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\vs code\\C#\\MyFirstApp\\MyFirstApp\\Program.cs",
+              "RelativeDocumentMoniker": "MyFirstApp\\Program.cs",
+              "ToolTip": "C:\\vs code\\C#\\MyFirstApp\\MyFirstApp\\Program.cs",
+              "RelativeToolTip": "MyFirstApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T06:25:23.445Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+﻿@model VehicalRentalSystem1.ViewModel.VehicalViewModel
+
+@{
+    ViewData["Title"] = "Register Vehical";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Slide Bar with Drawer Icon</title>
+    <style>
+        body {
+            background-color: #f8f9fa;
+            font-family: Arial, sans-serif;
+        }
+
+        .container {
+            margin-top: 50px;
+        }
+
+        h1 {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .form-group {
+            margin-bottom: 20px;
+        }
+
+        .btn-primary {
+            width: 100%;
+        }
+
+        .login-link {
+            display: block;
+            text-align: center;
+            margin-top: 20px;
+            color: #007bff;
+        }
+
+            .login-link:hover {
+                text-decoration: none;
+                color: #0056b3;
+            }
+
+        .navbar {
+            background-color: #f8f9fa;
+            padding: 10px 20px;
+            box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        .slide-bar {
+            width: 250px;
+            height: 100%;
+            position: fixed;
+            top: 0;
+            left: -250px;
+            background-color: #333;
+            transition: left 0.3s ease;
+            z-index: 1000;
+            padding-top: 90px;
+            color: white;
+        }
+
+            .slide-bar a {
+                display: block;
+                padding: 10px 20px;
+                text-decoration: none;
+                color: white;
+                transition: background-color 0.3s ease;
+            }
+
+                .slide-bar a:hover {
+                    background-color: #555;
+                }
+
+        .drawer-icon {
+            position: fixed;
+            top: 70px;
+            left: 20px;
+            z-index: 2000;
+            cursor: pointer;
+        }
+
+            .drawer-icon span {
+                display: block;
+                width: 30px;
+                height: 3px;
+                background-color: grey;
+                margin-bottom: 5px;
+                transition: transform 0.3s ease;
+            }
+
+            .drawer-icon.open span:nth-child(1) {
+                transform: rotate(-45deg) translate(-5px, 6px);
+            }
+
+            .drawer-icon.open span:nth-child(2) {
+                opacity: 0;
+            }
+
+            .drawer-icon.open span:nth-child(3) {
+                transform: rotate(45deg) translate(-5px, -6px);
+            }
+
+    </style>
+</head>
+
+<body>
+
+    <div class="drawer-icon" onclick="toggleSlideBar()">
+        <span></span>
+        <span></span>
+        <span></span>
+    </div>
+    <div class="slide-bar" id="slideBar">
+        <a href="/User/Dashboard">Explore</a>
+        <a href="/User/MyTrips">My Trips</a>
+        <a href="/User/RentEarn">Rent and Earn</a>
+        <a href="/User/Profile">Profile</a>
+    </div>
+
+    <h1>Register Vehical</h1>
+    <div class="row justify-content-center">    
+        <div class="col-md-6">
+            <form asp-action="AddVehical" enctype="multipart/form-data">
+                <div class="form-group">
+                    <label asp-for="Model" class="control-label"></label>
+                    <input asp-for="Model" class="form-control" />
+                    <span asp-validation-for="Model" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Year" class="control-label"></label>
+                    <input asp-for="Year" class="form-control" />
+                    <span asp-validation-for="Year" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Type" class="control-label"></label>
+                    <input asp-for="Type" class="form-control" />
+                    <span asp-validation-for="Type" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="LicenseNo" class="control-label"></label>
+                    <input asp-for="LicenseNo" class="form-control" />
+                    <span asp-validation-for="LicenseNo" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Color" class="control-label"></label>
+                    <input asp-for="Color" class="form-control" />
+                    <span asp-validation-for="Color" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Mileage" class="control-label"></label>
+                    <input asp-for="Mileage" class="form-control" />
+                    <span asp-validation-for="Mileage" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="AvailabilityStatus" class="control-label">Availability Status:</label>
+                    <select id="AvailabilityStatus" name="AvailabilityStatus" class="form-control">
+                        <option value="true">Yes</option>
+                        <option value="false">No</option>
+                    </select>
+                    <span class="text-danger"></span>
+                </div>
+
+
+                <div class="form-group">
+                    <label asp-for="RentalRatePerHour" class="control-label"></label>
+                    <input asp-for="RentalRatePerHour" class="form-control" />
+                    <span asp-validation-for="RentalRatePerHour" class="text-danger"></span>
+                </div>
+
+                 <div class="form-group">
+                        <label asp-for="Vehical_Photo" class="control-label">Vehical Image:</label>
+                    <input type="file" id="Vehical_Photo" name="Vehical_Photo" class="form-control-file" />
+                      
+                    </div>
+
+
+                <div class="form-group">
+                    <label for="insuranceAvailable" class="control-label">Insurance Available:</label>
+                    <select id="insuranceAvailable" name="insuranceAvailable" class="form-control">
+                        <option value="true">Yes</option>
+                        <option value="false">No</option>
+                    </select>
+                    <span class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="InsuranceInfo" class="control-label"></label>
+                    <input asp-for="InsuranceInfo" class="form-control" />
+                    <span asp-validation-for="InsuranceInfo" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="Register" class="btn btn-primary" />
+                </div>
+            </form>
+        </div>
+    </div>
+    <script>
+        function toggleSlideBar() {
+            var slideBar = document.getElementById('slideBar');
+            var drawerIcon = document.querySelector('.drawer-icon');
+            slideBar.style.left = slideBar.style.left === '0px' ? '-250px' : '0px';
+            drawerIcon.classList.toggle('open');
+        }
+
+        function logout() {
+            window.location.href = '@Url.Action("Logout", "User")';
+        }
+
+
+    </script>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+
+</html>

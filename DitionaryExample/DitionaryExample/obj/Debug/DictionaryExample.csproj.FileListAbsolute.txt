@@ -1,0 +1,7 @@
+C:\vs code\C#\DitionaryExample\DitionaryExample\bin\Debug\DitionaryExample.exe.config
+C:\vs code\C#\DitionaryExample\DitionaryExample\bin\Debug\DitionaryExample.exe
+C:\vs code\C#\DitionaryExample\DitionaryExample\bin\Debug\DitionaryExample.pdb
+C:\vs code\C#\DitionaryExample\DitionaryExample\obj\Debug\DictionaryExample.csproj.AssemblyReference.cache
+C:\vs code\C#\DitionaryExample\DitionaryExample\obj\Debug\DictionaryExample.csproj.CoreCompileInputs.cache
+C:\vs code\C#\DitionaryExample\DitionaryExample\obj\Debug\DitionaryExample.exe
+C:\vs code\C#\DitionaryExample\DitionaryExample\obj\Debug\DitionaryExample.pdb

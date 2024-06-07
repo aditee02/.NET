@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\vs code\\C#\\PartialClassExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D30A3710-65A3-4D6B-928F-FCCB0A4C5CB5}|ClassLibrary1\\ClassLibrary1.csproj|c:\\vs code\\c#\\partialclassexample\\classlibrary1\\file2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D30A3710-65A3-4D6B-928F-FCCB0A4C5CB5}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\file2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958B65E1-A565-46D9-B005-760B6A99B165}|PartialClassExample\\PartialClassExample.csproj|c:\\vs code\\c#\\partialclassexample\\partialclassexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{958B65E1-A565-46D9-B005-760B6A99B165}|PartialClassExample\\PartialClassExample.csproj|solutionrelative:partialclassexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30A3710-65A3-4D6B-928F-FCCB0A4C5CB5}|ClassLibrary1\\ClassLibrary1.csproj|c:\\vs code\\c#\\partialclassexample\\classlibrary1\\file1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D30A3710-65A3-4D6B-928F-FCCB0A4C5CB5}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\file1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30A3710-65A3-4D6B-928F-FCCB0A4C5CB5}|ClassLibrary1\\ClassLibrary1.csproj|c:\\vs code\\c#\\partialclassexample\\classlibrary1\\file3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D30A3710-65A3-4D6B-928F-FCCB0A4C5CB5}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\file3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 289,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\vs code\\C#\\PartialClassExample\\PartialClassExample\\Program.cs",
+              "RelativeDocumentMoniker": "PartialClassExample\\Program.cs",
+              "ToolTip": "C:\\vs code\\C#\\PartialClassExample\\PartialClassExample\\Program.cs",
+              "RelativeToolTip": "PartialClassExample\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAMjMzMzPzvxAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T08:28:32.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "File2.cs",
+              "DocumentMoniker": "C:\\vs code\\C#\\PartialClassExample\\ClassLibrary1\\File2.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\File2.cs",
+              "ToolTip": "C:\\vs code\\C#\\PartialClassExample\\ClassLibrary1\\File2.cs",
+              "RelativeToolTip": "ClassLibrary1\\File2.cs",
+              "ViewState": "AQIAAAsAAAAgAAAAAAAYwBcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T08:31:26.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "File1.cs",
+              "DocumentMoniker": "C:\\vs code\\C#\\PartialClassExample\\ClassLibrary1\\File1.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\File1.cs",
+              "ToolTip": "C:\\vs code\\C#\\PartialClassExample\\ClassLibrary1\\File1.cs",
+              "RelativeToolTip": "ClassLibrary1\\File1.cs",
+              "ViewState": "AQIAAAQAAADwmJmZmZklwBUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T08:29:46.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "File3.cs",
+              "DocumentMoniker": "C:\\vs code\\C#\\PartialClassExample\\ClassLibrary1\\File3.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\File3.cs",
+              "ToolTip": "C:\\vs code\\C#\\PartialClassExample\\ClassLibrary1\\File3.cs",
+              "RelativeToolTip": "ClassLibrary1\\File3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T08:31:44.236Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

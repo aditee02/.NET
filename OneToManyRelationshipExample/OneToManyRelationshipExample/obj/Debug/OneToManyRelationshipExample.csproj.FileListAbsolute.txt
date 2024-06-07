@@ -1,0 +1,10 @@
+C:\vs code\C#\OneToManyRelationshipExample\OneToManyRelationshipExample\bin\Debug\OneToManyRelationshipExample.exe.config
+C:\vs code\C#\OneToManyRelationshipExample\OneToManyRelationshipExample\bin\Debug\OneToManyRelationshipExample.exe
+C:\vs code\C#\OneToManyRelationshipExample\OneToManyRelationshipExample\bin\Debug\OneToManyRelationshipExample.pdb
+C:\vs code\C#\OneToManyRelationshipExample\OneToManyRelationshipExample\bin\Debug\ClassLibrary1.dll
+C:\vs code\C#\OneToManyRelationshipExample\OneToManyRelationshipExample\bin\Debug\ClassLibrary1.pdb
+C:\vs code\C#\OneToManyRelationshipExample\OneToManyRelationshipExample\obj\Debug\OneToManyRelationshipExample.csproj.AssemblyReference.cache
+C:\vs code\C#\OneToManyRelationshipExample\OneToManyRelationshipExample\obj\Debug\OneToManyRelationshipExample.csproj.CoreCompileInputs.cache
+C:\vs code\C#\OneToManyRelationshipExample\OneToManyRelationshipExample\obj\Debug\OneToMan.7B9F1140.Up2Date
+C:\vs code\C#\OneToManyRelationshipExample\OneToManyRelationshipExample\obj\Debug\OneToManyRelationshipExample.exe
+C:\vs code\C#\OneToManyRelationshipExample\OneToManyRelationshipExample\obj\Debug\OneToManyRelationshipExample.pdb

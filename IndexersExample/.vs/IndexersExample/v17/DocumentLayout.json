@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\vs code\\C#\\IndexersExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DE4F39B-F71D-42ED-A533-B04FD0B8CACF}|ClassLibrary1\\ClassLibrary1.csproj|c:\\vs code\\c#\\indexersexample\\classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DE4F39B-F71D-42ED-A533-B04FD0B8CACF}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA19630A-610B-4D20-BEE5-B86023E14445}|IndexersExample\\IndexersExample.csproj|c:\\vs code\\c#\\indexersexample\\indexersexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA19630A-610B-4D20-BEE5-B86023E14445}|IndexersExample\\IndexersExample.csproj|solutionrelative:indexersexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 104,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\vs code\\C#\\IndexersExample\\ClassLibrary1\\Class1.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Class1.cs",
+              "ToolTip": "C:\\vs code\\C#\\IndexersExample\\ClassLibrary1\\Class1.cs",
+              "RelativeToolTip": "ClassLibrary1\\Class1.cs",
+              "ViewState": "AQIAAAYAAAAwMzMzMzMowBAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T08:58:55.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\vs code\\C#\\IndexersExample\\IndexersExample\\Program.cs",
+              "RelativeDocumentMoniker": "IndexersExample\\Program.cs",
+              "ToolTip": "C:\\vs code\\C#\\IndexersExample\\IndexersExample\\Program.cs",
+              "RelativeToolTip": "IndexersExample\\Program.cs",
+              "ViewState": "AQIAAAEAAAAwMzMzMzM7wA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T08:57:58.037Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

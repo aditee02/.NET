@@ -1,0 +1,7 @@
+C:\vs code\C#\StreamWriterReaderExample\StreamWriterReaderExample\bin\Debug\StreamWriterReaderExample.exe.config
+C:\vs code\C#\StreamWriterReaderExample\StreamWriterReaderExample\bin\Debug\StreamWriterReaderExample.exe
+C:\vs code\C#\StreamWriterReaderExample\StreamWriterReaderExample\bin\Debug\StreamWriterReaderExample.pdb
+C:\vs code\C#\StreamWriterReaderExample\StreamWriterReaderExample\obj\Debug\StreamWriterReaderExample.csproj.AssemblyReference.cache
+C:\vs code\C#\StreamWriterReaderExample\StreamWriterReaderExample\obj\Debug\StreamWriterReaderExample.csproj.CoreCompileInputs.cache
+C:\vs code\C#\StreamWriterReaderExample\StreamWriterReaderExample\obj\Debug\StreamWriterReaderExample.exe
+C:\vs code\C#\StreamWriterReaderExample\StreamWriterReaderExample\obj\Debug\StreamWriterReaderExample.pdb

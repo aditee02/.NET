@@ -1,0 +1,10 @@
+C:\vs code\C#\IDisposableExample\IDisposableExample\bin\Debug\IDisposableExample.exe.config
+C:\vs code\C#\IDisposableExample\IDisposableExample\bin\Debug\IDisposableExample.exe
+C:\vs code\C#\IDisposableExample\IDisposableExample\bin\Debug\IDisposableExample.pdb
+C:\vs code\C#\IDisposableExample\IDisposableExample\bin\Debug\ClassLibrary1.dll
+C:\vs code\C#\IDisposableExample\IDisposableExample\bin\Debug\ClassLibrary1.pdb
+C:\vs code\C#\IDisposableExample\IDisposableExample\obj\Debug\IDisposableExample.csproj.AssemblyReference.cache
+C:\vs code\C#\IDisposableExample\IDisposableExample\obj\Debug\IDisposableExample.csproj.CoreCompileInputs.cache
+C:\vs code\C#\IDisposableExample\IDisposableExample\obj\Debug\IDisposa.C5B6BAA2.Up2Date
+C:\vs code\C#\IDisposableExample\IDisposableExample\obj\Debug\IDisposableExample.exe
+C:\vs code\C#\IDisposableExample\IDisposableExample\obj\Debug\IDisposableExample.pdb

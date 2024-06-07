@@ -1,0 +1,7 @@
+C:\vs code\C#\FileStreamClassExample\FileStreamClassExample\bin\Debug\FileStreamClassExample.exe.config
+C:\vs code\C#\FileStreamClassExample\FileStreamClassExample\bin\Debug\FileStreamClassExample.exe
+C:\vs code\C#\FileStreamClassExample\FileStreamClassExample\bin\Debug\FileStreamClassExample.pdb
+C:\vs code\C#\FileStreamClassExample\FileStreamClassExample\obj\Debug\FileStreamClassExample.csproj.AssemblyReference.cache
+C:\vs code\C#\FileStreamClassExample\FileStreamClassExample\obj\Debug\FileStreamClassExample.csproj.CoreCompileInputs.cache
+C:\vs code\C#\FileStreamClassExample\FileStreamClassExample\obj\Debug\FileStreamClassExample.exe
+C:\vs code\C#\FileStreamClassExample\FileStreamClassExample\obj\Debug\FileStreamClassExample.pdb

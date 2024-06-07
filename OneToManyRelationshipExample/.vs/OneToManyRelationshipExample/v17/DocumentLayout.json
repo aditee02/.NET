@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\vs code\\C#\\OneToManyRelationshipExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EAA98DF-4047-4608-B5A3-A2C8FE19E652}|OneToManyRelationshipExample\\OneToManyRelationshipExample.csproj|c:\\vs code\\c#\\onetomanyrelationshipexample\\onetomanyrelationshipexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EAA98DF-4047-4608-B5A3-A2C8FE19E652}|OneToManyRelationshipExample\\OneToManyRelationshipExample.csproj|solutionrelative:onetomanyrelationshipexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B63844-79E7-4F0C-9A2F-64B864501C45}|ClassLibrary1\\ClassLibrary1.csproj|c:\\vs code\\c#\\onetomanyrelationshipexample\\classlibrary1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6B63844-79E7-4F0C-9A2F-64B864501C45}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B63844-79E7-4F0C-9A2F-64B864501C45}|ClassLibrary1\\ClassLibrary1.csproj|c:\\vs code\\c#\\onetomanyrelationshipexample\\classlibrary1\\examination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6B63844-79E7-4F0C-9A2F-64B864501C45}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\examination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 289,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Examination.cs",
+              "DocumentMoniker": "C:\\vs code\\C#\\OneToManyRelationshipExample\\ClassLibrary1\\Examination.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Examination.cs",
+              "ToolTip": "C:\\vs code\\C#\\OneToManyRelationshipExample\\ClassLibrary1\\Examination.cs",
+              "RelativeToolTip": "ClassLibrary1\\Examination.cs",
+              "ViewState": "AQIAAAYAAAAAmJmZmZkJwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T09:18:54.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\vs code\\C#\\OneToManyRelationshipExample\\ClassLibrary1\\Student.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Student.cs",
+              "ToolTip": "C:\\vs code\\C#\\OneToManyRelationshipExample\\ClassLibrary1\\Student.cs",
+              "RelativeToolTip": "ClassLibrary1\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T09:16:11.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\vs code\\C#\\OneToManyRelationshipExample\\OneToManyRelationshipExample\\Program.cs",
+              "RelativeDocumentMoniker": "OneToManyRelationshipExample\\Program.cs",
+              "ToolTip": "C:\\vs code\\C#\\OneToManyRelationshipExample\\OneToManyRelationshipExample\\Program.cs",
+              "RelativeToolTip": "OneToManyRelationshipExample\\Program.cs",
+              "ViewState": "AQIAABIAAAAAQjMzMzP7vx0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T09:15:51.961Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

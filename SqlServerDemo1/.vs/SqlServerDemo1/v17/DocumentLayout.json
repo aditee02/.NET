@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\vs code\\C#\\SqlServerDemo1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF13869-AFC8-4EBD-BEC3-D0BE586D0ABD}|SqlServerDemo1\\SqlServerDemo1.csproj|c:\\vs code\\c#\\sqlserverdemo1\\sqlserverdemo1\\models\\demo1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF13869-AFC8-4EBD-BEC3-D0BE586D0ABD}|SqlServerDemo1\\SqlServerDemo1.csproj|solutionrelative:sqlserverdemo1\\models\\demo1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF13869-AFC8-4EBD-BEC3-D0BE586D0ABD}|SqlServerDemo1\\SqlServerDemo1.csproj|c:\\vs code\\c#\\sqlserverdemo1\\sqlserverdemo1\\sqlserverdemo1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8BF13869-AFC8-4EBD-BEC3-D0BE586D0ABD}|SqlServerDemo1\\SqlServerDemo1.csproj|solutionrelative:sqlserverdemo1\\sqlserverdemo1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF13869-AFC8-4EBD-BEC3-D0BE586D0ABD}|SqlServerDemo1\\SqlServerDemo1.csproj|c:\\vs code\\c#\\sqlserverdemo1\\sqlserverdemo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF13869-AFC8-4EBD-BEC3-D0BE586D0ABD}|SqlServerDemo1\\SqlServerDemo1.csproj|solutionrelative:sqlserverdemo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 361,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Demo1Context.cs",
+              "DocumentMoniker": "C:\\vs code\\C#\\SqlServerDemo1\\SqlServerDemo1\\Models\\Demo1Context.cs",
+              "RelativeDocumentMoniker": "SqlServerDemo1\\Models\\Demo1Context.cs",
+              "ToolTip": "C:\\vs code\\C#\\SqlServerDemo1\\SqlServerDemo1\\Models\\Demo1Context.cs",
+              "RelativeToolTip": "SqlServerDemo1\\Models\\Demo1Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAXAQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T05:07:24.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SqlServerDemo1.csproj",
+              "DocumentMoniker": "C:\\vs code\\C#\\SqlServerDemo1\\SqlServerDemo1\\SqlServerDemo1.csproj",
+              "RelativeDocumentMoniker": "SqlServerDemo1\\SqlServerDemo1.csproj",
+              "ToolTip": "C:\\vs code\\C#\\SqlServerDemo1\\SqlServerDemo1\\SqlServerDemo1.csproj",
+              "RelativeToolTip": "SqlServerDemo1\\SqlServerDemo1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-03T04:47:47.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\vs code\\C#\\SqlServerDemo1\\SqlServerDemo1\\Program.cs",
+              "RelativeDocumentMoniker": "SqlServerDemo1\\Program.cs",
+              "ToolTip": "C:\\vs code\\C#\\SqlServerDemo1\\SqlServerDemo1\\Program.cs",
+              "RelativeToolTip": "SqlServerDemo1\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T04:43:33.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

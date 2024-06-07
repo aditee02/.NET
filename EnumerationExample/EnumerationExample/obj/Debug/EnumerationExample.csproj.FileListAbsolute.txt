@@ -1,0 +1,10 @@
+C:\vs code\C#\EnumerationExample\EnumerationExample\bin\Debug\EnumerationExample.exe.config
+C:\vs code\C#\EnumerationExample\EnumerationExample\bin\Debug\EnumerationExample.exe
+C:\vs code\C#\EnumerationExample\EnumerationExample\bin\Debug\EnumerationExample.pdb
+C:\vs code\C#\EnumerationExample\EnumerationExample\bin\Debug\ClassLibrary1.dll
+C:\vs code\C#\EnumerationExample\EnumerationExample\bin\Debug\ClassLibrary1.pdb
+C:\vs code\C#\EnumerationExample\EnumerationExample\obj\Debug\EnumerationExample.csproj.AssemblyReference.cache
+C:\vs code\C#\EnumerationExample\EnumerationExample\obj\Debug\EnumerationExample.csproj.CoreCompileInputs.cache
+C:\vs code\C#\EnumerationExample\EnumerationExample\obj\Debug\Enumerat.C98ADA1F.Up2Date
+C:\vs code\C#\EnumerationExample\EnumerationExample\obj\Debug\EnumerationExample.exe
+C:\vs code\C#\EnumerationExample\EnumerationExample\obj\Debug\EnumerationExample.pdb

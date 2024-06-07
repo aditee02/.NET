@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormatExceptionExample", "FormatExceptionExample\FormatExceptionExample.csproj", "{244E62DD-F87A-45DA-991B-0F7C8809D753}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{244E62DD-F87A-45DA-991B-0F7C8809D753}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{244E62DD-F87A-45DA-991B-0F7C8809D753}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{244E62DD-F87A-45DA-991B-0F7C8809D753}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{244E62DD-F87A-45DA-991B-0F7C8809D753}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C72AA02-26A0-4F79-BB01-362E371D509E}
+	EndGlobalSection
+EndGlobal

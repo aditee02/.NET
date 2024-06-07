@@ -1,0 +1,7 @@
+C:\vs code\C#\FormatExceptionExample\FormatExceptionExample\bin\Debug\FormatExceptionExample.exe.config
+C:\vs code\C#\FormatExceptionExample\FormatExceptionExample\bin\Debug\FormatExceptionExample.exe
+C:\vs code\C#\FormatExceptionExample\FormatExceptionExample\bin\Debug\FormatExceptionExample.pdb
+C:\vs code\C#\FormatExceptionExample\FormatExceptionExample\obj\Debug\FormatExceptionExample.csproj.AssemblyReference.cache
+C:\vs code\C#\FormatExceptionExample\FormatExceptionExample\obj\Debug\FormatExceptionExample.csproj.CoreCompileInputs.cache
+C:\vs code\C#\FormatExceptionExample\FormatExceptionExample\obj\Debug\FormatExceptionExample.exe
+C:\vs code\C#\FormatExceptionExample\FormatExceptionExample\obj\Debug\FormatExceptionExample.pdb

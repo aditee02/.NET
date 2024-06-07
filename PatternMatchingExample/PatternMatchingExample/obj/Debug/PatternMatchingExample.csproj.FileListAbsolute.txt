@@ -1,0 +1,10 @@
+C:\vs code\C#\PatternMatchingExample\PatternMatchingExample\obj\Debug\PatternMatchingExample.csproj.AssemblyReference.cache
+C:\vs code\C#\PatternMatchingExample\PatternMatchingExample\obj\Debug\PatternMatchingExample.csproj.CoreCompileInputs.cache
+C:\vs code\C#\PatternMatchingExample\PatternMatchingExample\bin\Debug\PatternMatchingExample.exe.config
+C:\vs code\C#\PatternMatchingExample\PatternMatchingExample\bin\Debug\PatternMatchingExample.exe
+C:\vs code\C#\PatternMatchingExample\PatternMatchingExample\bin\Debug\PatternMatchingExample.pdb
+C:\vs code\C#\PatternMatchingExample\PatternMatchingExample\bin\Debug\ClassLibrary1.dll
+C:\vs code\C#\PatternMatchingExample\PatternMatchingExample\bin\Debug\ClassLibrary1.pdb
+C:\vs code\C#\PatternMatchingExample\PatternMatchingExample\obj\Debug\PatternM.74812CC4.Up2Date
+C:\vs code\C#\PatternMatchingExample\PatternMatchingExample\obj\Debug\PatternMatchingExample.exe
+C:\vs code\C#\PatternMatchingExample\PatternMatchingExample\obj\Debug\PatternMatchingExample.pdb

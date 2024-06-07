@@ -1,0 +1,15 @@
+C:\vs code\C#\TaskExample2_Task_Factory_StartNew\TaskExample2_Task_Factory_StartNew\bin\Debug\net8.0\TaskExample2_Task_Factory_StartNew.exe
+C:\vs code\C#\TaskExample2_Task_Factory_StartNew\TaskExample2_Task_Factory_StartNew\bin\Debug\net8.0\TaskExample2_Task_Factory_StartNew.deps.json
+C:\vs code\C#\TaskExample2_Task_Factory_StartNew\TaskExample2_Task_Factory_StartNew\bin\Debug\net8.0\TaskExample2_Task_Factory_StartNew.runtimeconfig.json
+C:\vs code\C#\TaskExample2_Task_Factory_StartNew\TaskExample2_Task_Factory_StartNew\bin\Debug\net8.0\TaskExample2_Task_Factory_StartNew.dll
+C:\vs code\C#\TaskExample2_Task_Factory_StartNew\TaskExample2_Task_Factory_StartNew\bin\Debug\net8.0\TaskExample2_Task_Factory_StartNew.pdb
+C:\vs code\C#\TaskExample2_Task_Factory_StartNew\TaskExample2_Task_Factory_StartNew\obj\Debug\net8.0\TaskExample2_Task_Factory_StartNew.GeneratedMSBuildEditorConfig.editorconfig
+C:\vs code\C#\TaskExample2_Task_Factory_StartNew\TaskExample2_Task_Factory_StartNew\obj\Debug\net8.0\TaskExample2_Task_Factory_StartNew.AssemblyInfoInputs.cache
+C:\vs code\C#\TaskExample2_Task_Factory_StartNew\TaskExample2_Task_Factory_StartNew\obj\Debug\net8.0\TaskExample2_Task_Factory_StartNew.AssemblyInfo.cs
+C:\vs code\C#\TaskExample2_Task_Factory_StartNew\TaskExample2_Task_Factory_StartNew\obj\Debug\net8.0\TaskExample2_Task_Factory_StartNew.csproj.CoreCompileInputs.cache
+C:\vs code\C#\TaskExample2_Task_Factory_StartNew\TaskExample2_Task_Factory_StartNew\obj\Debug\net8.0\TaskExample2_Task_Factory_StartNew.sourcelink.json
+C:\vs code\C#\TaskExample2_Task_Factory_StartNew\TaskExample2_Task_Factory_StartNew\obj\Debug\net8.0\TaskExample2_Task_Factory_StartNew.dll
+C:\vs code\C#\TaskExample2_Task_Factory_StartNew\TaskExample2_Task_Factory_StartNew\obj\Debug\net8.0\refint\TaskExample2_Task_Factory_StartNew.dll
+C:\vs code\C#\TaskExample2_Task_Factory_StartNew\TaskExample2_Task_Factory_StartNew\obj\Debug\net8.0\TaskExample2_Task_Factory_StartNew.pdb
+C:\vs code\C#\TaskExample2_Task_Factory_StartNew\TaskExample2_Task_Factory_StartNew\obj\Debug\net8.0\TaskExample2_Task_Factory_StartNew.genruntimeconfig.cache
+C:\vs code\C#\TaskExample2_Task_Factory_StartNew\TaskExample2_Task_Factory_StartNew\obj\Debug\net8.0\ref\TaskExample2_Task_Factory_StartNew.dll

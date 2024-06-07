@@ -1,0 +1,7 @@
+C:\vs code\C#\ContravarienceExample\ContravarienceExample\bin\Debug\ContravarienceExample.exe.config
+C:\vs code\C#\ContravarienceExample\ContravarienceExample\bin\Debug\ContravarienceExample.exe
+C:\vs code\C#\ContravarienceExample\ContravarienceExample\bin\Debug\ContravarienceExample.pdb
+C:\vs code\C#\ContravarienceExample\ContravarienceExample\obj\Debug\ContravarienceExample.csproj.AssemblyReference.cache
+C:\vs code\C#\ContravarienceExample\ContravarienceExample\obj\Debug\ContravarienceExample.csproj.CoreCompileInputs.cache
+C:\vs code\C#\ContravarienceExample\ContravarienceExample\obj\Debug\ContravarienceExample.exe
+C:\vs code\C#\ContravarienceExample\ContravarienceExample\obj\Debug\ContravarienceExample.pdb

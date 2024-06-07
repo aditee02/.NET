@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\vs code\\C#\\DelegateExample1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{284E0334-A8BE-44A9-8ED7-72B41958A4EC}|ClassLibrary1\\ClassLibrary1.csproj|c:\\vs code\\c#\\delegateexample1\\classlibrary1\\mydelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{284E0334-A8BE-44A9-8ED7-72B41958A4EC}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\mydelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{284E0334-A8BE-44A9-8ED7-72B41958A4EC}|ClassLibrary1\\ClassLibrary1.csproj|c:\\vs code\\c#\\delegateexample1\\classlibrary1\\sample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{284E0334-A8BE-44A9-8ED7-72B41958A4EC}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\sample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328187DD-80CD-43F5-B416-5CC9A62997FB}|DelegateExample1\\DelegateExample1.csproj|c:\\vs code\\c#\\delegateexample1\\delegateexample1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328187DD-80CD-43F5-B416-5CC9A62997FB}|DelegateExample1\\DelegateExample1.csproj|solutionrelative:delegateexample1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 289,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyDelegate.cs",
+              "DocumentMoniker": "C:\\vs code\\C#\\DelegateExample1\\ClassLibrary1\\MyDelegate.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\MyDelegate.cs",
+              "ToolTip": "C:\\vs code\\C#\\DelegateExample1\\ClassLibrary1\\MyDelegate.cs",
+              "RelativeToolTip": "ClassLibrary1\\MyDelegate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T04:41:27.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sample.cs",
+              "DocumentMoniker": "C:\\vs code\\C#\\DelegateExample1\\ClassLibrary1\\Sample.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Sample.cs",
+              "ToolTip": "C:\\vs code\\C#\\DelegateExample1\\ClassLibrary1\\Sample.cs",
+              "RelativeToolTip": "ClassLibrary1\\Sample.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T04:26:42.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\vs code\\C#\\DelegateExample1\\DelegateExample1\\Program.cs",
+              "RelativeDocumentMoniker": "DelegateExample1\\Program.cs",
+              "ToolTip": "C:\\vs code\\C#\\DelegateExample1\\DelegateExample1\\Program.cs",
+              "RelativeToolTip": "DelegateExample1\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAZmZmZmb0vxUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T04:21:32.939Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

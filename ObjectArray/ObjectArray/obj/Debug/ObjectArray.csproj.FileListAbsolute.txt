@@ -1,0 +1,10 @@
+C:\vs code\C#\ObjectArray\ObjectArray\bin\Debug\ObjectArray.exe.config
+C:\vs code\C#\ObjectArray\ObjectArray\bin\Debug\ObjectArray.exe
+C:\vs code\C#\ObjectArray\ObjectArray\bin\Debug\ObjectArray.pdb
+C:\vs code\C#\ObjectArray\ObjectArray\bin\Debug\ClassLibrary1.dll
+C:\vs code\C#\ObjectArray\ObjectArray\bin\Debug\ClassLibrary1.pdb
+C:\vs code\C#\ObjectArray\ObjectArray\obj\Debug\ObjectArray.csproj.AssemblyReference.cache
+C:\vs code\C#\ObjectArray\ObjectArray\obj\Debug\ObjectArray.csproj.CoreCompileInputs.cache
+C:\vs code\C#\ObjectArray\ObjectArray\obj\Debug\ObjectAr.FA8D596F.Up2Date
+C:\vs code\C#\ObjectArray\ObjectArray\obj\Debug\ObjectArray.exe
+C:\vs code\C#\ObjectArray\ObjectArray\obj\Debug\ObjectArray.pdb

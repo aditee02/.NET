@@ -1,0 +1,7 @@
+C:\vs code\C#\IndexOutOfRangeExceptionExample\IndexOutOfRangeExceptionExample\bin\Debug\IndexOutOfRangeExceptionExample.exe.config
+C:\vs code\C#\IndexOutOfRangeExceptionExample\IndexOutOfRangeExceptionExample\bin\Debug\IndexOutOfRangeExceptionExample.exe
+C:\vs code\C#\IndexOutOfRangeExceptionExample\IndexOutOfRangeExceptionExample\bin\Debug\IndexOutOfRangeExceptionExample.pdb
+C:\vs code\C#\IndexOutOfRangeExceptionExample\IndexOutOfRangeExceptionExample\obj\Debug\IndexOutOfRangeExceptionExample.csproj.AssemblyReference.cache
+C:\vs code\C#\IndexOutOfRangeExceptionExample\IndexOutOfRangeExceptionExample\obj\Debug\IndexOutOfRangeExceptionExample.csproj.CoreCompileInputs.cache
+C:\vs code\C#\IndexOutOfRangeExceptionExample\IndexOutOfRangeExceptionExample\obj\Debug\IndexOutOfRangeExceptionExample.exe
+C:\vs code\C#\IndexOutOfRangeExceptionExample\IndexOutOfRangeExceptionExample\obj\Debug\IndexOutOfRangeExceptionExample.pdb

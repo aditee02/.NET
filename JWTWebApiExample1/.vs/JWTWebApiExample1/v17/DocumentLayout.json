@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\vs code\\C#\\JWTWebApiExample1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B16D9FCF-F834-4E7A-8AFB-A559BD63AA1E}|JWTWebApiExample1\\JWTWebApiExample1.csproj|c:\\vs code\\c#\\jwtwebapiexample1\\jwtwebapiexample1\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16D9FCF-F834-4E7A-8AFB-A559BD63AA1E}|JWTWebApiExample1\\JWTWebApiExample1.csproj|solutionrelative:jwtwebapiexample1\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16D9FCF-F834-4E7A-8AFB-A559BD63AA1E}|JWTWebApiExample1\\JWTWebApiExample1.csproj|c:\\vs code\\c#\\jwtwebapiexample1\\jwtwebapiexample1\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16D9FCF-F834-4E7A-8AFB-A559BD63AA1E}|JWTWebApiExample1\\JWTWebApiExample1.csproj|solutionrelative:jwtwebapiexample1\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16D9FCF-F834-4E7A-8AFB-A559BD63AA1E}|JWTWebApiExample1\\JWTWebApiExample1.csproj|c:\\vs code\\c#\\jwtwebapiexample1\\jwtwebapiexample1\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16D9FCF-F834-4E7A-8AFB-A559BD63AA1E}|JWTWebApiExample1\\JWTWebApiExample1.csproj|solutionrelative:jwtwebapiexample1\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16D9FCF-F834-4E7A-8AFB-A559BD63AA1E}|JWTWebApiExample1\\JWTWebApiExample1.csproj|c:\\vs code\\c#\\jwtwebapiexample1\\jwtwebapiexample1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16D9FCF-F834-4E7A-8AFB-A559BD63AA1E}|JWTWebApiExample1\\JWTWebApiExample1.csproj|solutionrelative:jwtwebapiexample1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16D9FCF-F834-4E7A-8AFB-A559BD63AA1E}|JWTWebApiExample1\\JWTWebApiExample1.csproj|c:\\vs code\\c#\\jwtwebapiexample1\\jwtwebapiexample1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B16D9FCF-F834-4E7A-8AFB-A559BD63AA1E}|JWTWebApiExample1\\JWTWebApiExample1.csproj|solutionrelative:jwtwebapiexample1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 361,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\vs code\\C#\\JWTWebApiExample1\\JWTWebApiExample1\\User.cs",
+              "RelativeDocumentMoniker": "JWTWebApiExample1\\User.cs",
+              "ToolTip": "C:\\vs code\\C#\\JWTWebApiExample1\\JWTWebApiExample1\\User.cs",
+              "RelativeToolTip": "JWTWebApiExample1\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T09:08:58.574Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Userdto.cs",
+              "DocumentMoniker": "C:\\vs code\\C#\\JWTWebApiExample1\\JWTWebApiExample1\\Userdto.cs",
+              "RelativeDocumentMoniker": "JWTWebApiExample1\\Userdto.cs",
+              "ToolTip": "C:\\vs code\\C#\\JWTWebApiExample1\\JWTWebApiExample1\\Userdto.cs",
+              "RelativeToolTip": "JWTWebApiExample1\\Userdto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T06:16:45.638Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\vs code\\C#\\JWTWebApiExample1\\JWTWebApiExample1\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "JWTWebApiExample1\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\vs code\\C#\\JWTWebApiExample1\\JWTWebApiExample1\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "JWTWebApiExample1\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAQwFIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T09:11:35.345Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\vs code\\C#\\JWTWebApiExample1\\JWTWebApiExample1\\Program.cs",
+              "RelativeDocumentMoniker": "JWTWebApiExample1\\Program.cs",
+              "ToolTip": "C:\\vs code\\C#\\JWTWebApiExample1\\JWTWebApiExample1\\Program.cs",
+              "RelativeToolTip": "JWTWebApiExample1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T09:05:10.531Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\vs code\\C#\\JWTWebApiExample1\\JWTWebApiExample1\\appsettings.json",
+              "RelativeDocumentMoniker": "JWTWebApiExample1\\appsettings.json",
+              "ToolTip": "C:\\vs code\\C#\\JWTWebApiExample1\\JWTWebApiExample1\\appsettings.json",
+              "RelativeToolTip": "JWTWebApiExample1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-15T06:17:12.057Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,314 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\vs code\\C#\\AuthSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E91523-1B67-43A0-BF9E-3EF9A67287D8}|AuthSystem\\AuthSystem.csproj|c:\\vs code\\c#\\authsystem\\authsystem\\areas\\identity\\pages\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9E91523-1B67-43A0-BF9E-3EF9A67287D8}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\areas\\identity\\pages\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E91523-1B67-43A0-BF9E-3EF9A67287D8}|AuthSystem\\AuthSystem.csproj|c:\\vs code\\c#\\authsystem\\authsystem\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9E91523-1B67-43A0-BF9E-3EF9A67287D8}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E91523-1B67-43A0-BF9E-3EF9A67287D8}|AuthSystem\\AuthSystem.csproj|c:\\vs code\\c#\\authsystem\\authsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9E91523-1B67-43A0-BF9E-3EF9A67287D8}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E91523-1B67-43A0-BF9E-3EF9A67287D8}|AuthSystem\\AuthSystem.csproj|c:\\vs code\\c#\\authsystem\\authsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F9E91523-1B67-43A0-BF9E-3EF9A67287D8}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E91523-1B67-43A0-BF9E-3EF9A67287D8}|AuthSystem\\AuthSystem.csproj|c:\\vs code\\c#\\authsystem\\authsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E91523-1B67-43A0-BF9E-3EF9A67287D8}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E91523-1B67-43A0-BF9E-3EF9A67287D8}|AuthSystem\\AuthSystem.csproj|c:\\vs code\\c#\\authsystem\\authsystem\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E91523-1B67-43A0-BF9E-3EF9A67287D8}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E91523-1B67-43A0-BF9E-3EF9A67287D8}|AuthSystem\\AuthSystem.csproj|c:\\vs code\\c#\\authsystem\\authsystem\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9E91523-1B67-43A0-BF9E-3EF9A67287D8}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E91523-1B67-43A0-BF9E-3EF9A67287D8}|AuthSystem\\AuthSystem.csproj|c:\\vs code\\c#\\authsystem\\authsystem\\migrations\\20240410061805_initial create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E91523-1B67-43A0-BF9E-3EF9A67287D8}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\migrations\\20240410061805_initial create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E91523-1B67-43A0-BF9E-3EF9A67287D8}|AuthSystem\\AuthSystem.csproj|c:\\vs code\\c#\\authsystem\\authsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E91523-1B67-43A0-BF9E-3EF9A67287D8}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E91523-1B67-43A0-BF9E-3EF9A67287D8}|AuthSystem\\AuthSystem.csproj|c:\\vs code\\c#\\authsystem\\authsystem\\authsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F9E91523-1B67-43A0-BF9E-3EF9A67287D8}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\authsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E91523-1B67-43A0-BF9E-3EF9A67287D8}|AuthSystem\\AuthSystem.csproj|c:\\vs code\\c#\\authsystem\\authsystem\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F9E91523-1B67-43A0-BF9E-3EF9A67287D8}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E91523-1B67-43A0-BF9E-3EF9A67287D8}|AuthSystem\\AuthSystem.csproj|c:\\vs code\\c#\\authsystem\\authsystem\\areas\\identity\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E91523-1B67-43A0-BF9E-3EF9A67287D8}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\areas\\identity\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E91523-1B67-43A0-BF9E-3EF9A67287D8}|AuthSystem\\AuthSystem.csproj|c:\\vs code\\c#\\authsystem\\authsystem\\areas\\identity\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E91523-1B67-43A0-BF9E-3EF9A67287D8}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\areas\\identity\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E91523-1B67-43A0-BF9E-3EF9A67287D8}|AuthSystem\\AuthSystem.csproj|c:\\vs code\\c#\\authsystem\\authsystem\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9E91523-1B67-43A0-BF9E-3EF9A67287D8}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E91523-1B67-43A0-BF9E-3EF9A67287D8}|AuthSystem\\AuthSystem.csproj|c:\\vs code\\c#\\authsystem\\authsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9E91523-1B67-43A0-BF9E-3EF9A67287D8}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E91523-1B67-43A0-BF9E-3EF9A67287D8}|AuthSystem\\AuthSystem.csproj|c:\\vs code\\c#\\authsystem\\authsystem\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E91523-1B67-43A0-BF9E-3EF9A67287D8}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E91523-1B67-43A0-BF9E-3EF9A67287D8}|AuthSystem\\AuthSystem.csproj|c:\\vs code\\c#\\authsystem\\authsystem\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F9E91523-1B67-43A0-BF9E-3EF9A67287D8}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 361,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\vs code\\C#\\AuthSystem\\AuthSystem\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AuthSystem\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\vs code\\C#\\AuthSystem\\AuthSystem\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AuthSystem\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T08:45:49.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\vs code\\C#\\AuthSystem\\AuthSystem\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AuthSystem\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\vs code\\C#\\AuthSystem\\AuthSystem\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AuthSystem\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA4AAADAmJmZmVkkwAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T08:40:35.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\vs code\\C#\\AuthSystem\\AuthSystem\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "AuthSystem\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\vs code\\C#\\AuthSystem\\AuthSystem\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "AuthSystem\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAACGmZmZmRkmwAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T08:21:36.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\vs code\\C#\\AuthSystem\\AuthSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "AuthSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\vs code\\C#\\AuthSystem\\AuthSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "AuthSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAALoAAAAAvMzMzMzyv2EAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T07:35:37.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\vs code\\C#\\AuthSystem\\AuthSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "AuthSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\vs code\\C#\\AuthSystem\\AuthSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "AuthSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AQIAAEIAAAAAMDMzM3MiwE0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T06:58:58.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240410061805_Initial Create.cs",
+              "DocumentMoniker": "C:\\vs code\\C#\\AuthSystem\\AuthSystem\\Migrations\\20240410061805_Initial Create.cs",
+              "RelativeDocumentMoniker": "AuthSystem\\Migrations\\20240410061805_Initial Create.cs",
+              "ToolTip": "C:\\vs code\\C#\\AuthSystem\\AuthSystem\\Migrations\\20240410061805_Initial Create.cs",
+              "RelativeToolTip": "AuthSystem\\Migrations\\20240410061805_Initial Create.cs",
+              "ViewState": "AQIAABYAAACAZGZmZmYSwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T06:18:06.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\vs code\\C#\\AuthSystem\\AuthSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthSystem\\appsettings.json",
+              "ToolTip": "C:\\vs code\\C#\\AuthSystem\\AuthSystem\\appsettings.json",
+              "RelativeToolTip": "AuthSystem\\appsettings.json",
+              "ViewState": "AQIAAAEAAABAMzMzMzMrwAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-10T06:09:36.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthDbContext.cs",
+              "DocumentMoniker": "C:\\vs code\\C#\\AuthSystem\\AuthSystem\\Areas\\Identity\\Data\\AuthDbContext.cs",
+              "RelativeDocumentMoniker": "AuthSystem\\Areas\\Identity\\Data\\AuthDbContext.cs",
+              "ToolTip": "C:\\vs code\\C#\\AuthSystem\\AuthSystem\\Areas\\Identity\\Data\\AuthDbContext.cs",
+              "RelativeToolTip": "AuthSystem\\Areas\\Identity\\Data\\AuthDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T06:08:40.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\vs code\\C#\\AuthSystem\\AuthSystem\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "AuthSystem\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\vs code\\C#\\AuthSystem\\AuthSystem\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "AuthSystem\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-10T05:42:03.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\vs code\\C#\\AuthSystem\\AuthSystem\\Areas\\Identity\\Data\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "AuthSystem\\Areas\\Identity\\Data\\ApplicationUser.cs",
+              "ToolTip": "C:\\vs code\\C#\\AuthSystem\\AuthSystem\\Areas\\Identity\\Data\\ApplicationUser.cs",
+              "RelativeToolTip": "AuthSystem\\Areas\\Identity\\Data\\ApplicationUser.cs",
+              "ViewState": "AQIAAAUAAADgMjMzMzMbwAUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T06:04:36.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\vs code\\C#\\AuthSystem\\AuthSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AuthSystem\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\vs code\\C#\\AuthSystem\\AuthSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AuthSystem\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T05:40:49.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\vs code\\C#\\AuthSystem\\AuthSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "AuthSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\vs code\\C#\\AuthSystem\\AuthSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "AuthSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T05:38:29.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\vs code\\C#\\AuthSystem\\AuthSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "AuthSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\vs code\\C#\\AuthSystem\\AuthSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "AuthSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T05:35:09.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_AuthLayout.cshtml",
+              "DocumentMoniker": "C:\\vs code\\C#\\AuthSystem\\AuthSystem\\Areas\\Identity\\Pages\\_AuthLayout.cshtml",
+              "RelativeDocumentMoniker": "AuthSystem\\Areas\\Identity\\Pages\\_AuthLayout.cshtml",
+              "ToolTip": "C:\\vs code\\C#\\AuthSystem\\AuthSystem\\Areas\\Identity\\Pages\\_AuthLayout.cshtml",
+              "RelativeToolTip": "AuthSystem\\Areas\\Identity\\Pages\\_AuthLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T05:17:05.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\vs code\\C#\\AuthSystem\\AuthSystem\\Program.cs",
+              "RelativeDocumentMoniker": "AuthSystem\\Program.cs",
+              "ToolTip": "C:\\vs code\\C#\\AuthSystem\\AuthSystem\\Program.cs",
+              "RelativeToolTip": "AuthSystem\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T05:07:08.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\vs code\\C#\\AuthSystem\\AuthSystem\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "AuthSystem\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\vs code\\C#\\AuthSystem\\AuthSystem\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "AuthSystem\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-10T05:06:24.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthSystem.csproj",
+              "DocumentMoniker": "C:\\vs code\\C#\\AuthSystem\\AuthSystem\\AuthSystem.csproj",
+              "RelativeDocumentMoniker": "AuthSystem\\AuthSystem.csproj",
+              "ToolTip": "C:\\vs code\\C#\\AuthSystem\\AuthSystem\\AuthSystem.csproj",
+              "RelativeToolTip": "AuthSystem\\AuthSystem.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-10T04:56:05.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

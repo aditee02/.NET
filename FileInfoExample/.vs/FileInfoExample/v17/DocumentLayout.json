@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\vs code\\C#\\FileInfoExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA282683-41FB-4EBC-867F-D2FBDFAC59D9}|FileInfoExample\\FileInfoExample.csproj|c:\\vs code\\c#\\fileinfoexample\\fileinfoexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA282683-41FB-4EBC-867F-D2FBDFAC59D9}|FileInfoExample\\FileInfoExample.csproj|solutionrelative:fileinfoexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 361,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\vs code\\C#\\FileInfoExample\\FileInfoExample\\Program.cs",
+              "RelativeDocumentMoniker": "FileInfoExample\\Program.cs",
+              "ToolTip": "C:\\vs code\\C#\\FileInfoExample\\FileInfoExample\\Program.cs",
+              "RelativeToolTip": "FileInfoExample\\Program.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAYwEMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T10:22:43.426Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 32,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ecb7191a-597b-41f5-9843-03a4cf275dde}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

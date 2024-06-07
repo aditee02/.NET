@@ -1,0 +1,129 @@
+﻿
+@* @model VehicalRentalSystem1.Models.User *@
+@model VehicalRentalSystem1.Models.UserViewModel
+
+@{
+    ViewData["Title"] = "Register";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background-color: #f8f9fa;
+            font-family: Arial, sans-serif;
+        }
+
+        .container {
+            margin-top: 50px;
+        }
+
+        h1 {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .form-group {
+            margin-bottom: 20px;
+        }
+
+        .btn-primary {
+            width: 100%;
+        }
+
+        .login-link {
+            display: block;
+            text-align: center;
+            margin-top: 20px;
+            color: #007bff;
+        }
+
+            .login-link:hover {
+                text-decoration: none;
+                color: #0056b3;
+            }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Register</h1>
+        <div class="row justify-content-center">
+            <div class="col-md-6">
+                <form asp-action="Register" method="post" enctype="multipart/form-data">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                    <div class="form-group">
+                        <label asp-for="Name" class="control-label"></label>
+                        <input asp-for="Name" class="form-control" />
+                        <span asp-validation-for="Name" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Email" class="control-label"></label>
+                        <input asp-for="Email" class="form-control" />
+                        <span asp-validation-for="Email" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Age" class="control-label"></label>
+                        <input asp-for="Age" class="form-control" />
+                        <span asp-validation-for="Age" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="PhoneNo" class="control-label"></label>
+                        <input asp-for="PhoneNo" class="form-control" />
+                        <span asp-validation-for="PhoneNo" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Address" class="control-label"></label>
+                        <input asp-for="Address" class="form-control" />
+                        <span asp-validation-for="Address" class="text-danger"></span>
+                    </div>
+                    
+                    @* <div class="form-group">
+                        <label asp-for="GovermentDoc" class="control-label"></label> 
+                        <input asp-for="GovermentDoc" class="form-control-file">
+                        <span asp-validation-for="GovermentDoc" class="text-danger"></span>
+                    </div> *@
+
+                    <div class="form-group">
+                        <label asp-for="GovernmentDocImage" class="control-label">Government Document Image:</label>
+                        <input type="file" id="GovernmentDoc" name="GovernmentDocImage" class="form-control-file" />
+                        <span asp-validation-for="GovernmentDocImage" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="Username" class="control-label"></label>
+                        <input class="form-control" type="text" id="Username" name="Username" autocomplete="username">
+                        <span asp-validation-for="Username" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Password1" class="control-label">Password</label>
+                        <input asp-for="Password1" class="form-control" />
+                        <span asp-validation-for="Password1" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Password2" class="control-label">ReEnter Password</label>
+                        <input asp-for="Password2" class="form-control" />
+                        <span asp-validation-for="Password2" class="text-danger"></span>
+                    </div>
+                
+                <div class="form-group">
+                    <input type="submit" value="Register" class="btn btn-primary" />
+                </div>
+                <a asp-action="Login" class="login-link">Already Registered? Click Here to Login</a>
+                </form>
+            </div>
+        </div>
+    </div>
+    <div>
+        <a asp-action="Login">Login Form</a>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+ 
+</body>
+</html>

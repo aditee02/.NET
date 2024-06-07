@@ -1,0 +1,15 @@
+C:\vs code\C#\CallBack(Thread)\CallBack(Thread)\bin\Debug\net8.0\CallBack(Thread).exe
+C:\vs code\C#\CallBack(Thread)\CallBack(Thread)\bin\Debug\net8.0\CallBack(Thread).deps.json
+C:\vs code\C#\CallBack(Thread)\CallBack(Thread)\bin\Debug\net8.0\CallBack(Thread).runtimeconfig.json
+C:\vs code\C#\CallBack(Thread)\CallBack(Thread)\bin\Debug\net8.0\CallBack(Thread).dll
+C:\vs code\C#\CallBack(Thread)\CallBack(Thread)\bin\Debug\net8.0\CallBack(Thread).pdb
+C:\vs code\C#\CallBack(Thread)\CallBack(Thread)\obj\Debug\net8.0\CallBack(Thread).GeneratedMSBuildEditorConfig.editorconfig
+C:\vs code\C#\CallBack(Thread)\CallBack(Thread)\obj\Debug\net8.0\CallBack(Thread).AssemblyInfoInputs.cache
+C:\vs code\C#\CallBack(Thread)\CallBack(Thread)\obj\Debug\net8.0\CallBack(Thread).AssemblyInfo.cs
+C:\vs code\C#\CallBack(Thread)\CallBack(Thread)\obj\Debug\net8.0\CallBack(Thread).csproj.CoreCompileInputs.cache
+C:\vs code\C#\CallBack(Thread)\CallBack(Thread)\obj\Debug\net8.0\CallBack(Thread).sourcelink.json
+C:\vs code\C#\CallBack(Thread)\CallBack(Thread)\obj\Debug\net8.0\CallBack(Thread).dll
+C:\vs code\C#\CallBack(Thread)\CallBack(Thread)\obj\Debug\net8.0\refint\CallBack(Thread).dll
+C:\vs code\C#\CallBack(Thread)\CallBack(Thread)\obj\Debug\net8.0\CallBack(Thread).pdb
+C:\vs code\C#\CallBack(Thread)\CallBack(Thread)\obj\Debug\net8.0\CallBack(Thread).genruntimeconfig.cache
+C:\vs code\C#\CallBack(Thread)\CallBack(Thread)\obj\Debug\net8.0\ref\CallBack(Thread).dll

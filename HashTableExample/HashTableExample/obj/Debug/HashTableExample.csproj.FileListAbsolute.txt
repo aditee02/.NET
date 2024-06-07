@@ -1,0 +1,7 @@
+C:\vs code\C#\HashTableExample\HashTableExample\bin\Debug\HashTableExample.exe.config
+C:\vs code\C#\HashTableExample\HashTableExample\bin\Debug\HashTableExample.exe
+C:\vs code\C#\HashTableExample\HashTableExample\bin\Debug\HashTableExample.pdb
+C:\vs code\C#\HashTableExample\HashTableExample\obj\Debug\HashTableExample.csproj.AssemblyReference.cache
+C:\vs code\C#\HashTableExample\HashTableExample\obj\Debug\HashTableExample.csproj.CoreCompileInputs.cache
+C:\vs code\C#\HashTableExample\HashTableExample\obj\Debug\HashTableExample.exe
+C:\vs code\C#\HashTableExample\HashTableExample\obj\Debug\HashTableExample.pdb

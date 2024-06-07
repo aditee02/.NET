@@ -1,0 +1,10 @@
+C:\vs code\C#\PartialClassExample\PartialClassExample\bin\Debug\PartialClassExample.exe.config
+C:\vs code\C#\PartialClassExample\PartialClassExample\bin\Debug\PartialClassExample.exe
+C:\vs code\C#\PartialClassExample\PartialClassExample\bin\Debug\PartialClassExample.pdb
+C:\vs code\C#\PartialClassExample\PartialClassExample\bin\Debug\ClassLibrary1.dll
+C:\vs code\C#\PartialClassExample\PartialClassExample\bin\Debug\ClassLibrary1.pdb
+C:\vs code\C#\PartialClassExample\PartialClassExample\obj\Debug\PartialClassExample.csproj.AssemblyReference.cache
+C:\vs code\C#\PartialClassExample\PartialClassExample\obj\Debug\PartialClassExample.csproj.CoreCompileInputs.cache
+C:\vs code\C#\PartialClassExample\PartialClassExample\obj\Debug\PartialC.48369203.Up2Date
+C:\vs code\C#\PartialClassExample\PartialClassExample\obj\Debug\PartialClassExample.exe
+C:\vs code\C#\PartialClassExample\PartialClassExample\obj\Debug\PartialClassExample.pdb

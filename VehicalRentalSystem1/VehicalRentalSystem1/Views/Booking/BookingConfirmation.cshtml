@@ -1,0 +1,176 @@
+﻿
+
+@model VehicalRentalSystem1.ViewModel.BookingVehicleViewModel;
+
+@{
+    ViewData["Title"] = "Booking Confirmation";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-image: url(booking_background.png); 
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+        }
+
+        .slide-bar {
+            width: 250px;
+            height: 100%;
+            position: fixed;
+            top: 0;
+            left: -250px;
+            background-color: #495057;
+            transition: left 0.3s ease;
+            z-index: 1000;
+            padding-top: 125px;
+            color: white;
+        }
+
+            .slide-bar a {
+                display: block;
+                padding: 15px 20px;
+                text-decoration: none;
+                color: white;
+                transition: background-color 0.3s ease;
+            }
+
+                .slide-bar a:hover {
+                    background-color: #6c757d;
+                }
+
+        .drawer-icon {
+            position: absolute;
+            top: 90px;
+            left: 20px;
+            z-index: 2000;
+            cursor: pointer;
+        }
+
+            .drawer-icon span {
+                display: block;
+                width: 30px;
+                height: 3px;
+                background-color: grey;
+                margin-bottom: 5px;
+                transition: transform 0.3s ease;
+            }
+
+            .drawer-icon.open span:nth-child(1) {
+                transform: rotate(-45deg) translate(-5px, 6px);
+            }
+
+            .drawer-icon.open span:nth-child(2) {
+                opacity: 0;
+            }
+
+
+            .drawer-icon.open span:nth-child(3) {
+                transform: rotate(45deg) translate(-5px, -6px);
+            }
+
+            .container{
+            background-image: url(booking_background.png);
+            }
+
+
+        h1, h4 {
+            text-align: center;
+        }
+
+        form {
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        .add-vehicle-btn {
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+            transition: background-color 0.3s ease;
+        }
+
+            .add-vehicle-btn:hover {
+                background-color: #0056b3;
+            }
+
+        .image {
+            position: absolute; /* Position the image absolutely */
+            top: 0;
+            left: 0;
+            width: 100%; /* Make the image span the entire width */
+            z-index: -1; /* Move the image behind other content */
+            opacity: 0.7; /* Decrease the opacity of the image */
+        }
+
+            .image img {
+                width: 100%; /* Make the image fill its container */
+                height: auto; /* Maintain aspect ratio */
+            }
+
+    </style>
+</head>
+<body>
+    <div class="container">
+      
+        <div class="drawer-icon" onclick="toggleSlideBar()">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+        <div class="slide-bar" id="slideBar">
+            <a href="/User/Dashboard">Explore</a>
+            <a href="/User/MyTrips">My Trips</a>
+            <a href="/User/RentEarn">Rent and Earn</a>
+            <a href="/User/Profile">Profile</a>
+
+        </div>
+        <div class="image">
+            <img src="~/booking_background.png" alt="Car showcasing speed and freedom">
+        </div>
+        <h1>Booking Confirmation</h1>
+        <br />
+        
+        <h4>Thank you for your booking!</h4>
+
+        <br />
+        <br />
+        <form action="@Url.Action("PDFMethod", "Booking")" method="post">
+            <input type="hidden" name="id" value="@Model.VehicalId" />
+            <input type="hidden" name="id2" value="@Model.BookingId" />
+            <button type="submit" class="add-vehicle-btn">Generate PDF</button>
+        </form>
+
+        <form action="@Url.Action("ChatMethod", "Booking")" method="post">
+            <input type="hidden" name="id" value="@Model.VehicalId" />
+            <label for="message">Message:</label><br>
+            <textarea id="message" name="message" rows="4" cols="50"></textarea><br>
+            <button type="submit" class="add-vehicle-btn">Chat With Vehicle Owner</button>
+        </form>
+    </div>
+
+    <script>
+        function toggleSlideBar() {
+            var slideBar = document.getElementById("slideBar");
+            slideBar.classList.toggle("open");
+        }
+        function logout() {
+            window.location.href = '@Url.Action("Logout", "User")';
+        }
+    </script>
+</body>
+</html>

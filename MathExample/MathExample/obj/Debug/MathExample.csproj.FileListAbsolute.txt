@@ -1,0 +1,7 @@
+C:\vs code\C#\MathExample\MathExample\bin\Debug\MathExample.exe.config
+C:\vs code\C#\MathExample\MathExample\bin\Debug\MathExample.exe
+C:\vs code\C#\MathExample\MathExample\bin\Debug\MathExample.pdb
+C:\vs code\C#\MathExample\MathExample\obj\Debug\MathExample.csproj.AssemblyReference.cache
+C:\vs code\C#\MathExample\MathExample\obj\Debug\MathExample.csproj.CoreCompileInputs.cache
+C:\vs code\C#\MathExample\MathExample\obj\Debug\MathExample.exe
+C:\vs code\C#\MathExample\MathExample\obj\Debug\MathExample.pdb

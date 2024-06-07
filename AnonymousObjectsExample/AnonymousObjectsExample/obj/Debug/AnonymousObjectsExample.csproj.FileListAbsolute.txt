@@ -1,0 +1,10 @@
+C:\vs code\C#\AnonymousObjectsExample\AnonymousObjectsExample\bin\Debug\AnonymousObjectsExample.exe.config
+C:\vs code\C#\AnonymousObjectsExample\AnonymousObjectsExample\bin\Debug\AnonymousObjectsExample.exe
+C:\vs code\C#\AnonymousObjectsExample\AnonymousObjectsExample\bin\Debug\AnonymousObjectsExample.pdb
+C:\vs code\C#\AnonymousObjectsExample\AnonymousObjectsExample\bin\Debug\ClassLibrary1.dll
+C:\vs code\C#\AnonymousObjectsExample\AnonymousObjectsExample\bin\Debug\ClassLibrary1.pdb
+C:\vs code\C#\AnonymousObjectsExample\AnonymousObjectsExample\obj\Debug\AnonymousObjectsExample.csproj.AssemblyReference.cache
+C:\vs code\C#\AnonymousObjectsExample\AnonymousObjectsExample\obj\Debug\AnonymousObjectsExample.csproj.CoreCompileInputs.cache
+C:\vs code\C#\AnonymousObjectsExample\AnonymousObjectsExample\obj\Debug\Anonymou.9339C78A.Up2Date
+C:\vs code\C#\AnonymousObjectsExample\AnonymousObjectsExample\obj\Debug\AnonymousObjectsExample.exe
+C:\vs code\C#\AnonymousObjectsExample\AnonymousObjectsExample\obj\Debug\AnonymousObjectsExample.pdb

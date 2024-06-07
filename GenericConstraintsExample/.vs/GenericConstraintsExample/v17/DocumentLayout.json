@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\vs code\\C#\\GenericConstraintsExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4405C05-A12D-48DB-B0E7-A15D8B49E3C5}|GenericConstraintsExample\\GenericConstraintsExample.csproj|c:\\vs code\\c#\\genericconstraintsexample\\genericconstraintsexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4405C05-A12D-48DB-B0E7-A15D8B49E3C5}|GenericConstraintsExample\\GenericConstraintsExample.csproj|solutionrelative:genericconstraintsexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19921586-802D-4856-9AEB-09C1F9A22DD0}|ClassLibrary1\\ClassLibrary1.csproj|c:\\vs code\\c#\\genericconstraintsexample\\classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19921586-802D-4856-9AEB-09C1F9A22DD0}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 289,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\vs code\\C#\\GenericConstraintsExample\\ClassLibrary1\\Class1.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Class1.cs",
+              "ToolTip": "C:\\vs code\\C#\\GenericConstraintsExample\\ClassLibrary1\\Class1.cs",
+              "RelativeToolTip": "ClassLibrary1\\Class1.cs",
+              "ViewState": "AQIAABQAAADgzMzMzMw5wBcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T05:57:12.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\vs code\\C#\\GenericConstraintsExample\\GenericConstraintsExample\\Program.cs",
+              "RelativeDocumentMoniker": "GenericConstraintsExample\\Program.cs",
+              "ToolTip": "C:\\vs code\\C#\\GenericConstraintsExample\\GenericConstraintsExample\\Program.cs",
+              "RelativeToolTip": "GenericConstraintsExample\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T05:56:45.209Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

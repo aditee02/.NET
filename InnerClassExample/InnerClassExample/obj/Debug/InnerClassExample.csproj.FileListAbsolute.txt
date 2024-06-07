@@ -1,0 +1,10 @@
+C:\vs code\C#\InnerClassExample\InnerClassExample\bin\Debug\InnerClassExample.exe.config
+C:\vs code\C#\InnerClassExample\InnerClassExample\bin\Debug\InnerClassExample.exe
+C:\vs code\C#\InnerClassExample\InnerClassExample\bin\Debug\InnerClassExample.pdb
+C:\vs code\C#\InnerClassExample\InnerClassExample\bin\Debug\ClassLibrary1.dll
+C:\vs code\C#\InnerClassExample\InnerClassExample\bin\Debug\ClassLibrary1.pdb
+C:\vs code\C#\InnerClassExample\InnerClassExample\obj\Debug\InnerClassExample.csproj.AssemblyReference.cache
+C:\vs code\C#\InnerClassExample\InnerClassExample\obj\Debug\InnerClassExample.csproj.CoreCompileInputs.cache
+C:\vs code\C#\InnerClassExample\InnerClassExample\obj\Debug\InnerCla.AD7B3000.Up2Date
+C:\vs code\C#\InnerClassExample\InnerClassExample\obj\Debug\InnerClassExample.exe
+C:\vs code\C#\InnerClassExample\InnerClassExample\obj\Debug\InnerClassExample.pdb

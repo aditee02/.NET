@@ -1,0 +1,7 @@
+C:\vs code\C#\RegularExpressionExample\RegularExpressionExample\bin\Debug\RegularExpressionExample.exe.config
+C:\vs code\C#\RegularExpressionExample\RegularExpressionExample\bin\Debug\RegularExpressionExample.exe
+C:\vs code\C#\RegularExpressionExample\RegularExpressionExample\bin\Debug\RegularExpressionExample.pdb
+C:\vs code\C#\RegularExpressionExample\RegularExpressionExample\obj\Debug\RegularExpressionExample.csproj.AssemblyReference.cache
+C:\vs code\C#\RegularExpressionExample\RegularExpressionExample\obj\Debug\RegularExpressionExample.csproj.CoreCompileInputs.cache
+C:\vs code\C#\RegularExpressionExample\RegularExpressionExample\obj\Debug\RegularExpressionExample.exe
+C:\vs code\C#\RegularExpressionExample\RegularExpressionExample\obj\Debug\RegularExpressionExample.pdb

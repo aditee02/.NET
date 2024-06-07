@@ -1,0 +1,7 @@
+C:\vs code\C#\BoxingExample\BoxingExample\bin\Debug\BoxingExample.exe.config
+C:\vs code\C#\BoxingExample\BoxingExample\bin\Debug\BoxingExample.exe
+C:\vs code\C#\BoxingExample\BoxingExample\bin\Debug\BoxingExample.pdb
+C:\vs code\C#\BoxingExample\BoxingExample\obj\Debug\BoxingExample.csproj.AssemblyReference.cache
+C:\vs code\C#\BoxingExample\BoxingExample\obj\Debug\BoxingExample.csproj.CoreCompileInputs.cache
+C:\vs code\C#\BoxingExample\BoxingExample\obj\Debug\BoxingExample.exe
+C:\vs code\C#\BoxingExample\BoxingExample\obj\Debug\BoxingExample.pdb

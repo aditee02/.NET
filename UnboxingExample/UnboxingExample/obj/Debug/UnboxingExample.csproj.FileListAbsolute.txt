@@ -1,0 +1,7 @@
+C:\vs code\C#\UnboxingExample\UnboxingExample\bin\Debug\UnboxingExample.exe.config
+C:\vs code\C#\UnboxingExample\UnboxingExample\bin\Debug\UnboxingExample.exe
+C:\vs code\C#\UnboxingExample\UnboxingExample\bin\Debug\UnboxingExample.pdb
+C:\vs code\C#\UnboxingExample\UnboxingExample\obj\Debug\UnboxingExample.csproj.AssemblyReference.cache
+C:\vs code\C#\UnboxingExample\UnboxingExample\obj\Debug\UnboxingExample.csproj.CoreCompileInputs.cache
+C:\vs code\C#\UnboxingExample\UnboxingExample\obj\Debug\UnboxingExample.exe
+C:\vs code\C#\UnboxingExample\UnboxingExample\obj\Debug\UnboxingExample.pdb

@@ -1,0 +1,15 @@
+C:\vs code\C#\SharedResources(Thread)\SharedResources(Thread)\bin\Debug\net8.0\SharedResources(Thread).exe
+C:\vs code\C#\SharedResources(Thread)\SharedResources(Thread)\bin\Debug\net8.0\SharedResources(Thread).deps.json
+C:\vs code\C#\SharedResources(Thread)\SharedResources(Thread)\bin\Debug\net8.0\SharedResources(Thread).runtimeconfig.json
+C:\vs code\C#\SharedResources(Thread)\SharedResources(Thread)\bin\Debug\net8.0\SharedResources(Thread).dll
+C:\vs code\C#\SharedResources(Thread)\SharedResources(Thread)\bin\Debug\net8.0\SharedResources(Thread).pdb
+C:\vs code\C#\SharedResources(Thread)\SharedResources(Thread)\obj\Debug\net8.0\SharedResources(Thread).GeneratedMSBuildEditorConfig.editorconfig
+C:\vs code\C#\SharedResources(Thread)\SharedResources(Thread)\obj\Debug\net8.0\SharedResources(Thread).AssemblyInfoInputs.cache
+C:\vs code\C#\SharedResources(Thread)\SharedResources(Thread)\obj\Debug\net8.0\SharedResources(Thread).AssemblyInfo.cs
+C:\vs code\C#\SharedResources(Thread)\SharedResources(Thread)\obj\Debug\net8.0\SharedResources(Thread).csproj.CoreCompileInputs.cache
+C:\vs code\C#\SharedResources(Thread)\SharedResources(Thread)\obj\Debug\net8.0\SharedResources(Thread).sourcelink.json
+C:\vs code\C#\SharedResources(Thread)\SharedResources(Thread)\obj\Debug\net8.0\SharedResources(Thread).dll
+C:\vs code\C#\SharedResources(Thread)\SharedResources(Thread)\obj\Debug\net8.0\refint\SharedResources(Thread).dll
+C:\vs code\C#\SharedResources(Thread)\SharedResources(Thread)\obj\Debug\net8.0\SharedResources(Thread).pdb
+C:\vs code\C#\SharedResources(Thread)\SharedResources(Thread)\obj\Debug\net8.0\SharedResources(Thread).genruntimeconfig.cache
+C:\vs code\C#\SharedResources(Thread)\SharedResources(Thread)\obj\Debug\net8.0\ref\SharedResources(Thread).dll

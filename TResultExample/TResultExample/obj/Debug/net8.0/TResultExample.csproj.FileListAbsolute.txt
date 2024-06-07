@@ -1,0 +1,15 @@
+C:\vs code\C#\TResultExample\TResultExample\bin\Debug\net8.0\TResultExample.exe
+C:\vs code\C#\TResultExample\TResultExample\bin\Debug\net8.0\TResultExample.deps.json
+C:\vs code\C#\TResultExample\TResultExample\bin\Debug\net8.0\TResultExample.runtimeconfig.json
+C:\vs code\C#\TResultExample\TResultExample\bin\Debug\net8.0\TResultExample.dll
+C:\vs code\C#\TResultExample\TResultExample\bin\Debug\net8.0\TResultExample.pdb
+C:\vs code\C#\TResultExample\TResultExample\obj\Debug\net8.0\TResultExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\vs code\C#\TResultExample\TResultExample\obj\Debug\net8.0\TResultExample.AssemblyInfoInputs.cache
+C:\vs code\C#\TResultExample\TResultExample\obj\Debug\net8.0\TResultExample.AssemblyInfo.cs
+C:\vs code\C#\TResultExample\TResultExample\obj\Debug\net8.0\TResultExample.csproj.CoreCompileInputs.cache
+C:\vs code\C#\TResultExample\TResultExample\obj\Debug\net8.0\TResultExample.sourcelink.json
+C:\vs code\C#\TResultExample\TResultExample\obj\Debug\net8.0\TResultExample.dll
+C:\vs code\C#\TResultExample\TResultExample\obj\Debug\net8.0\refint\TResultExample.dll
+C:\vs code\C#\TResultExample\TResultExample\obj\Debug\net8.0\TResultExample.pdb
+C:\vs code\C#\TResultExample\TResultExample\obj\Debug\net8.0\TResultExample.genruntimeconfig.cache
+C:\vs code\C#\TResultExample\TResultExample\obj\Debug\net8.0\ref\TResultExample.dll

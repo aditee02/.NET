@@ -1,0 +1,7 @@
+C:\vs code\C#\HashSetExample\HashSetExample\bin\Debug\HashSetExample.exe.config
+C:\vs code\C#\HashSetExample\HashSetExample\bin\Debug\HashSetExample.exe
+C:\vs code\C#\HashSetExample\HashSetExample\bin\Debug\HashSetExample.pdb
+C:\vs code\C#\HashSetExample\HashSetExample\obj\Debug\HashSetExample.csproj.AssemblyReference.cache
+C:\vs code\C#\HashSetExample\HashSetExample\obj\Debug\HashSetExample.csproj.CoreCompileInputs.cache
+C:\vs code\C#\HashSetExample\HashSetExample\obj\Debug\HashSetExample.exe
+C:\vs code\C#\HashSetExample\HashSetExample\obj\Debug\HashSetExample.pdb

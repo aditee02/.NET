@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\vs code\\C#\\InterfacesExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67A7E06E-F82A-42C2-923C-75256065A7B4}|InterfacesExample\\InterfacesExample.csproj|c:\\vs code\\c#\\interfacesexample\\interfacesexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A7E06E-F82A-42C2-923C-75256065A7B4}|InterfacesExample\\InterfacesExample.csproj|solutionrelative:interfacesexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 289,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\vs code\\C#\\InterfacesExample\\InterfacesExample\\Program.cs",
+              "RelativeDocumentMoniker": "InterfacesExample\\Program.cs",
+              "ToolTip": "C:\\vs code\\C#\\InterfacesExample\\InterfacesExample\\Program.cs",
+              "RelativeToolTip": "InterfacesExample\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T04:08:00.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

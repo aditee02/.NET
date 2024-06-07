@@ -1,0 +1,10 @@
+C:\vs code\C#\ValueTupleExample\ValueTupleExample\bin\Debug\ValueTupleExample.exe.config
+C:\vs code\C#\ValueTupleExample\ValueTupleExample\bin\Debug\ValueTupleExample.exe
+C:\vs code\C#\ValueTupleExample\ValueTupleExample\bin\Debug\ValueTupleExample.pdb
+C:\vs code\C#\ValueTupleExample\ValueTupleExample\bin\Debug\ClassLibrary1.dll
+C:\vs code\C#\ValueTupleExample\ValueTupleExample\bin\Debug\ClassLibrary1.pdb
+C:\vs code\C#\ValueTupleExample\ValueTupleExample\obj\Debug\ValueTupleExample.csproj.AssemblyReference.cache
+C:\vs code\C#\ValueTupleExample\ValueTupleExample\obj\Debug\ValueTupleExample.csproj.CoreCompileInputs.cache
+C:\vs code\C#\ValueTupleExample\ValueTupleExample\obj\Debug\ValueTup.EF20CC84.Up2Date
+C:\vs code\C#\ValueTupleExample\ValueTupleExample\obj\Debug\ValueTupleExample.exe
+C:\vs code\C#\ValueTupleExample\ValueTupleExample\obj\Debug\ValueTupleExample.pdb

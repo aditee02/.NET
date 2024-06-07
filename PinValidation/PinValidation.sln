@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PinValidation", "PinValidation\PinValidation.csproj", "{E9DF6CBC-A421-4224-B88B-D6A4A46B7281}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9DF6CBC-A421-4224-B88B-D6A4A46B7281}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9DF6CBC-A421-4224-B88B-D6A4A46B7281}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9DF6CBC-A421-4224-B88B-D6A4A46B7281}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9DF6CBC-A421-4224-B88B-D6A4A46B7281}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7230EF6B-C992-4662-ACD2-79197D28E23E}
+	EndGlobalSection
+EndGlobal

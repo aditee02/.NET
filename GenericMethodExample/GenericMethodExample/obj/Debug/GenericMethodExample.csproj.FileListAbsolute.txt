@@ -1,0 +1,10 @@
+C:\vs code\C#\GenericMethodExample\GenericMethodExample\bin\Debug\GenericMethodExample.exe.config
+C:\vs code\C#\GenericMethodExample\GenericMethodExample\bin\Debug\GenericMethodExample.exe
+C:\vs code\C#\GenericMethodExample\GenericMethodExample\bin\Debug\GenericMethodExample.pdb
+C:\vs code\C#\GenericMethodExample\GenericMethodExample\bin\Debug\ClassLibrary1.dll
+C:\vs code\C#\GenericMethodExample\GenericMethodExample\bin\Debug\ClassLibrary1.pdb
+C:\vs code\C#\GenericMethodExample\GenericMethodExample\obj\Debug\GenericMethodExample.csproj.AssemblyReference.cache
+C:\vs code\C#\GenericMethodExample\GenericMethodExample\obj\Debug\GenericMethodExample.csproj.CoreCompileInputs.cache
+C:\vs code\C#\GenericMethodExample\GenericMethodExample\obj\Debug\GenericM.369E3295.Up2Date
+C:\vs code\C#\GenericMethodExample\GenericMethodExample\obj\Debug\GenericMethodExample.exe
+C:\vs code\C#\GenericMethodExample\GenericMethodExample\obj\Debug\GenericMethodExample.pdb

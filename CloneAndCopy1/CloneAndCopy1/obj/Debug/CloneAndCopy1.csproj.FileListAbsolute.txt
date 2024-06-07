@@ -1,0 +1,7 @@
+C:\vs code\C#\CloneAndCopy1\CloneAndCopy1\obj\Debug\CloneAndCopy1.csproj.AssemblyReference.cache
+C:\vs code\C#\CloneAndCopy1\CloneAndCopy1\obj\Debug\CloneAndCopy1.csproj.CoreCompileInputs.cache
+C:\vs code\C#\CloneAndCopy1\CloneAndCopy1\bin\Debug\CloneAndCopy1.exe.config
+C:\vs code\C#\CloneAndCopy1\CloneAndCopy1\bin\Debug\CloneAndCopy1.exe
+C:\vs code\C#\CloneAndCopy1\CloneAndCopy1\bin\Debug\CloneAndCopy1.pdb
+C:\vs code\C#\CloneAndCopy1\CloneAndCopy1\obj\Debug\CloneAndCopy1.exe
+C:\vs code\C#\CloneAndCopy1\CloneAndCopy1\obj\Debug\CloneAndCopy1.pdb

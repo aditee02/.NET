@@ -1,0 +1,10 @@
+C:\vs code\C#\Constructors\Constructors\bin\Debug\Constructors.exe.config
+C:\vs code\C#\Constructors\Constructors\bin\Debug\Constructors.exe
+C:\vs code\C#\Constructors\Constructors\bin\Debug\Constructors.pdb
+C:\vs code\C#\Constructors\Constructors\bin\Debug\ClassLibrary1.dll
+C:\vs code\C#\Constructors\Constructors\bin\Debug\ClassLibrary1.pdb
+C:\vs code\C#\Constructors\Constructors\obj\Debug\Constructors.csproj.AssemblyReference.cache
+C:\vs code\C#\Constructors\Constructors\obj\Debug\Constructors.csproj.CoreCompileInputs.cache
+C:\vs code\C#\Constructors\Constructors\obj\Debug\Construc.0D473764.Up2Date
+C:\vs code\C#\Constructors\Constructors\obj\Debug\Constructors.exe
+C:\vs code\C#\Constructors\Constructors\obj\Debug\Constructors.pdb

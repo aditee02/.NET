@@ -1,0 +1,15 @@
+C:\vs code\C#\ThreadParameterized\ThreadParameterized\bin\Debug\net8.0\ThreadParameterized.exe
+C:\vs code\C#\ThreadParameterized\ThreadParameterized\bin\Debug\net8.0\ThreadParameterized.deps.json
+C:\vs code\C#\ThreadParameterized\ThreadParameterized\bin\Debug\net8.0\ThreadParameterized.runtimeconfig.json
+C:\vs code\C#\ThreadParameterized\ThreadParameterized\bin\Debug\net8.0\ThreadParameterized.dll
+C:\vs code\C#\ThreadParameterized\ThreadParameterized\bin\Debug\net8.0\ThreadParameterized.pdb
+C:\vs code\C#\ThreadParameterized\ThreadParameterized\obj\Debug\net8.0\ThreadParameterized.GeneratedMSBuildEditorConfig.editorconfig
+C:\vs code\C#\ThreadParameterized\ThreadParameterized\obj\Debug\net8.0\ThreadParameterized.AssemblyInfoInputs.cache
+C:\vs code\C#\ThreadParameterized\ThreadParameterized\obj\Debug\net8.0\ThreadParameterized.AssemblyInfo.cs
+C:\vs code\C#\ThreadParameterized\ThreadParameterized\obj\Debug\net8.0\ThreadParameterized.csproj.CoreCompileInputs.cache
+C:\vs code\C#\ThreadParameterized\ThreadParameterized\obj\Debug\net8.0\ThreadParameterized.sourcelink.json
+C:\vs code\C#\ThreadParameterized\ThreadParameterized\obj\Debug\net8.0\ThreadParameterized.dll
+C:\vs code\C#\ThreadParameterized\ThreadParameterized\obj\Debug\net8.0\refint\ThreadParameterized.dll
+C:\vs code\C#\ThreadParameterized\ThreadParameterized\obj\Debug\net8.0\ThreadParameterized.pdb
+C:\vs code\C#\ThreadParameterized\ThreadParameterized\obj\Debug\net8.0\ThreadParameterized.genruntimeconfig.cache
+C:\vs code\C#\ThreadParameterized\ThreadParameterized\obj\Debug\net8.0\ref\ThreadParameterized.dll

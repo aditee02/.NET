@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\vs code\\C#\\ManyToOneRelationship\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{597AD6EF-80D1-4191-9409-3E95070FDE13}|ManyToOneRelationship\\ManyToOneRelationship.csproj|c:\\vs code\\c#\\manytoonerelationship\\manytoonerelationship\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{597AD6EF-80D1-4191-9409-3E95070FDE13}|ManyToOneRelationship\\ManyToOneRelationship.csproj|solutionrelative:manytoonerelationship\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{269B3D1B-27C4-4654-B0E1-AE2BC79D0F9F}|ClassLibrary1\\ClassLibrary1.csproj|c:\\vs code\\c#\\manytoonerelationship\\classlibrary1\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{269B3D1B-27C4-4654-B0E1-AE2BC79D0F9F}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{269B3D1B-27C4-4654-B0E1-AE2BC79D0F9F}|ClassLibrary1\\ClassLibrary1.csproj|c:\\vs code\\c#\\manytoonerelationship\\classlibrary1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{269B3D1B-27C4-4654-B0E1-AE2BC79D0F9F}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 289,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\vs code\\C#\\ManyToOneRelationship\\ClassLibrary1\\Department.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Department.cs",
+              "ToolTip": "C:\\vs code\\C#\\ManyToOneRelationship\\ClassLibrary1\\Department.cs",
+              "RelativeToolTip": "ClassLibrary1\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T09:45:58.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\vs code\\C#\\ManyToOneRelationship\\ClassLibrary1\\Employee.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Employee.cs",
+              "ToolTip": "C:\\vs code\\C#\\ManyToOneRelationship\\ClassLibrary1\\Employee.cs",
+              "RelativeToolTip": "ClassLibrary1\\Employee.cs",
+              "ViewState": "AQIAAAIAAABAZWZmZmYUwA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T09:39:46.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\vs code\\C#\\ManyToOneRelationship\\ManyToOneRelationship\\Program.cs",
+              "RelativeDocumentMoniker": "ManyToOneRelationship\\Program.cs",
+              "ToolTip": "C:\\vs code\\C#\\ManyToOneRelationship\\ManyToOneRelationship\\Program.cs",
+              "RelativeToolTip": "ManyToOneRelationship\\Program.cs",
+              "ViewState": "AQIAAAEAAADAMzMzMzMrwCkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T09:39:25.715Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+﻿<h1>Chat</h1>
+
+<div id="chatBox"></div>
+
+<input type="text" id="messageInput" />
+<button id="sendButton">Send</button>
+
+@section Scripts {
+<script src="~/lib/signalr/dist/browser/signalr.js"></script>
+<script>
+    const connection = new signalR.HubConnectionBuilder()
+        .withUrl("/chat")
+        .build();
+
+    connection.on("ReceiveMessage", (message) => {
+        const chatBox = document.getElementById("chatBox");
+        chatBox.innerHTML += `<p>${message}</p>`;
+    });
+
+    connection.start().catch(err => console.error(err));
+
+    document.getElementById("sendButton").addEventListener("click", () => {
+        const message = document.getElementById("messageInput").value;
+        connection.invoke("SendMessage", message, "<receiver_email>");
+    }
+</script>
+}

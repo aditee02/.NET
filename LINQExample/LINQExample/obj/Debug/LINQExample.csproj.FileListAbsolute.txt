@@ -1,0 +1,7 @@
+C:\vs code\C#\LINQExample\LINQExample\bin\Debug\LINQExample.exe.config
+C:\vs code\C#\LINQExample\LINQExample\bin\Debug\LINQExample.exe
+C:\vs code\C#\LINQExample\LINQExample\bin\Debug\LINQExample.pdb
+C:\vs code\C#\LINQExample\LINQExample\obj\Debug\LINQExample.csproj.AssemblyReference.cache
+C:\vs code\C#\LINQExample\LINQExample\obj\Debug\LINQExample.csproj.CoreCompileInputs.cache
+C:\vs code\C#\LINQExample\LINQExample\obj\Debug\LINQExample.exe
+C:\vs code\C#\LINQExample\LINQExample\obj\Debug\LINQExample.pdb

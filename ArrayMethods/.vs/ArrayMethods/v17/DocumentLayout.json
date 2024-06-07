@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\vs code\\C#\\ArrayMethods\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27DCD1C9-37DC-427F-AD27-002E861E2196}|ArrayMethods\\ArrayMethods.csproj|c:\\vs code\\c#\\arraymethods\\arraymethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27DCD1C9-37DC-427F-AD27-002E861E2196}|ArrayMethods\\ArrayMethods.csproj|solutionrelative:arraymethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 289,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\vs code\\C#\\ArrayMethods\\ArrayMethods\\Program.cs",
+              "RelativeDocumentMoniker": "ArrayMethods\\Program.cs",
+              "ToolTip": "C:\\vs code\\C#\\ArrayMethods\\ArrayMethods\\Program.cs",
+              "RelativeToolTip": "ArrayMethods\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T04:12:14.805Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

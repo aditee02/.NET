@@ -1,0 +1,178 @@
+﻿
+@model User
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Slide Bar with Drawer Icon</title>
+    <style>
+
+        .navbar {
+            background-color: #f8f9fa;
+            padding: 10px 20px;
+            box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        .slide-bar {
+            width: 250px;
+            height: 100%;
+            position: fixed;
+            top: 0;
+            left: -250px;
+            background-color: #333;
+            transition: left 0.3s ease;
+            z-index: 1000;
+            padding-top: 90px;
+            color: white;
+        }
+
+            .slide-bar a {
+                display: block;
+                padding: 10px 20px;
+                text-decoration: none;
+                color: white;
+                transition: background-color 0.3s ease;
+            }
+
+                .slide-bar a:hover {
+                    background-color: #555;
+                }
+
+        .drawer-icon {
+            position: fixed;
+            top: 70px;
+            left: 20px;
+            z-index: 2000;
+            cursor: pointer;
+        }
+
+            .drawer-icon span {
+                display: block;
+                width: 30px;
+                height: 3px;
+                background-color: grey;
+                margin-bottom: 5px;
+                transition: transform 0.3s ease;
+            }
+
+            .drawer-icon.open span:nth-child(1) {
+                transform: rotate(-45deg) translate(-5px, 6px);
+            }
+
+            .drawer-icon.open span:nth-child(2) {
+                opacity: 0;
+            }
+
+            .drawer-icon.open span:nth-child(3) {
+                transform: rotate(45deg) translate(-5px, -6px);
+            }
+
+
+            /* Profile Section */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        .profile-info {
+            margin-bottom: 20px;
+        }
+
+            .profile-info label {
+                font-weight: bold;
+            }
+
+            .profile-info p {
+                margin: 5px 0;
+            }
+
+        .profile-image {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+            .profile-image img {
+                width: 150px;
+                height: 150px;
+                border-radius: 50%;
+                object-fit: cover;
+            }
+    </style>
+</head>
+
+<body>
+
+    <div class="drawer-icon" onclick="toggleSlideBar()">
+        <span></span>
+        <span></span>
+        <span></span>
+    </div>
+    <div class="slide-bar" id="slideBar">
+        <a href="/User/Dashboard">Explore</a>
+        <a href="/User/MyTrips">My Trips</a>
+        <a href="/User/RentEarn">Rent and Earn</a>
+       <a asp-action="Pofile">Profile</a>
+    </div>
+
+    <script>
+        function toggleSlideBar() {
+            var slideBar = document.getElementById('slideBar');
+            var drawerIcon = document.querySelector('.drawer-icon');
+            slideBar.style.left = slideBar.style.left === '0px' ? '-250px' : '0px';
+            drawerIcon.classList.toggle('open');
+        }
+
+
+        document.addEventListener("DOMContentLoaded", function () {
+            fetch('/User/Profile') // Assuming Section is the controller name
+                .then(response => response.json()).then(userProfile => {
+                    document.getElementById("Name").textContent = userProfile.name;
+                    document.getElementById("Email").textContent = userProfile.email;
+                    document.getElementById("Age").textContent = userProfile.age;
+                    document.getElementById("Username").textContent = userProfile.Username;
+                    document.getElementById("UserId").textContent = userProfile.UserId;
+                    document.getElementById("PhoneNo").textContent = userProfile.PhoneNo;
+                    document.getElementById("Address").textContent = userProfile.Address;
+                    // Update with actual data received from the server
+                });
+        });
+    </script>
+    <div class="container">
+        <h1>User Profile</h1>
+
+      
+           @*  <img src="user-profile-image.jpg" alt="User Profile Image"> *@
+        </div>
+      
+        <div class="profile-info">
+        @* <img src="@Url.Content(Model.GovernmentDoc)" alt="Government Document"> *@
+        <p><strong>Name:</strong> <span id="Name">@Model.Name</span></p>
+        <p><strong>Email:</strong> <span id="Email">@Model.Email</span></p>
+        <p><strong>Age:</strong> <span id="Age">@Model.Age</span></p>
+        <p><strong>Username:</strong> <span id="Username">@Model.Username</span></p>
+        <p><strong>User ID:</strong> <span id="UserId">@Model.UserId</span></p>
+        <p><strong>Phone No:</strong> <span id="PhoneNo">@Model.PhoneNo</span></p>
+        <p><strong>Address:</strong> <span id="Address">@Model.Address</span></p>
+        </div>
+    </div>
+   
+
+</body>

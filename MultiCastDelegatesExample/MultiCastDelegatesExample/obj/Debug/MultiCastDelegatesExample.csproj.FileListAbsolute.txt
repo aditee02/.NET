@@ -1,0 +1,10 @@
+C:\vs code\C#\MultiCastDelegatesExample\MultiCastDelegatesExample\bin\Debug\MultiCastDelegatesExample.exe.config
+C:\vs code\C#\MultiCastDelegatesExample\MultiCastDelegatesExample\bin\Debug\MultiCastDelegatesExample.exe
+C:\vs code\C#\MultiCastDelegatesExample\MultiCastDelegatesExample\bin\Debug\MultiCastDelegatesExample.pdb
+C:\vs code\C#\MultiCastDelegatesExample\MultiCastDelegatesExample\bin\Debug\ClassLibrary1.dll
+C:\vs code\C#\MultiCastDelegatesExample\MultiCastDelegatesExample\bin\Debug\ClassLibrary1.pdb
+C:\vs code\C#\MultiCastDelegatesExample\MultiCastDelegatesExample\obj\Debug\MultiCastDelegatesExample.csproj.AssemblyReference.cache
+C:\vs code\C#\MultiCastDelegatesExample\MultiCastDelegatesExample\obj\Debug\MultiCastDelegatesExample.csproj.CoreCompileInputs.cache
+C:\vs code\C#\MultiCastDelegatesExample\MultiCastDelegatesExample\obj\Debug\MultiCas.0FBB8C0D.Up2Date
+C:\vs code\C#\MultiCastDelegatesExample\MultiCastDelegatesExample\obj\Debug\MultiCastDelegatesExample.exe
+C:\vs code\C#\MultiCastDelegatesExample\MultiCastDelegatesExample\obj\Debug\MultiCastDelegatesExample.pdb

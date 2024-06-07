@@ -1,0 +1,7 @@
+C:\vs code\C#\NumberSystems\NumberSystems\bin\Debug\NumberSystems.exe.config
+C:\vs code\C#\NumberSystems\NumberSystems\bin\Debug\NumberSystems.exe
+C:\vs code\C#\NumberSystems\NumberSystems\bin\Debug\NumberSystems.pdb
+C:\vs code\C#\NumberSystems\NumberSystems\obj\Debug\NumberSystems.csproj.AssemblyReference.cache
+C:\vs code\C#\NumberSystems\NumberSystems\obj\Debug\NumberSystems.csproj.CoreCompileInputs.cache
+C:\vs code\C#\NumberSystems\NumberSystems\obj\Debug\NumberSystems.exe
+C:\vs code\C#\NumberSystems\NumberSystems\obj\Debug\NumberSystems.pdb

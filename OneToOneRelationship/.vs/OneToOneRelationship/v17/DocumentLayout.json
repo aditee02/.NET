@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\vs code\\C#\\OneToOneRelationship\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{228F01D7-DAE5-45AC-B11B-B4FB724245F6}|OneToOneRelationship\\OneToOneRelationship.csproj|c:\\vs code\\c#\\onetoonerelationship\\onetoonerelationship\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{228F01D7-DAE5-45AC-B11B-B4FB724245F6}|OneToOneRelationship\\OneToOneRelationship.csproj|solutionrelative:onetoonerelationship\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C78A07-FF25-4D8E-8A20-7E1BBB88B3FB}|ClassLibrary1\\ClassLibrary1.csproj|c:\\vs code\\c#\\onetoonerelationship\\classlibrary1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6C78A07-FF25-4D8E-8A20-7E1BBB88B3FB}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C78A07-FF25-4D8E-8A20-7E1BBB88B3FB}|ClassLibrary1\\ClassLibrary1.csproj|c:\\vs code\\c#\\onetoonerelationship\\classlibrary1\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6C78A07-FF25-4D8E-8A20-7E1BBB88B3FB}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 289,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Branch.cs",
+              "DocumentMoniker": "C:\\vs code\\C#\\OneToOneRelationship\\ClassLibrary1\\Branch.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Branch.cs",
+              "ToolTip": "C:\\vs code\\C#\\OneToOneRelationship\\ClassLibrary1\\Branch.cs",
+              "RelativeToolTip": "ClassLibrary1\\Branch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T08:48:07.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\vs code\\C#\\OneToOneRelationship\\ClassLibrary1\\Student.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Student.cs",
+              "ToolTip": "C:\\vs code\\C#\\OneToOneRelationship\\ClassLibrary1\\Student.cs",
+              "RelativeToolTip": "ClassLibrary1\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T08:44:40.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\vs code\\C#\\OneToOneRelationship\\OneToOneRelationship\\Program.cs",
+              "RelativeDocumentMoniker": "OneToOneRelationship\\Program.cs",
+              "ToolTip": "C:\\vs code\\C#\\OneToOneRelationship\\OneToOneRelationship\\Program.cs",
+              "RelativeToolTip": "OneToOneRelationship\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T08:44:21.789Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

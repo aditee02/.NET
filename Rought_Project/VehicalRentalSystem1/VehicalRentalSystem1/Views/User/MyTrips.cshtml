@@ -1,0 +1,104 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<h1>My Trips Section</h1>
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Slide Bar with Drawer Icon</title>
+    <style>
+
+        .navbar {
+            background-color: #f8f9fa;
+            padding: 10px 20px;
+            box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        .slide-bar {
+            width: 250px;
+            height: 100%;
+            position: fixed;
+            top: 0;
+            left: -250px;
+            background-color: #333;
+            transition: left 0.3s ease;
+            z-index: 1000;
+            padding-top: 90px;
+            color: white;
+        }
+
+            .slide-bar a {
+                display: block;
+                padding: 10px 20px;
+                text-decoration: none;
+                color: white;
+                transition: background-color 0.3s ease;
+            }
+
+                .slide-bar a:hover {
+                    background-color: #555;
+                }
+
+        .drawer-icon {
+            position: fixed;
+            top: 70px;
+            left: 20px;
+            z-index: 2000;
+            cursor: pointer;
+        }
+
+            .drawer-icon span {
+                display: block;
+                width: 30px;
+                height: 3px;
+                background-color: grey;
+                margin-bottom: 5px;
+                transition: transform 0.3s ease;
+            }
+
+            .drawer-icon.open span:nth-child(1) {
+                transform: rotate(-45deg) translate(-5px, 6px);
+            }
+
+            .drawer-icon.open span:nth-child(2) {
+                opacity: 0;
+            }
+
+            .drawer-icon.open span:nth-child(3) {
+                transform: rotate(45deg) translate(-5px, -6px);
+            }
+    </style>
+</head>
+
+<body>
+
+    <div class="drawer-icon" onclick="toggleSlideBar()">
+        <span></span>
+        <span></span>
+        <span></span>
+    </div>
+    <div class="slide-bar" id="slideBar">
+        <a href="/User/Dashboard">Explore</a>
+        <a href="/User/MyTrips">My Trips</a>
+        <a href="/User/RentEarn">Rent and Earn</a>
+        <a href="/User/Profile">Profile</a>
+    </div>
+
+    <script>
+        function toggleSlideBar() {
+            var slideBar = document.getElementById('slideBar');
+            var drawerIcon = document.querySelector('.drawer-icon');
+            slideBar.style.left = slideBar.style.left === '0px' ? '-250px' : '0px';
+            drawerIcon.classList.toggle('open');
+        }
+    </script>
+
+</body>
+
+</html>

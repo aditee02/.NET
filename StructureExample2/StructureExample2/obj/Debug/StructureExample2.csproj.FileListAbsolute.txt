@@ -1,0 +1,10 @@
+C:\vs code\C#\StructureExample2\StructureExample2\bin\Debug\StructureExample2.exe.config
+C:\vs code\C#\StructureExample2\StructureExample2\bin\Debug\StructureExample2.exe
+C:\vs code\C#\StructureExample2\StructureExample2\bin\Debug\StructureExample2.pdb
+C:\vs code\C#\StructureExample2\StructureExample2\bin\Debug\ClassLibrary1.dll
+C:\vs code\C#\StructureExample2\StructureExample2\bin\Debug\ClassLibrary1.pdb
+C:\vs code\C#\StructureExample2\StructureExample2\obj\Debug\StructureExample2.csproj.AssemblyReference.cache
+C:\vs code\C#\StructureExample2\StructureExample2\obj\Debug\StructureExample2.csproj.CoreCompileInputs.cache
+C:\vs code\C#\StructureExample2\StructureExample2\obj\Debug\Structur.57626296.Up2Date
+C:\vs code\C#\StructureExample2\StructureExample2\obj\Debug\StructureExample2.exe
+C:\vs code\C#\StructureExample2\StructureExample2\obj\Debug\StructureExample2.pdb

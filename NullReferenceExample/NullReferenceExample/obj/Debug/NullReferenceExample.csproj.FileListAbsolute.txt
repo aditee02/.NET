@@ -1,0 +1,7 @@
+C:\vs code\C#\NullReferenceExample\NullReferenceExample\obj\Debug\NullReferenceExample.csproj.AssemblyReference.cache
+C:\vs code\C#\NullReferenceExample\NullReferenceExample\obj\Debug\NullReferenceExample.csproj.CoreCompileInputs.cache
+C:\vs code\C#\NullReferenceExample\NullReferenceExample\bin\Debug\NullReferenceExample.exe.config
+C:\vs code\C#\NullReferenceExample\NullReferenceExample\bin\Debug\NullReferenceExample.exe
+C:\vs code\C#\NullReferenceExample\NullReferenceExample\bin\Debug\NullReferenceExample.pdb
+C:\vs code\C#\NullReferenceExample\NullReferenceExample\obj\Debug\NullReferenceExample.exe
+C:\vs code\C#\NullReferenceExample\NullReferenceExample\obj\Debug\NullReferenceExample.pdb

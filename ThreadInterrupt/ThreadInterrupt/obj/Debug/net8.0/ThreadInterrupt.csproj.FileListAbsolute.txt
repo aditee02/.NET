@@ -1,0 +1,15 @@
+C:\vs code\C#\ThreadInterrupt\ThreadInterrupt\bin\Debug\net8.0\ThreadInterrupt.exe
+C:\vs code\C#\ThreadInterrupt\ThreadInterrupt\bin\Debug\net8.0\ThreadInterrupt.deps.json
+C:\vs code\C#\ThreadInterrupt\ThreadInterrupt\bin\Debug\net8.0\ThreadInterrupt.runtimeconfig.json
+C:\vs code\C#\ThreadInterrupt\ThreadInterrupt\bin\Debug\net8.0\ThreadInterrupt.dll
+C:\vs code\C#\ThreadInterrupt\ThreadInterrupt\bin\Debug\net8.0\ThreadInterrupt.pdb
+C:\vs code\C#\ThreadInterrupt\ThreadInterrupt\obj\Debug\net8.0\ThreadInterrupt.GeneratedMSBuildEditorConfig.editorconfig
+C:\vs code\C#\ThreadInterrupt\ThreadInterrupt\obj\Debug\net8.0\ThreadInterrupt.AssemblyInfoInputs.cache
+C:\vs code\C#\ThreadInterrupt\ThreadInterrupt\obj\Debug\net8.0\ThreadInterrupt.AssemblyInfo.cs
+C:\vs code\C#\ThreadInterrupt\ThreadInterrupt\obj\Debug\net8.0\ThreadInterrupt.csproj.CoreCompileInputs.cache
+C:\vs code\C#\ThreadInterrupt\ThreadInterrupt\obj\Debug\net8.0\ThreadInterrupt.sourcelink.json
+C:\vs code\C#\ThreadInterrupt\ThreadInterrupt\obj\Debug\net8.0\ThreadInterrupt.dll
+C:\vs code\C#\ThreadInterrupt\ThreadInterrupt\obj\Debug\net8.0\refint\ThreadInterrupt.dll
+C:\vs code\C#\ThreadInterrupt\ThreadInterrupt\obj\Debug\net8.0\ThreadInterrupt.pdb
+C:\vs code\C#\ThreadInterrupt\ThreadInterrupt\obj\Debug\net8.0\ThreadInterrupt.genruntimeconfig.cache
+C:\vs code\C#\ThreadInterrupt\ThreadInterrupt\obj\Debug\net8.0\ref\ThreadInterrupt.dll

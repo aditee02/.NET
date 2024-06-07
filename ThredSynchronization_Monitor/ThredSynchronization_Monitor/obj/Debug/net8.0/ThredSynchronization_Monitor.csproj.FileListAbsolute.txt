@@ -1,0 +1,15 @@
+C:\vs code\C#\ThredSynchronization_Monitor\ThredSynchronization_Monitor\bin\Debug\net8.0\ThredSynchronization_Monitor.exe
+C:\vs code\C#\ThredSynchronization_Monitor\ThredSynchronization_Monitor\bin\Debug\net8.0\ThredSynchronization_Monitor.deps.json
+C:\vs code\C#\ThredSynchronization_Monitor\ThredSynchronization_Monitor\bin\Debug\net8.0\ThredSynchronization_Monitor.runtimeconfig.json
+C:\vs code\C#\ThredSynchronization_Monitor\ThredSynchronization_Monitor\bin\Debug\net8.0\ThredSynchronization_Monitor.dll
+C:\vs code\C#\ThredSynchronization_Monitor\ThredSynchronization_Monitor\bin\Debug\net8.0\ThredSynchronization_Monitor.pdb
+C:\vs code\C#\ThredSynchronization_Monitor\ThredSynchronization_Monitor\obj\Debug\net8.0\ThredSynchronization_Monitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\vs code\C#\ThredSynchronization_Monitor\ThredSynchronization_Monitor\obj\Debug\net8.0\ThredSynchronization_Monitor.AssemblyInfoInputs.cache
+C:\vs code\C#\ThredSynchronization_Monitor\ThredSynchronization_Monitor\obj\Debug\net8.0\ThredSynchronization_Monitor.AssemblyInfo.cs
+C:\vs code\C#\ThredSynchronization_Monitor\ThredSynchronization_Monitor\obj\Debug\net8.0\ThredSynchronization_Monitor.csproj.CoreCompileInputs.cache
+C:\vs code\C#\ThredSynchronization_Monitor\ThredSynchronization_Monitor\obj\Debug\net8.0\ThredSynchronization_Monitor.sourcelink.json
+C:\vs code\C#\ThredSynchronization_Monitor\ThredSynchronization_Monitor\obj\Debug\net8.0\ThredSynchronization_Monitor.dll
+C:\vs code\C#\ThredSynchronization_Monitor\ThredSynchronization_Monitor\obj\Debug\net8.0\refint\ThredSynchronization_Monitor.dll
+C:\vs code\C#\ThredSynchronization_Monitor\ThredSynchronization_Monitor\obj\Debug\net8.0\ThredSynchronization_Monitor.pdb
+C:\vs code\C#\ThredSynchronization_Monitor\ThredSynchronization_Monitor\obj\Debug\net8.0\ThredSynchronization_Monitor.genruntimeconfig.cache
+C:\vs code\C#\ThredSynchronization_Monitor\ThredSynchronization_Monitor\obj\Debug\net8.0\ref\ThredSynchronization_Monitor.dll

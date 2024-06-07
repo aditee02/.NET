@@ -1,0 +1,7 @@
+C:\vs code\C#\ArrayExample1\ArrayExample1\bin\Debug\ArrayExample1.exe.config
+C:\vs code\C#\ArrayExample1\ArrayExample1\bin\Debug\ArrayExample1.exe
+C:\vs code\C#\ArrayExample1\ArrayExample1\bin\Debug\ArrayExample1.pdb
+C:\vs code\C#\ArrayExample1\ArrayExample1\obj\Debug\ArrayExample1.csproj.AssemblyReference.cache
+C:\vs code\C#\ArrayExample1\ArrayExample1\obj\Debug\ArrayExample1.csproj.CoreCompileInputs.cache
+C:\vs code\C#\ArrayExample1\ArrayExample1\obj\Debug\ArrayExample1.exe
+C:\vs code\C#\ArrayExample1\ArrayExample1\obj\Debug\ArrayExample1.pdb

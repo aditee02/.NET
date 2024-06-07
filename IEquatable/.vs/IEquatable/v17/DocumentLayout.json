@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\vs code\\C#\\IEquatable\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A16B1F4D-20BD-4857-978B-02F9E7C0B3F1}|IEquatable\\IEquatable.csproj|c:\\vs code\\c#\\iequatable\\iequatable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A16B1F4D-20BD-4857-978B-02F9E7C0B3F1}|IEquatable\\IEquatable.csproj|solutionrelative:iequatable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 289,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\vs code\\C#\\IEquatable\\IEquatable\\Program.cs",
+              "RelativeDocumentMoniker": "IEquatable\\Program.cs",
+              "ToolTip": "C:\\vs code\\C#\\IEquatable\\IEquatable\\Program.cs",
+              "RelativeToolTip": "IEquatable\\Program.cs",
+              "ViewState": "AQIAAIkAAAAA6v///z8hwBYAAACqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T06:12:22.546Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

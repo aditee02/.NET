@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\vs code\\C#\\InnerClassExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01E44E44-A11C-4BB1-9822-2C1BF9212094}|InnerClassExample\\InnerClassExample.csproj|c:\\vs code\\c#\\innerclassexample\\innerclassexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E44E44-A11C-4BB1-9822-2C1BF9212094}|InnerClassExample\\InnerClassExample.csproj|solutionrelative:innerclassexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19890629-F5D4-4D76-B20D-842390B8304A}|ClassLibrary1\\ClassLibrary1.csproj|c:\\vs code\\c#\\innerclassexample\\classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19890629-F5D4-4D76-B20D-842390B8304A}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 289,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\vs code\\C#\\InnerClassExample\\ClassLibrary1\\Class1.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Class1.cs",
+              "ToolTip": "C:\\vs code\\C#\\InnerClassExample\\ClassLibrary1\\Class1.cs",
+              "RelativeToolTip": "ClassLibrary1\\Class1.cs",
+              "ViewState": "AQIAAAcAAADAZWZmZmYswBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T10:17:12.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\vs code\\C#\\InnerClassExample\\InnerClassExample\\Program.cs",
+              "RelativeDocumentMoniker": "InnerClassExample\\Program.cs",
+              "ToolTip": "C:\\vs code\\C#\\InnerClassExample\\InnerClassExample\\Program.cs",
+              "RelativeToolTip": "InnerClassExample\\Program.cs",
+              "ViewState": "AQIAAAUAAADMzMzMzMw5wAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T10:16:28.517Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

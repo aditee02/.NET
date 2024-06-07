@@ -1,0 +1,10 @@
+C:\vs code\C#\ManyToOneRelationship\ManyToOneRelationship\bin\Debug\ManyToOneRelationship.exe.config
+C:\vs code\C#\ManyToOneRelationship\ManyToOneRelationship\bin\Debug\ManyToOneRelationship.exe
+C:\vs code\C#\ManyToOneRelationship\ManyToOneRelationship\bin\Debug\ManyToOneRelationship.pdb
+C:\vs code\C#\ManyToOneRelationship\ManyToOneRelationship\bin\Debug\ClassLibrary1.dll
+C:\vs code\C#\ManyToOneRelationship\ManyToOneRelationship\bin\Debug\ClassLibrary1.pdb
+C:\vs code\C#\ManyToOneRelationship\ManyToOneRelationship\obj\Debug\ManyToOneRelationship.csproj.AssemblyReference.cache
+C:\vs code\C#\ManyToOneRelationship\ManyToOneRelationship\obj\Debug\ManyToOneRelationship.csproj.CoreCompileInputs.cache
+C:\vs code\C#\ManyToOneRelationship\ManyToOneRelationship\obj\Debug\ManyToOn.19B9F91C.Up2Date
+C:\vs code\C#\ManyToOneRelationship\ManyToOneRelationship\obj\Debug\ManyToOneRelationship.exe
+C:\vs code\C#\ManyToOneRelationship\ManyToOneRelationship\obj\Debug\ManyToOneRelationship.pdb

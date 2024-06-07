@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\vs code\\C#\\LINQExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B77B892-E24A-4FD2-829F-BAA06171206F}|LINQExample\\LINQExample.csproj|c:\\vs code\\c#\\linqexample\\linqexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B77B892-E24A-4FD2-829F-BAA06171206F}|LINQExample\\LINQExample.csproj|solutionrelative:linqexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 289,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\vs code\\C#\\LINQExample\\LINQExample\\Program.cs",
+              "RelativeDocumentMoniker": "LINQExample\\Program.cs",
+              "ToolTip": "C:\\vs code\\C#\\LINQExample\\LINQExample\\Program.cs",
+              "RelativeToolTip": "LINQExample\\Program.cs",
+              "ViewState": "AQIAABwAAAAAzGVmZmbyv08AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T08:40:51.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

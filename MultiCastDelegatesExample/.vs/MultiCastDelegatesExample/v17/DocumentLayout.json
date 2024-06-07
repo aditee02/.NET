@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\vs code\\C#\\MultiCastDelegatesExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5867A8-50DD-45BE-84B5-46F7C867243E}|ClassLibrary1\\ClassLibrary1.csproj|c:\\vs code\\c#\\multicastdelegatesexample\\classlibrary1\\sample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC5867A8-50DD-45BE-84B5-46F7C867243E}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\sample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5867A8-50DD-45BE-84B5-46F7C867243E}|ClassLibrary1\\ClassLibrary1.csproj|c:\\vs code\\c#\\multicastdelegatesexample\\classlibrary1\\mydelegatetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC5867A8-50DD-45BE-84B5-46F7C867243E}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\mydelegatetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36C060C5-FE93-4A0F-9DAE-1D74ABAC43B7}|MultiCastDelegatesExample\\MultiCastDelegatesExample.csproj|c:\\vs code\\c#\\multicastdelegatesexample\\multicastdelegatesexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36C060C5-FE93-4A0F-9DAE-1D74ABAC43B7}|MultiCastDelegatesExample\\MultiCastDelegatesExample.csproj|solutionrelative:multicastdelegatesexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 289,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyDelegateType.cs",
+              "DocumentMoniker": "C:\\vs code\\C#\\MultiCastDelegatesExample\\ClassLibrary1\\MyDelegateType.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\MyDelegateType.cs",
+              "ToolTip": "C:\\vs code\\C#\\MultiCastDelegatesExample\\ClassLibrary1\\MyDelegateType.cs",
+              "RelativeToolTip": "ClassLibrary1\\MyDelegateType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T05:10:07.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sample.cs",
+              "DocumentMoniker": "C:\\vs code\\C#\\MultiCastDelegatesExample\\ClassLibrary1\\Sample.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Sample.cs",
+              "ToolTip": "C:\\vs code\\C#\\MultiCastDelegatesExample\\ClassLibrary1\\Sample.cs",
+              "RelativeToolTip": "ClassLibrary1\\Sample.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T05:05:40.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\vs code\\C#\\MultiCastDelegatesExample\\MultiCastDelegatesExample\\Program.cs",
+              "RelativeDocumentMoniker": "MultiCastDelegatesExample\\Program.cs",
+              "ToolTip": "C:\\vs code\\C#\\MultiCastDelegatesExample\\MultiCastDelegatesExample\\Program.cs",
+              "RelativeToolTip": "MultiCastDelegatesExample\\Program.cs",
+              "ViewState": "AQIAABUAAADAZmZmZmYkwA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T05:05:13.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

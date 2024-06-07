@@ -1,0 +1,7 @@
+C:\vs code\C#\ArrayMethods\ArrayMethods\bin\Debug\ArrayMethods.exe.config
+C:\vs code\C#\ArrayMethods\ArrayMethods\bin\Debug\ArrayMethods.exe
+C:\vs code\C#\ArrayMethods\ArrayMethods\bin\Debug\ArrayMethods.pdb
+C:\vs code\C#\ArrayMethods\ArrayMethods\obj\Debug\ArrayMethods.csproj.AssemblyReference.cache
+C:\vs code\C#\ArrayMethods\ArrayMethods\obj\Debug\ArrayMethods.csproj.CoreCompileInputs.cache
+C:\vs code\C#\ArrayMethods\ArrayMethods\obj\Debug\ArrayMethods.exe
+C:\vs code\C#\ArrayMethods\ArrayMethods\obj\Debug\ArrayMethods.pdb

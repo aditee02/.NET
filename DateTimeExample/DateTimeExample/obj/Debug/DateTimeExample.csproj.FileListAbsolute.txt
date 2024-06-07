@@ -1,0 +1,7 @@
+C:\vs code\C#\DateTimeExample\DateTimeExample\bin\Debug\DateTimeExample.exe.config
+C:\vs code\C#\DateTimeExample\DateTimeExample\bin\Debug\DateTimeExample.exe
+C:\vs code\C#\DateTimeExample\DateTimeExample\bin\Debug\DateTimeExample.pdb
+C:\vs code\C#\DateTimeExample\DateTimeExample\obj\Debug\DateTimeExample.csproj.AssemblyReference.cache
+C:\vs code\C#\DateTimeExample\DateTimeExample\obj\Debug\DateTimeExample.csproj.CoreCompileInputs.cache
+C:\vs code\C#\DateTimeExample\DateTimeExample\obj\Debug\DateTimeExample.exe
+C:\vs code\C#\DateTimeExample\DateTimeExample\obj\Debug\DateTimeExample.pdb

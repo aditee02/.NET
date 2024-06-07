@@ -1,0 +1,7 @@
+C:\vs code\C#\MultiDiamentionalArray\MultiDiamentionalArray\bin\Debug\MultiDiamentionalArray.exe.config
+C:\vs code\C#\MultiDiamentionalArray\MultiDiamentionalArray\bin\Debug\MultiDiamentionalArray.exe
+C:\vs code\C#\MultiDiamentionalArray\MultiDiamentionalArray\bin\Debug\MultiDiamentionalArray.pdb
+C:\vs code\C#\MultiDiamentionalArray\MultiDiamentionalArray\obj\Debug\MultiDiamentionalArray.csproj.AssemblyReference.cache
+C:\vs code\C#\MultiDiamentionalArray\MultiDiamentionalArray\obj\Debug\MultiDiamentionalArray.csproj.CoreCompileInputs.cache
+C:\vs code\C#\MultiDiamentionalArray\MultiDiamentionalArray\obj\Debug\MultiDiamentionalArray.exe
+C:\vs code\C#\MultiDiamentionalArray\MultiDiamentionalArray\obj\Debug\MultiDiamentionalArray.pdb

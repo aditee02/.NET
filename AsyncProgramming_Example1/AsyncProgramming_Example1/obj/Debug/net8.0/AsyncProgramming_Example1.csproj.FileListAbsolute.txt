@@ -1,0 +1,15 @@
+C:\vs code\C#\AsyncProgramming_Example1\AsyncProgramming_Example1\obj\Debug\net8.0\AsyncProgramming_Example1.GeneratedMSBuildEditorConfig.editorconfig
+C:\vs code\C#\AsyncProgramming_Example1\AsyncProgramming_Example1\obj\Debug\net8.0\AsyncProgramming_Example1.AssemblyInfoInputs.cache
+C:\vs code\C#\AsyncProgramming_Example1\AsyncProgramming_Example1\obj\Debug\net8.0\AsyncProgramming_Example1.AssemblyInfo.cs
+C:\vs code\C#\AsyncProgramming_Example1\AsyncProgramming_Example1\obj\Debug\net8.0\AsyncProgramming_Example1.csproj.CoreCompileInputs.cache
+C:\vs code\C#\AsyncProgramming_Example1\AsyncProgramming_Example1\obj\Debug\net8.0\AsyncProgramming_Example1.sourcelink.json
+C:\vs code\C#\AsyncProgramming_Example1\AsyncProgramming_Example1\bin\Debug\net8.0\AsyncProgramming_Example1.exe
+C:\vs code\C#\AsyncProgramming_Example1\AsyncProgramming_Example1\bin\Debug\net8.0\AsyncProgramming_Example1.deps.json
+C:\vs code\C#\AsyncProgramming_Example1\AsyncProgramming_Example1\bin\Debug\net8.0\AsyncProgramming_Example1.runtimeconfig.json
+C:\vs code\C#\AsyncProgramming_Example1\AsyncProgramming_Example1\bin\Debug\net8.0\AsyncProgramming_Example1.dll
+C:\vs code\C#\AsyncProgramming_Example1\AsyncProgramming_Example1\bin\Debug\net8.0\AsyncProgramming_Example1.pdb
+C:\vs code\C#\AsyncProgramming_Example1\AsyncProgramming_Example1\obj\Debug\net8.0\AsyncProgramming_Example1.dll
+C:\vs code\C#\AsyncProgramming_Example1\AsyncProgramming_Example1\obj\Debug\net8.0\refint\AsyncProgramming_Example1.dll
+C:\vs code\C#\AsyncProgramming_Example1\AsyncProgramming_Example1\obj\Debug\net8.0\AsyncProgramming_Example1.pdb
+C:\vs code\C#\AsyncProgramming_Example1\AsyncProgramming_Example1\obj\Debug\net8.0\AsyncProgramming_Example1.genruntimeconfig.cache
+C:\vs code\C#\AsyncProgramming_Example1\AsyncProgramming_Example1\obj\Debug\net8.0\ref\AsyncProgramming_Example1.dll

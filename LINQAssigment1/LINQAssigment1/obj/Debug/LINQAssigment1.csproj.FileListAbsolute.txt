@@ -1,0 +1,7 @@
+C:\vs code\C#\LINQAssigment1\LINQAssigment1\obj\Debug\LINQAssigment1.csproj.AssemblyReference.cache
+C:\vs code\C#\LINQAssigment1\LINQAssigment1\obj\Debug\LINQAssigment1.csproj.CoreCompileInputs.cache
+C:\vs code\C#\LINQAssigment1\LINQAssigment1\bin\Debug\LINQAssigment1.exe.config
+C:\vs code\C#\LINQAssigment1\LINQAssigment1\bin\Debug\LINQAssigment1.exe
+C:\vs code\C#\LINQAssigment1\LINQAssigment1\bin\Debug\LINQAssigment1.pdb
+C:\vs code\C#\LINQAssigment1\LINQAssigment1\obj\Debug\LINQAssigment1.exe
+C:\vs code\C#\LINQAssigment1\LINQAssigment1\obj\Debug\LINQAssigment1.pdb

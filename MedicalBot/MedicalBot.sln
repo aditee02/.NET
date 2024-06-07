@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedicalBot", "MedicalBot\MedicalBot.csproj", "{695942CE-8EB9-415E-8AF4-D715AFAF4816}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{695942CE-8EB9-415E-8AF4-D715AFAF4816}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{695942CE-8EB9-415E-8AF4-D715AFAF4816}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{695942CE-8EB9-415E-8AF4-D715AFAF4816}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{695942CE-8EB9-415E-8AF4-D715AFAF4816}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35B0CB4A-CA04-45EB-A126-12EA57390264}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\vs code\\C#\\ICompararerExample2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CA557D3-1F75-47FE-A174-D4FF918AAA41}|ICompararerExample2\\ICompararerExample2.csproj|c:\\vs code\\c#\\icompararerexample2\\icompararerexample2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CA557D3-1F75-47FE-A174-D4FF918AAA41}|ICompararerExample2\\ICompararerExample2.csproj|solutionrelative:icompararerexample2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 289,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\vs code\\C#\\ICompararerExample2\\ICompararerExample2\\Program.cs",
+              "RelativeDocumentMoniker": "ICompararerExample2\\Program.cs",
+              "ToolTip": "C:\\vs code\\C#\\ICompararerExample2\\ICompararerExample2\\Program.cs",
+              "RelativeToolTip": "ICompararerExample2\\Program.cs",
+              "ViewState": "AQIAACIAAABAl5mZmZkqwBcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T09:18:22.371Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

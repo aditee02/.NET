@@ -1,0 +1,10 @@
+C:\vs code\C#\ImplicitlyTypedVariablesExamples\ImplicitlyTypedVariablesExamples\obj\Debug\ImplicitlyTypedVariablesExamples.csproj.AssemblyReference.cache
+C:\vs code\C#\ImplicitlyTypedVariablesExamples\ImplicitlyTypedVariablesExamples\obj\Debug\ImplicitlyTypedVariablesExamples.csproj.CoreCompileInputs.cache
+C:\vs code\C#\ImplicitlyTypedVariablesExamples\ImplicitlyTypedVariablesExamples\bin\Debug\ImplicitlyTypedVariablesExamples.exe.config
+C:\vs code\C#\ImplicitlyTypedVariablesExamples\ImplicitlyTypedVariablesExamples\bin\Debug\ImplicitlyTypedVariablesExamples.exe
+C:\vs code\C#\ImplicitlyTypedVariablesExamples\ImplicitlyTypedVariablesExamples\bin\Debug\ImplicitlyTypedVariablesExamples.pdb
+C:\vs code\C#\ImplicitlyTypedVariablesExamples\ImplicitlyTypedVariablesExamples\bin\Debug\ClassLibrary1.dll
+C:\vs code\C#\ImplicitlyTypedVariablesExamples\ImplicitlyTypedVariablesExamples\bin\Debug\ClassLibrary1.pdb
+C:\vs code\C#\ImplicitlyTypedVariablesExamples\ImplicitlyTypedVariablesExamples\obj\Debug\Implicit.8CAD1360.Up2Date
+C:\vs code\C#\ImplicitlyTypedVariablesExamples\ImplicitlyTypedVariablesExamples\obj\Debug\ImplicitlyTypedVariablesExamples.exe
+C:\vs code\C#\ImplicitlyTypedVariablesExamples\ImplicitlyTypedVariablesExamples\obj\Debug\ImplicitlyTypedVariablesExamples.pdb

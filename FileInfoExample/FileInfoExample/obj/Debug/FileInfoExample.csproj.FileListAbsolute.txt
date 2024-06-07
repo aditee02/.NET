@@ -1,0 +1,7 @@
+C:\vs code\C#\FileInfoExample\FileInfoExample\bin\Debug\FileInfoExample.exe.config
+C:\vs code\C#\FileInfoExample\FileInfoExample\bin\Debug\FileInfoExample.exe
+C:\vs code\C#\FileInfoExample\FileInfoExample\bin\Debug\FileInfoExample.pdb
+C:\vs code\C#\FileInfoExample\FileInfoExample\obj\Debug\FileInfoExample.csproj.AssemblyReference.cache
+C:\vs code\C#\FileInfoExample\FileInfoExample\obj\Debug\FileInfoExample.csproj.CoreCompileInputs.cache
+C:\vs code\C#\FileInfoExample\FileInfoExample\obj\Debug\FileInfoExample.exe
+C:\vs code\C#\FileInfoExample\FileInfoExample\obj\Debug\FileInfoExample.pdb

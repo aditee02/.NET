@@ -1,0 +1,15 @@
+C:\vs code\C#\BasicTasks\BasicTasks\bin\Debug\net8.0\BasicTasks.exe
+C:\vs code\C#\BasicTasks\BasicTasks\bin\Debug\net8.0\BasicTasks.deps.json
+C:\vs code\C#\BasicTasks\BasicTasks\bin\Debug\net8.0\BasicTasks.runtimeconfig.json
+C:\vs code\C#\BasicTasks\BasicTasks\bin\Debug\net8.0\BasicTasks.dll
+C:\vs code\C#\BasicTasks\BasicTasks\bin\Debug\net8.0\BasicTasks.pdb
+C:\vs code\C#\BasicTasks\BasicTasks\obj\Debug\net8.0\BasicTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\vs code\C#\BasicTasks\BasicTasks\obj\Debug\net8.0\BasicTasks.AssemblyInfoInputs.cache
+C:\vs code\C#\BasicTasks\BasicTasks\obj\Debug\net8.0\BasicTasks.AssemblyInfo.cs
+C:\vs code\C#\BasicTasks\BasicTasks\obj\Debug\net8.0\BasicTasks.csproj.CoreCompileInputs.cache
+C:\vs code\C#\BasicTasks\BasicTasks\obj\Debug\net8.0\BasicTasks.sourcelink.json
+C:\vs code\C#\BasicTasks\BasicTasks\obj\Debug\net8.0\BasicTasks.dll
+C:\vs code\C#\BasicTasks\BasicTasks\obj\Debug\net8.0\refint\BasicTasks.dll
+C:\vs code\C#\BasicTasks\BasicTasks\obj\Debug\net8.0\BasicTasks.pdb
+C:\vs code\C#\BasicTasks\BasicTasks\obj\Debug\net8.0\BasicTasks.genruntimeconfig.cache
+C:\vs code\C#\BasicTasks\BasicTasks\obj\Debug\net8.0\ref\BasicTasks.dll

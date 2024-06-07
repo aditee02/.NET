@@ -1,0 +1,7 @@
+C:\vs code\C#\DriveInfoExample\DriveInfoExample\bin\Debug\DriveInfoExample.exe.config
+C:\vs code\C#\DriveInfoExample\DriveInfoExample\bin\Debug\DriveInfoExample.exe
+C:\vs code\C#\DriveInfoExample\DriveInfoExample\bin\Debug\DriveInfoExample.pdb
+C:\vs code\C#\DriveInfoExample\DriveInfoExample\obj\Debug\DriveInfoExample.csproj.AssemblyReference.cache
+C:\vs code\C#\DriveInfoExample\DriveInfoExample\obj\Debug\DriveInfoExample.csproj.CoreCompileInputs.cache
+C:\vs code\C#\DriveInfoExample\DriveInfoExample\obj\Debug\DriveInfoExample.exe
+C:\vs code\C#\DriveInfoExample\DriveInfoExample\obj\Debug\DriveInfoExample.pdb

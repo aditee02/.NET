@@ -1,0 +1,525 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\VehicalRentalSystem1.bundle.scp.css",
+      "PackagePath": "staticwebassets\\VehicalRentalSystem1.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\Application_Logo.png",
+      "PackagePath": "staticwebassets\\Application_Logo.png"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\Explore_background.jpg",
+      "PackagePath": "staticwebassets\\Explore_background.jpg"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\HomepageBackground.jpg",
+      "PackagePath": "staticwebassets\\HomepageBackground.jpg"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\Login_Photo.jpg",
+      "PackagePath": "staticwebassets\\Login_Photo.jpg"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\Profile_Photo.jpg",
+      "PackagePath": "staticwebassets\\Profile_Photo.jpg"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\Rent&EarnBackground.jpg",
+      "PackagePath": "staticwebassets\\Rent&EarnBackground.jpg"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\UserImages\\533703ed-e6d8-4bdf-8e71-7dc4fe8ef2c2_clickiasg.jpg",
+      "PackagePath": "staticwebassets\\UserImages\\533703ed-e6d8-4bdf-8e71-7dc4fe8ef2c2_clickiasg.jpg"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\UserImages\\BMW.jpg",
+      "PackagePath": "staticwebassets\\UserImages\\BMW.jpg"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\UserImages\\IMG-20240116-WA0011 (1).jpg",
+      "PackagePath": "staticwebassets\\UserImages\\IMG-20240116-WA0011 (1).jpg"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\UserImages\\Photo.png",
+      "PackagePath": "staticwebassets\\UserImages\\Photo.png"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\UserImages\\Profile_Pic.jpg",
+      "PackagePath": "staticwebassets\\UserImages\\Profile_Pic.jpg"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\UserImages\\c8b89f34-e4a8-42f2-bd2c-3cf7cc268a67_logo.jpg",
+      "PackagePath": "staticwebassets\\UserImages\\c8b89f34-e4a8-42f2-bd2c-3cf7cc268a67_logo.jpg"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\UserImages\\clickiasg.jpg",
+      "PackagePath": "staticwebassets\\UserImages\\clickiasg.jpg"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\UserImages\\logo.jpg",
+      "PackagePath": "staticwebassets\\UserImages\\logo.jpg"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\VehicalImages\\BMW.jpg",
+      "PackagePath": "staticwebassets\\VehicalImages\\BMW.jpg"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\VehicalImages\\Bhugati.jpg",
+      "PackagePath": "staticwebassets\\VehicalImages\\Bhugati.jpg"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\VehicalImages\\activa.jpg",
+      "PackagePath": "staticwebassets\\VehicalImages\\activa.jpg"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\VehicalImages\\background.jpg",
+      "PackagePath": "staticwebassets\\VehicalImages\\background.jpg"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\VehicalImages\\ferrari.jpg",
+      "PackagePath": "staticwebassets\\VehicalImages\\ferrari.jpg"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\VehicalImages\\hero extrem.jpg",
+      "PackagePath": "staticwebassets\\VehicalImages\\hero extrem.jpg"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\VehicalImages\\maruti.jpg",
+      "PackagePath": "staticwebassets\\VehicalImages\\maruti.jpg"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\VehicalImages\\nano.jpg",
+      "PackagePath": "staticwebassets\\VehicalImages\\nano.jpg"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\VehicalImages\\scooty pep.jpg",
+      "PackagePath": "staticwebassets\\VehicalImages\\scooty pep.jpg"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\VehicalImages\\splendor.jpg",
+      "PackagePath": "staticwebassets\\VehicalImages\\splendor.jpg"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\VehicalImages\\vespa.jpg",
+      "PackagePath": "staticwebassets\\VehicalImages\\vespa.jpg"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\background.jpg",
+      "PackagePath": "staticwebassets\\background.jpg"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\best-car-rental-app-banner.png",
+      "PackagePath": "staticwebassets\\best-car-rental-app-banner.png"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\bk.jpg",
+      "PackagePath": "staticwebassets\\bk.jpg"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\booking_background.png",
+      "PackagePath": "staticwebassets\\booking_background.png"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\loginBackgroud.jpg",
+      "PackagePath": "staticwebassets\\loginBackgroud.jpg"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\pdfs\\Booking_00000000-0000-0000-0000-000000000000.pdf",
+      "PackagePath": "staticwebassets\\pdfs\\Booking_00000000-0000-0000-0000-000000000000.pdf"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\pdfs\\Booking_146ca719-86b1-49aa-8de8-13e47282f1e3.pdf",
+      "PackagePath": "staticwebassets\\pdfs\\Booking_146ca719-86b1-49aa-8de8-13e47282f1e3.pdf"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\pdfs\\Booking_1b1bf136-4218-4efa-b6a1-733e463aecbd.pdf",
+      "PackagePath": "staticwebassets\\pdfs\\Booking_1b1bf136-4218-4efa-b6a1-733e463aecbd.pdf"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\pdfs\\Booking_21a24ad9-2da7-45b2-a1ab-d32c829eb2b1.pdf",
+      "PackagePath": "staticwebassets\\pdfs\\Booking_21a24ad9-2da7-45b2-a1ab-d32c829eb2b1.pdf"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\pdfs\\Booking_25174768-8117-40ac-ba70-05533f5a1aba.pdf",
+      "PackagePath": "staticwebassets\\pdfs\\Booking_25174768-8117-40ac-ba70-05533f5a1aba.pdf"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\pdfs\\Booking_300fc634-f47e-41d7-8287-d538ab9c36ca.pdf",
+      "PackagePath": "staticwebassets\\pdfs\\Booking_300fc634-f47e-41d7-8287-d538ab9c36ca.pdf"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\pdfs\\Booking_36121ee0-c093-491a-93a9-15fc2366e658.pdf",
+      "PackagePath": "staticwebassets\\pdfs\\Booking_36121ee0-c093-491a-93a9-15fc2366e658.pdf"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\pdfs\\Booking_36e287b3-d550-423c-97e3-34d8b970c9cf.pdf",
+      "PackagePath": "staticwebassets\\pdfs\\Booking_36e287b3-d550-423c-97e3-34d8b970c9cf.pdf"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\pdfs\\Booking_455af919-b30e-4fd4-b0a8-3c6f54fb6430.pdf",
+      "PackagePath": "staticwebassets\\pdfs\\Booking_455af919-b30e-4fd4-b0a8-3c6f54fb6430.pdf"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\pdfs\\Booking_4d328655-db81-4d72-ba86-fae858496c9a.pdf",
+      "PackagePath": "staticwebassets\\pdfs\\Booking_4d328655-db81-4d72-ba86-fae858496c9a.pdf"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\pdfs\\Booking_4fd01bfd-c2dc-4b89-a2de-8492080d6362.pdf",
+      "PackagePath": "staticwebassets\\pdfs\\Booking_4fd01bfd-c2dc-4b89-a2de-8492080d6362.pdf"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\pdfs\\Booking_502d495d-d65e-444f-9214-3af6b1a19ecf.pdf",
+      "PackagePath": "staticwebassets\\pdfs\\Booking_502d495d-d65e-444f-9214-3af6b1a19ecf.pdf"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\pdfs\\Booking_5b219193-60b2-4491-8b15-2f2396dfc649.pdf",
+      "PackagePath": "staticwebassets\\pdfs\\Booking_5b219193-60b2-4491-8b15-2f2396dfc649.pdf"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\pdfs\\Booking_603cf99f-799e-435b-b913-422e19bf88c2.pdf",
+      "PackagePath": "staticwebassets\\pdfs\\Booking_603cf99f-799e-435b-b913-422e19bf88c2.pdf"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\pdfs\\Booking_6964dd7b-064c-4dbf-a890-affcdf28de8c.pdf",
+      "PackagePath": "staticwebassets\\pdfs\\Booking_6964dd7b-064c-4dbf-a890-affcdf28de8c.pdf"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\pdfs\\Booking_6b7b7a07-98ab-4569-9d65-3b296f81a67e.pdf",
+      "PackagePath": "staticwebassets\\pdfs\\Booking_6b7b7a07-98ab-4569-9d65-3b296f81a67e.pdf"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\pdfs\\Booking_6ef4956f-1acf-4ef4-b67c-07e4c4692109.pdf",
+      "PackagePath": "staticwebassets\\pdfs\\Booking_6ef4956f-1acf-4ef4-b67c-07e4c4692109.pdf"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\pdfs\\Booking_7e3d997b-d6fe-497a-ae23-f251caf072d0.pdf",
+      "PackagePath": "staticwebassets\\pdfs\\Booking_7e3d997b-d6fe-497a-ae23-f251caf072d0.pdf"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\pdfs\\Booking_82a7a3f3-c0d6-4a07-871d-7295cf9efbc9.pdf",
+      "PackagePath": "staticwebassets\\pdfs\\Booking_82a7a3f3-c0d6-4a07-871d-7295cf9efbc9.pdf"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\pdfs\\Booking_932424f9-2fe2-4e72-bd28-b7b89142a1c0.pdf",
+      "PackagePath": "staticwebassets\\pdfs\\Booking_932424f9-2fe2-4e72-bd28-b7b89142a1c0.pdf"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\pdfs\\Booking_9d28be46-0452-4f5b-9e5f-095aff5b3dc7.pdf",
+      "PackagePath": "staticwebassets\\pdfs\\Booking_9d28be46-0452-4f5b-9e5f-095aff5b3dc7.pdf"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\pdfs\\Booking_9fd59fe5-938f-425b-b7ca-40311500f150.pdf",
+      "PackagePath": "staticwebassets\\pdfs\\Booking_9fd59fe5-938f-425b-b7ca-40311500f150.pdf"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\pdfs\\Booking_a4201450-cb81-4b0c-93aa-9e7d8691a542.pdf",
+      "PackagePath": "staticwebassets\\pdfs\\Booking_a4201450-cb81-4b0c-93aa-9e7d8691a542.pdf"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\pdfs\\Booking_afb28820-f5e7-4445-bf4d-f28402289a60.pdf",
+      "PackagePath": "staticwebassets\\pdfs\\Booking_afb28820-f5e7-4445-bf4d-f28402289a60.pdf"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\pdfs\\Booking_b1623a6b-07b5-4b0f-8735-b03230ec2e0a.pdf",
+      "PackagePath": "staticwebassets\\pdfs\\Booking_b1623a6b-07b5-4b0f-8735-b03230ec2e0a.pdf"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\pdfs\\Booking_b6d14ee3-f5cb-4600-a9d8-6b7cc24c3efc.pdf",
+      "PackagePath": "staticwebassets\\pdfs\\Booking_b6d14ee3-f5cb-4600-a9d8-6b7cc24c3efc.pdf"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\pdfs\\Booking_c4abce81-a380-40e3-beae-e1e5393624ba.pdf",
+      "PackagePath": "staticwebassets\\pdfs\\Booking_c4abce81-a380-40e3-beae-e1e5393624ba.pdf"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\pdfs\\Booking_ca716e40-3b27-4086-a9fd-478e185b7c37.pdf",
+      "PackagePath": "staticwebassets\\pdfs\\Booking_ca716e40-3b27-4086-a9fd-478e185b7c37.pdf"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\pdfs\\Booking_cdfe04ee-e24d-411a-a860-68d5d7f3d583.pdf",
+      "PackagePath": "staticwebassets\\pdfs\\Booking_cdfe04ee-e24d-411a-a860-68d5d7f3d583.pdf"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\pdfs\\Booking_cffeece5-1188-402a-9c6c-91bdb5484cff.pdf",
+      "PackagePath": "staticwebassets\\pdfs\\Booking_cffeece5-1188-402a-9c6c-91bdb5484cff.pdf"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\pdfs\\Booking_d8c8365a-9dcd-457a-9b6f-b67e87591ac2.pdf",
+      "PackagePath": "staticwebassets\\pdfs\\Booking_d8c8365a-9dcd-457a-9b6f-b67e87591ac2.pdf"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\pdfs\\Booking_df66ecbd-7f52-4963-af21-555bef5217f3.pdf",
+      "PackagePath": "staticwebassets\\pdfs\\Booking_df66ecbd-7f52-4963-af21-555bef5217f3.pdf"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\pdfs\\Booking_e40e9669-6846-4b57-81e3-3989e5adf822.pdf",
+      "PackagePath": "staticwebassets\\pdfs\\Booking_e40e9669-6846-4b57-81e3-3989e5adf822.pdf"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\pdfs\\Booking_e6bb178e-27dd-444f-8b5d-dacdc5a2c5d0.pdf",
+      "PackagePath": "staticwebassets\\pdfs\\Booking_e6bb178e-27dd-444f-8b5d-dacdc5a2c5d0.pdf"
+    },
+    {
+      "Id": "C:\\vs code\\C#\\VehicalRentalSystem1\\VehicalRentalSystem1\\wwwroot\\registerBackground.avif",
+      "PackagePath": "staticwebassets\\registerBackground.avif"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.VehicalRentalSystem1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.VehicalRentalSystem1.props",
+      "PackagePath": "build\\VehicalRentalSystem1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.VehicalRentalSystem1.props",
+      "PackagePath": "buildMultiTargeting\\VehicalRentalSystem1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.VehicalRentalSystem1.props",
+      "PackagePath": "buildTransitive\\VehicalRentalSystem1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

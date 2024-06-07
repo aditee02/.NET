@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\vs code\\C#\\StudentAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD7DEFA-482C-4D95-AEED-588110376D90}|StudentAPI\\StudentAPI.csproj|c:\\vs code\\c#\\studentapi\\studentapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD7DEFA-482C-4D95-AEED-588110376D90}|StudentAPI\\StudentAPI.csproj|solutionrelative:studentapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD7DEFA-482C-4D95-AEED-588110376D90}|StudentAPI\\StudentAPI.csproj|c:\\vs code\\c#\\studentapi\\studentapi\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD7DEFA-482C-4D95-AEED-588110376D90}|StudentAPI\\StudentAPI.csproj|solutionrelative:studentapi\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD7DEFA-482C-4D95-AEED-588110376D90}|StudentAPI\\StudentAPI.csproj|c:\\vs code\\c#\\studentapi\\studentapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8CD7DEFA-482C-4D95-AEED-588110376D90}|StudentAPI\\StudentAPI.csproj|solutionrelative:studentapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD7DEFA-482C-4D95-AEED-588110376D90}|StudentAPI\\StudentAPI.csproj|c:\\vs code\\c#\\studentapi\\studentapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD7DEFA-482C-4D95-AEED-588110376D90}|StudentAPI\\StudentAPI.csproj|solutionrelative:studentapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD7DEFA-482C-4D95-AEED-588110376D90}|StudentAPI\\StudentAPI.csproj|c:\\vs code\\c#\\studentapi\\studentapi\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD7DEFA-482C-4D95-AEED-588110376D90}|StudentAPI\\StudentAPI.csproj|solutionrelative:studentapi\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 361,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\vs code\\C#\\StudentAPI\\StudentAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentAPI\\appsettings.json",
+              "ToolTip": "C:\\vs code\\C#\\StudentAPI\\StudentAPI\\appsettings.json",
+              "RelativeToolTip": "StudentAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-03T04:41:06.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\vs code\\C#\\StudentAPI\\StudentAPI\\ValuesController.cs",
+              "RelativeDocumentMoniker": "StudentAPI\\ValuesController.cs",
+              "ToolTip": "C:\\vs code\\C#\\StudentAPI\\StudentAPI\\ValuesController.cs",
+              "RelativeToolTip": "StudentAPI\\ValuesController.cs",
+              "ViewState": "AQIAAAAAAABAMzMzMzMrwAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T10:23:35.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\vs code\\C#\\StudentAPI\\StudentAPI\\Student.cs",
+              "RelativeDocumentMoniker": "StudentAPI\\Student.cs",
+              "ToolTip": "C:\\vs code\\C#\\StudentAPI\\StudentAPI\\Student.cs",
+              "RelativeToolTip": "StudentAPI\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T06:09:32.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\vs code\\C#\\StudentAPI\\StudentAPI\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudentAPI\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\vs code\\C#\\StudentAPI\\StudentAPI\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StudentAPI\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAACoAAAAAwszMzMz8vxkAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T06:08:01.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\vs code\\C#\\StudentAPI\\StudentAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "StudentAPI\\WeatherForecast.cs",
+              "ToolTip": "C:\\vs code\\C#\\StudentAPI\\StudentAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "StudentAPI\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T06:00:27.036Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

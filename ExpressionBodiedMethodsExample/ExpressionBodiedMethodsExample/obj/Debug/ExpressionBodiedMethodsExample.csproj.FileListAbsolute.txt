@@ -1,0 +1,10 @@
+C:\vs code\C#\ExpressionBodiedMethodsExample\ExpressionBodiedMethodsExample\bin\Debug\ExpressionBodiedMethodsExample.exe.config
+C:\vs code\C#\ExpressionBodiedMethodsExample\ExpressionBodiedMethodsExample\bin\Debug\ExpressionBodiedMethodsExample.exe
+C:\vs code\C#\ExpressionBodiedMethodsExample\ExpressionBodiedMethodsExample\bin\Debug\ExpressionBodiedMethodsExample.pdb
+C:\vs code\C#\ExpressionBodiedMethodsExample\ExpressionBodiedMethodsExample\bin\Debug\ClassLibrary1.dll
+C:\vs code\C#\ExpressionBodiedMethodsExample\ExpressionBodiedMethodsExample\bin\Debug\ClassLibrary1.pdb
+C:\vs code\C#\ExpressionBodiedMethodsExample\ExpressionBodiedMethodsExample\obj\Debug\ExpressionBodiedMethodsExample.csproj.AssemblyReference.cache
+C:\vs code\C#\ExpressionBodiedMethodsExample\ExpressionBodiedMethodsExample\obj\Debug\ExpressionBodiedMethodsExample.csproj.CoreCompileInputs.cache
+C:\vs code\C#\ExpressionBodiedMethodsExample\ExpressionBodiedMethodsExample\obj\Debug\Expressi.6C53BCB6.Up2Date
+C:\vs code\C#\ExpressionBodiedMethodsExample\ExpressionBodiedMethodsExample\obj\Debug\ExpressionBodiedMethodsExample.exe
+C:\vs code\C#\ExpressionBodiedMethodsExample\ExpressionBodiedMethodsExample\obj\Debug\ExpressionBodiedMethodsExample.pdb

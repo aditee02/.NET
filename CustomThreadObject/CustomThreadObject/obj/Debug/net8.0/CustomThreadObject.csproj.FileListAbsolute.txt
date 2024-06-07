@@ -1,0 +1,15 @@
+C:\vs code\C#\CustomThreadObject\CustomThreadObject\bin\Debug\net8.0\CustomThreadObject.exe
+C:\vs code\C#\CustomThreadObject\CustomThreadObject\bin\Debug\net8.0\CustomThreadObject.deps.json
+C:\vs code\C#\CustomThreadObject\CustomThreadObject\bin\Debug\net8.0\CustomThreadObject.runtimeconfig.json
+C:\vs code\C#\CustomThreadObject\CustomThreadObject\bin\Debug\net8.0\CustomThreadObject.dll
+C:\vs code\C#\CustomThreadObject\CustomThreadObject\bin\Debug\net8.0\CustomThreadObject.pdb
+C:\vs code\C#\CustomThreadObject\CustomThreadObject\obj\Debug\net8.0\CustomThreadObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\vs code\C#\CustomThreadObject\CustomThreadObject\obj\Debug\net8.0\CustomThreadObject.AssemblyInfoInputs.cache
+C:\vs code\C#\CustomThreadObject\CustomThreadObject\obj\Debug\net8.0\CustomThreadObject.AssemblyInfo.cs
+C:\vs code\C#\CustomThreadObject\CustomThreadObject\obj\Debug\net8.0\CustomThreadObject.csproj.CoreCompileInputs.cache
+C:\vs code\C#\CustomThreadObject\CustomThreadObject\obj\Debug\net8.0\CustomThreadObject.sourcelink.json
+C:\vs code\C#\CustomThreadObject\CustomThreadObject\obj\Debug\net8.0\CustomThreadObject.dll
+C:\vs code\C#\CustomThreadObject\CustomThreadObject\obj\Debug\net8.0\refint\CustomThreadObject.dll
+C:\vs code\C#\CustomThreadObject\CustomThreadObject\obj\Debug\net8.0\CustomThreadObject.pdb
+C:\vs code\C#\CustomThreadObject\CustomThreadObject\obj\Debug\net8.0\CustomThreadObject.genruntimeconfig.cache
+C:\vs code\C#\CustomThreadObject\CustomThreadObject\obj\Debug\net8.0\ref\CustomThreadObject.dll

@@ -1,0 +1,7 @@
+C:\vs code\C#\IListExample\IListExample\bin\Debug\IListExample.exe.config
+C:\vs code\C#\IListExample\IListExample\bin\Debug\IListExample.exe
+C:\vs code\C#\IListExample\IListExample\bin\Debug\IListExample.pdb
+C:\vs code\C#\IListExample\IListExample\obj\Debug\IListExample.csproj.AssemblyReference.cache
+C:\vs code\C#\IListExample\IListExample\obj\Debug\IListExample.csproj.CoreCompileInputs.cache
+C:\vs code\C#\IListExample\IListExample\obj\Debug\IListExample.exe
+C:\vs code\C#\IListExample\IListExample\obj\Debug\IListExample.pdb

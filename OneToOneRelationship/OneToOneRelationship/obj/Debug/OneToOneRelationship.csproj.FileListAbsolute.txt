@@ -1,0 +1,10 @@
+C:\vs code\C#\OneToOneRelationship\OneToOneRelationship\obj\Debug\OneToOneRelationship.csproj.AssemblyReference.cache
+C:\vs code\C#\OneToOneRelationship\OneToOneRelationship\obj\Debug\OneToOneRelationship.csproj.CoreCompileInputs.cache
+C:\vs code\C#\OneToOneRelationship\OneToOneRelationship\bin\Debug\OneToOneRelationship.exe.config
+C:\vs code\C#\OneToOneRelationship\OneToOneRelationship\bin\Debug\OneToOneRelationship.exe
+C:\vs code\C#\OneToOneRelationship\OneToOneRelationship\bin\Debug\OneToOneRelationship.pdb
+C:\vs code\C#\OneToOneRelationship\OneToOneRelationship\bin\Debug\ClassLibrary1.dll
+C:\vs code\C#\OneToOneRelationship\OneToOneRelationship\bin\Debug\ClassLibrary1.pdb
+C:\vs code\C#\OneToOneRelationship\OneToOneRelationship\obj\Debug\OneToOne.3A503E2D.Up2Date
+C:\vs code\C#\OneToOneRelationship\OneToOneRelationship\obj\Debug\OneToOneRelationship.exe
+C:\vs code\C#\OneToOneRelationship\OneToOneRelationship\obj\Debug\OneToOneRelationship.pdb

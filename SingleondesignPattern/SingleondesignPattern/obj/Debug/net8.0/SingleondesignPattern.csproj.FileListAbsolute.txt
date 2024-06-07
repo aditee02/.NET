@@ -1,0 +1,15 @@
+C:\vs code\C#\SingleondesignPattern\SingleondesignPattern\bin\Debug\net8.0\SingleondesignPattern.exe
+C:\vs code\C#\SingleondesignPattern\SingleondesignPattern\bin\Debug\net8.0\SingleondesignPattern.deps.json
+C:\vs code\C#\SingleondesignPattern\SingleondesignPattern\bin\Debug\net8.0\SingleondesignPattern.runtimeconfig.json
+C:\vs code\C#\SingleondesignPattern\SingleondesignPattern\bin\Debug\net8.0\SingleondesignPattern.dll
+C:\vs code\C#\SingleondesignPattern\SingleondesignPattern\bin\Debug\net8.0\SingleondesignPattern.pdb
+C:\vs code\C#\SingleondesignPattern\SingleondesignPattern\obj\Debug\net8.0\SingleondesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\vs code\C#\SingleondesignPattern\SingleondesignPattern\obj\Debug\net8.0\SingleondesignPattern.AssemblyInfoInputs.cache
+C:\vs code\C#\SingleondesignPattern\SingleondesignPattern\obj\Debug\net8.0\SingleondesignPattern.AssemblyInfo.cs
+C:\vs code\C#\SingleondesignPattern\SingleondesignPattern\obj\Debug\net8.0\SingleondesignPattern.csproj.CoreCompileInputs.cache
+C:\vs code\C#\SingleondesignPattern\SingleondesignPattern\obj\Debug\net8.0\SingleondesignPattern.sourcelink.json
+C:\vs code\C#\SingleondesignPattern\SingleondesignPattern\obj\Debug\net8.0\SingleondesignPattern.dll
+C:\vs code\C#\SingleondesignPattern\SingleondesignPattern\obj\Debug\net8.0\refint\SingleondesignPattern.dll
+C:\vs code\C#\SingleondesignPattern\SingleondesignPattern\obj\Debug\net8.0\SingleondesignPattern.pdb
+C:\vs code\C#\SingleondesignPattern\SingleondesignPattern\obj\Debug\net8.0\SingleondesignPattern.genruntimeconfig.cache
+C:\vs code\C#\SingleondesignPattern\SingleondesignPattern\obj\Debug\net8.0\ref\SingleondesignPattern.dll
